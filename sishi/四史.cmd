@@ -1,0 +1,1 @@
+python D:\sishi\fuck.py

@@ -1,0 +1,4532 @@
+{
+  "log_id": 4982666797977678471,
+  "text": "有幸于9.25参加了首映，惊喜于近3h的电影，没想到影评写了3天，越写细节越清晰、动容越深密。从影院出来有种恍如隔世的感觉",
+  "items": [
+    {
+      "positive_prob": 0.999962,
+      "confidence": 0.999916,
+      "negative_prob": 3.76836e-05,
+      "sentiment": 2
+    }
+  ]
+}{
+  "log_id": 4786544822522527591,
+  "text": "中国人，总是被他们之中最勇敢的人保护得很好",
+  "items": [
+    {
+      "positive_prob": 0.998843,
+      "confidence": 0.997429,
+      "negative_prob": 0.00115688,
+      "sentiment": 2
+    }
+  ]
+}{
+  "log_id": 5429590236155912743,
+  "text": "徐峥说看完这样的电影就觉得语言特别的苍白无力",
+  "items": [
+    {
+      "positive_prob": 0.318148,
+      "confidence": 0.293005,
+      "negative_prob": 0.681852,
+      "sentiment": 0
+    }
+  ]
+}{
+  "log_id": 5425307204378836487,
+  "text": "出来看着熙熙攘攘的人群，热热闹闹的商场，老人们安逸的牌局，想说声谢谢但也太轻了",
+  "items": [
+    {
+      "positive_prob": 0.8646,
+      "confidence": 0.699111,
+      "negative_prob": 0.1354,
+      "sentiment": 2
+    }
+  ]
+}{
+  "error_code": 18,
+  "error_msg": "Open api qps request limit reached"
+}{
+  "error_code": 18,
+  "error_msg": "Open api qps request limit reached"
+}{
+  "log_id": 4616914523371645543,
+  "text": "（记者后来去找爷爷战友的名字，纪念碑上是有他的名字的，只是因为人太多字太小爷爷没有找到。但彼时的爷爷已经走了。）",
+  "items": [
+    {
+      "positive_prob": 0.939527,
+      "confidence": 0.865616,
+      "negative_prob": 0.0604729,
+      "sentiment": 2
+    }
+  ]
+}{
+  "log_id": 6123644755474889831,
+  "text": "回家的路上，看着满街的五星红旗，心里软软烂烂的，小时候老师说那是烈士的鲜血染红的，如今我还是愿意相信。在药店要了一面小旗拿回家，慢慢从电影中缓过来。如今山河已无恙，希望你们能看到。",
+  "items": [
+    {
+      "positive_prob": 0.992837,
+      "confidence": 0.984081,
+      "negative_prob": 0.00716338,
+      "sentiment": 2
+    }
+  ]
+}{
+  "log_id": 4127918583636033511,
+  "text": "关于电影本身的记忆点太多了，反正不愧对票钱。",
+  "items": [
+    {
+      "positive_prob": 0.93272,
+      "confidence": 0.850489,
+      "negative_prob": 0.0672798,
+      "sentiment": 2
+    }
+  ]
+}{
+  "error_code": 18,
+  "error_msg": "Open api qps request limit reached"
+}{
+  "error_code": 18,
+  "error_msg": "Open api qps request limit reached"
+}{
+  "error_code": 18,
+  "error_msg": "Open api qps request limit reached"
+}{
+  "log_id": 9026676247503477639,
+  "text": "异国极寒，千里冰封，万里雪飘。《长津湖》做出了大规模立体化战争的视效盛宴，尺度之大，战争场面之真实，给予了极高的代入感！176分钟的时长虽长，但绝对值得！战争有着铁一样的法则，我们在消耗中忍耐，看到片中零下40度的极端天气却只穿着单衣的志愿军战士们，以及美军在撤退途中看见被冻住的志愿军战士，凸显战争的残酷性，他们的奉献牺牲我们永远不能忘记。",
+  "items": [
+    {
+      "positive_prob": 0.999915,
+      "confidence": 0.999812,
+      "negative_prob": 8.48013e-05,
+      "sentiment": 2
+    }
+  ]
+}{
+  "log_id": 3831257143584023239,
+  "error_code": 282134,
+  "error_msg": "input empty"
+}{
+  "error_code": 18,
+  "error_msg": "Open api qps request limit reached"
+}{
+  "log_id": 7289620321753372199,
+  "error_code": 282134,
+  "error_msg": "input empty"
+}{
+  "log_id": 382564289120108743,
+  "text": "陈凯歌的这些镜头，都与后续激烈残酷的战斗场面形成了鲜明的对比，凸显出了志愿军援朝保家卫国的主题，他的镜头真正达到了一种克制的高级感！这部作品值得去看，我们不仅不能忘记这段历史，更应该牢记于心。长津湖主要有几个很大的问题，导致我对这部电影很失望",
+  "items": [
+    {
+      "positive_prob": 0.99508,
+      "confidence": 0.989067,
+      "negative_prob": 0.00491981,
+      "sentiment": 2
+    }
+  ]
+}{
+  "error_code": 18,
+  "error_msg": "Open api qps request limit reached"
+}{
+  "error_code": 18,
+  "error_msg": "Open api qps request limit reached"
+}{
+  "log_id": 6382893834469965127,
+  "text": "3. 长津湖战役的围剿战历时数周，而电影拍起来仿佛只过了一个小时。导演的侧重点让人不能理解。",
+  "items": [
+    {
+      "positive_prob": 0.0762851,
+      "confidence": 0.830478,
+      "negative_prob": 0.923715,
+      "sentiment": 0
+    }
+  ]
+}{
+  "log_id": 3394035353075199495,
+  "text": "4. 为什么有杨根思如此鲜活的历史原型，却要虚构一个伍千里？讲一些虚假的故事？并不理解",
+  "items": [
+    {
+      "positive_prob": 0.000650464,
+      "confidence": 0.998555,
+      "negative_prob": 0.99935,
+      "sentiment": 0
+    }
+  ]
+}{
+  "error_code": 18,
+  "error_msg": "Open api qps request limit reached"
+}{
+  "log_id": 7072985373084643463,
+  "text": "6. 特效，为什么爆炸的特效可以这么烂？为什么？和同类国产片比，烂太多了。",
+  "items": [
+    {
+      "positive_prob": 1.36537e-05,
+      "confidence": 0.99997,
+      "negative_prob": 0.999986,
+      "sentiment": 0
+    }
+  ]
+}{
+  "log_id": 4476758353813521703,
+  "text": "7. 吴京易烊千玺的角色塑造相比来讲，都是小问题了。《长津湖》牛逼！抗美援朝志愿军牛逼！",
+  "items": [
+    {
+      "positive_prob": 0.97922,
+      "confidence": 0.953822,
+      "negative_prob": 0.0207799,
+      "sentiment": 2
+    }
+  ]
+}{
+  "error_code": 18,
+  "error_msg": "Open api qps request limit reached"
+}{
+  "log_id": 4499324470037498823,
+  "text": "看到电影后，顾虑都被打消了。电影时长两小时四十分钟，有波澜壮阔的祖国山河画卷，有江南水乡渔民的生活写照，也有万里长城的俯拍全景，伴随着夕阳余晖映照大地，万里小朋友第一次找到了打仗的意义；凯子哥应该也有发挥浪漫，但很恰如其分，毕竟还有另外两位擅长动作戏的大导，加上《士兵突击》电视剧编剧操刀，全程情节紧凑，作战逻辑清晰，时间线紧凑连贯，节奏拿捏的非常到位，观影过程无拖沓尿点；",
+  "items": [
+    {
+      "positive_prob": 0.999986,
+      "confidence": 0.999969,
+      "negative_prob": 1.39437e-05,
+      "sentiment": 2
+    }
+  ]
+}{
+  "log_id": 7466627653232774503,
+  "text": "战争场面非常震撼，震撼，震撼！美国飞机大炮武器精良，我们志愿军连棉衣都不够，每人一把步枪就要上战场，这他妈怎么打啊？但就是能打，有勇有谋，有血性，也有中国人特有的温良。美国鬼子无差别扫射民屋和尸体，但我们连长却阻止了万里去枪击已中枪的敌人，当时我以为是他想抓俘虏，刚看了别人说，这是中国人与敌人最大的不同。伤兵不杀，尊重生命，战争不是为了杀戮，而是为了和平。",
+  "items": [
+    {
+      "positive_prob": 0.99554,
+      "confidence": 0.99009,
+      "negative_prob": 0.00445965,
+      "sentiment": 2
+    }
+  ]
+}{
+  "error_code": 18,
+  "error_msg": "Open api qps request limit reached"
+}{
+  "error_code": 18,
+  "error_msg": "Open api qps request limit reached"
+}{
+  "log_id": 8221200098502658919,
+  "text": "在电影里，几乎没有看到士兵们在吃食物，而是扛着枪和炮在不停的行走和战斗，在零下四十多度的冰天雪地里一直蹲着保持战斗姿势，只能拿着硌牙的小土豆填肚子，真的太心疼这些英雄了，现在我们半天没有吃东西都饿的肚子咕咕叫，想想那个时候他们没有食物吃还要冲上战场打战是多么痛苦，是怎样难以想象的毅力支撑着他们一直到战斗结束，又是凭借怎样的精神把号称王牌的美国佬打的落花流水，而且他们有世界上最精良的武器，飞机大炮装甲车，而我们的战士就是扛着枪和炸药把这帮可恶的美国佬赶回自己的国家去生蛋。",
+  "items": [
+    {
+      "positive_prob": 0.459015,
+      "confidence": 0.1803,
+      "negative_prob": 0.540985,
+      "sentiment": 1
+    }
+  ]
+}{
+  "log_id": 6067375549032184391,
+  "text": "在看《长津湖》的时候，几乎没有全程都在感慨，如果没有这些战士们的牺牲，真的就没有我们现在的幸福生活，我们现在所处的繁荣盛世真的是英雄们的鲜血换来的，感恩英雄，珍惜现在的美好生活。",
+  "items": [
+    {
+      "positive_prob": 0.998918,
+      "confidence": 0.997595,
+      "negative_prob": 0.00108223,
+      "sentiment": 2
+    }
+  ]
+}{
+  "error_code": 18,
+  "error_msg": "Open api qps request limit reached"
+}{
+  "error_code": 18,
+  "error_msg": "Open api qps request limit reached"
+}{
+  "log_id": 7223061233141809351,
+  "text": "1950年10月19日，中国人民志愿军在司令员兼政治委员彭德怀率领下，跨过鸭绿江，开赴朝鲜战场。这场出征对新中国来说是首次出境作战，但却并非是中国人第一次入朝作战。纵观中国历史，能够基本实现统一的朝代大都会在朝鲜半岛打一仗，但这一次的出境作战却那么地特殊，还是任何中国领导人事前大概都不会想到，新中国刚刚建立便要经受如此严峻的考验。当时的中国军队从未有出境作战的经验，更遑论需要面对的对手是以美国为首的所谓“联合国”军，这几乎意味着要同大半个世界进行战斗!即便如此，中国人民志愿军还是唱着“雄赳赳、气昂昂，跨过鸭绿江”的歌声出发了，虽然在当时人的眼中，这歌声更带有“风萧萧兮易水寒，壮士一去兮不复返”的悲壮。",
+  "items": [
+    {
+      "positive_prob": 0.732148,
+      "confidence": 0.404774,
+      "negative_prob": 0.267852,
+      "sentiment": 2
+    }
+  ]
+}{
+  "log_id": 120335666962996711,
+  "error_code": 282134,
+  "error_msg": "input empty"
+}{
+  "log_id": 4180939071541688391,
+  "text": "长津湖发源于长津江，是朝鲜北部最大的人工蓄水湖。在这里作战的志愿军第九兵团是一支拥有超强战斗力的部队，却在战役准备阶段就遭到了让人难以置信的后勤混乱。从战役准备阶段，到入朝作战都可以说极不充分。",
+  "items": [
+    {
+      "positive_prob": 0.127032,
+      "confidence": 0.717706,
+      "negative_prob": 0.872968,
+      "sentiment": 0
+    }
+  ]
+}{
+  "error_code": 18,
+  "error_msg": "Open api qps request limit reached"
+}{
+  "error_code": 18,
+  "error_msg": "Open api qps request limit reached"
+}{
+  "log_id": 2198227534335861191,
+  "text": "对这场战斗而言，穷究战争的胜负已毫无必要，不论是志愿军在极端劣势的条件下击退美军还是美军陆战1师进行了一场成功地“敦刻尔克大撤退”，这都已经成为了过去，更值得我们深思的是双方军队因为坚定的信仰而表现出的钢铁  电影《长津湖》，还原了抗美援朝的那段激动人心的历史。天地英雄气，千秋尚凛然。从视死如归的杨根思到每个冲锋陷阵的无名战士，从现实中日军剖开杨靖宇腹部所受到的震撼到美国大兵对着已经变成冰雕的英雄敬礼，真正的英雄是为大家谋生路却无惧自己的生死，为民族求复兴却甘愿碧血溅长空。",
+  "items": [
+    {
+      "positive_prob": 0.996032,
+      "confidence": 0.991183,
+      "negative_prob": 0.0039678,
+      "sentiment": 2
+    }
+  ]
+}{
+  "error_code": 18,
+  "error_msg": "Open api qps request limit reached"
+}{
+  "error_code": 18,
+  "error_msg": "Open api qps request limit reached"
+}{
+  "log_id": 5490759959547182151,
+  "error_code": 282134,
+  "error_msg": "input empty"
+}{
+  "log_id": 2661246911296951463,
+  "text": "176分钟，近三个小时的电影，无一人中途离席，或是被文戏里的细腻情感动容，亦是被武戏中的炮火厮杀动情。无论是磅礴大开的场景风景，还是战火连天的战场武场，从导演编剧演员的尽心尽力，到观众票房口碑的连连攀升，《长津湖》无疑是今年国产抗战片的一部绝好电影!",
+  "items": [
+    {
+      "positive_prob": 0.999841,
+      "confidence": 0.999646,
+      "negative_prob": 0.000159106,
+      "sentiment": 2
+    }
+  ]
+}{
+  "error_code": 18,
+  "error_msg": "Open api qps request limit reached"
+}{
+  "log_id": 1224622564632960935,
+  "text": "中国人的爱国之情是刻在骨子里，流淌在血液中，镌刻在DNA的亘古不变的情怀。1949新中国成立，1950抗美援朝，属于我们的土地一块也不能分割，属于我们的人一个也不能丢。",
+  "items": [
+    {
+      "positive_prob": 0.994016,
+      "confidence": 0.986702,
+      "negative_prob": 0.0059842,
+      "sentiment": 2
+    }
+  ]
+}{
+  "log_id": 4856881855794424135,
+  "error_code": 282134,
+  "error_msg": "input empty"
+}{
+  "log_id": 7511383629728094631,
+  "text": "从小就常听长辈说现在的幸福生活来之不易，从曾经的懵懂半知，到现在的切身体会，没有一个国家能再走一次中国的来路，多少的先辈前辈浴血奋战，不畏牺牲，才换来了如今的盛世当前。",
+  "items": [
+    {
+      "positive_prob": 0.999626,
+      "confidence": 0.999169,
+      "negative_prob": 0.000373876,
+      "sentiment": 2
+    }
+  ]
+}{
+  "error_code": 18,
+  "error_msg": "Open api qps request limit reached"
+}{
+  "error_code": 18,
+  "error_msg": "Open api qps request limit reached"
+}{
+  "error_code": 18,
+  "error_msg": "Open api qps request limit reached"
+}{
+  "log_id": 5444228287038658087,
+  "text": "中国人也是无比智慧的，在那样艰苦的环境下，上级谋略有方指导正确，下级同仇敌忾素质过人，才能够在一次次的装备悬殊的战役中屡战屡胜。",
+  "items": [
+    {
+      "positive_prob": 0.982734,
+      "confidence": 0.961632,
+      "negative_prob": 0.0172656,
+      "sentiment": 2
+    }
+  ]
+}{
+  "log_id": 6085431275652330407,
+  "error_code": 282134,
+  "error_msg": "input empty"
+}{
+  "error_code": 18,
+  "error_msg": "Open api qps request limit reached"
+}{
+  "log_id": 8734717070454243527,
+  "text": "林超贤的暴力，徐克的五毛特效，陈凯歌的二流青年文学，用一段壮烈的历史拍了这一部将近三个小时却依旧讲得稀里糊涂的电影。几个导演的影子在里面相当明显，本来还以为会分段叙事，一人一个单元，但估计怕“谁丑谁尴尬”(参照《我和我的祖国》)，索性集各家之长，领功一起，挨骂共扛。那么我开始了。",
+  "items": [
+    {
+      "positive_prob": 0.0115085,
+      "confidence": 0.974425,
+      "negative_prob": 0.988491,
+      "sentiment": 0
+    }
+  ]
+}{
+  "log_id": 6246995230555673767,
+  "text": "首先电影里面既然都用了大量抠图，千里家那一段就不能稍微做旧一些吗，一看就像某个旅游景点。故事一部分着重在四字扮演的万里这个愣头青，从观望战场到参与战场的心理变化历程，本也想通过这个视角讲述战争的残酷。奈何我只看到了这个愣头青各种宛若特约加戏般的场面，且贯穿始终，直到最后都没把这个角色的独特属性讲得明白。不是所有人领了一条漂亮姑娘的红围巾就有了希望，不是所有人带着死去朋友的信物就有了动力，如果以上成立，那么恭喜，这就是一本二流青年文学刊物，而这里更绝，之后全都一带而过，就好像导演忘了。",
+  "items": [
+    {
+      "positive_prob": 0.700933,
+      "confidence": 0.335407,
+      "negative_prob": 0.299067,
+      "sentiment": 2
+    }
+  ]
+}{
+  "error_code": 18,
+  "error_msg": "Open api qps request limit reached"
+}{
+  "log_id": 4254143341659735655,
+  "text": "理论上来说林导大概是最适合此类电影的，雪中木屋那里的打斗就很不错，但很奇怪的的一点是，一个庞大的战场上，镜头总是只局限于一处，固然这场打斗很精彩，我觉得好像漏了什么。而后面删删减减一些特效制作出来的爆炸场面以外，真正拍摄到的战争场景居然只有胡军开车那一段令人有些印象。于是会问，一个长津湖战争你记得了什么？易烊千玺估计投篮很准。是的，很蠢。",
+  "items": [
+    {
+      "positive_prob": 0.457625,
+      "confidence": 0.152506,
+      "negative_prob": 0.542375,
+      "sentiment": 1
+    }
+  ]
+}{
+  "log_id": 4343630325275743271,
+  "text": "最后，在这些莫名其妙的镜头来回切了快三个小时后，那个美国军官对着一堆突然出现的电脑特效烈士一个敬礼，电影就完了。而看之前我曾想象的冰天雪地，寒风凛冽，颤抖的手扣动扳机，冻得紫青的嘴巴拉开手榴弹，战士前仆后继的涌向飞机坦克，全都只在了一堆特效留下的想象里。    看电影、看小说，都不免要把自己置身其间而感其所感，想其所想。志愿军赴朝前夕，宋时轮指挥长官讲了一番话，其中一句话是这样：共产党、毛主席把土地分给人民，有人要抢回去，这个不能答应。记得观影时也在心里喊了句：不能答应。才刚从半殖民地半封建社会的沼泽里爬出来，美国鬼子自己早已经吃香的喝辣的，却还要把人再往沼泽地里推，心地也太狠毒、贪婪了。自然要去打的。",
+  "items": [
+    {
+      "positive_prob": 0.442843,
+      "confidence": 0.0159038,
+      "negative_prob": 0.557157,
+      "sentiment": 0
+    }
+  ]
+}{
+  "error_code": 18,
+  "error_msg": "Open api qps request limit reached"
+}{
+  "error_code": 18,
+  "error_msg": "Open api qps request limit reached"
+}{
+  "log_id": 9042526981956458503,
+  "error_code": 282134,
+  "error_msg": "input empty"
+}{
+  "log_id": 9022883633108837319,
+  "text": "一架架飞机苍蝇似的在头顶上嗡嗡嗡，专门朝人丢炸弹；坦克、装甲车等武器更要叫人艳羡的。志愿军战士不能有那样的富足，却也把这些侵略者打跑了，中国有句古话：石可破也，而不可夺坚。那是即便饿死冻死，也要坚守的意志和决心，是自古便生长在血液里的。只是感觉抗美援朝题材的故事还是太少了，愿作家、编剧们多多写出这样好故事来。在文章的最开始，我想表达一下对《长津湖》的看法。不可否认，《长津湖》是一部质量过关的战争片，在设计，场面，以及人物聚焦这些方面都做的可圈可点。但它却不能让我满意，甚至远低于我的预期，不是说《长津湖》很差，而是我不能接受它只是“还可以”，就像大家不能接受巅峰博尔特拿到奥运会银牌。",
+  "items": [
+    {
+      "positive_prob": 0.219791,
+      "confidence": 0.511576,
+      "negative_prob": 0.780209,
+      "sentiment": 0
+    }
+  ]
+}{
+  "log_id": 7924704156537315335,
+  "error_code": 282134,
+  "error_msg": "input empty"
+}{
+  "error_code": 18,
+  "error_msg": "Open api qps request limit reached"
+}{
+  "error_code": 18,
+  "error_msg": "Open api qps request limit reached"
+}{
+  "error_code": 18,
+  "error_msg": "Open api qps request limit reached"
+}{
+  "log_id": 5740931614458446823,
+  "error_code": 282134,
+  "error_msg": "input empty"
+}{
+  "log_id": 4015412997633913479,
+  "text": "电影大致分为三个部分。前期的文戏，以及中南海的所有戏份，都由陈凯歌导演完成。",
+  "items": [
+    {
+      "positive_prob": 0.990549,
+      "confidence": 0.978997,
+      "negative_prob": 0.00945145,
+      "sentiment": 2
+    }
+  ]
+}{
+  "log_id": 468641200612270951,
+  "error_code": 282134,
+  "error_msg": "input empty"
+}{
+  "log_id": 4051078583226709319,
+  "text": "说实话，我本来是挺担心陈凯歌导演的，因为彼时《我和我的祖国》上映，作为总导演的陈凯歌拍出的章节却是最拉胯的，所以我一直担心陈导又一次拖了献礼片的后腿。不过这次，陈导执导的部分是三个导演里最好的。",
+  "items": [
+    {
+      "positive_prob": 0.824313,
+      "confidence": 0.609584,
+      "negative_prob": 0.175687,
+      "sentiment": 2
+    }
+  ]
+}{
+  "error_code": 18,
+  "error_msg": "Open api qps request limit reached"
+}{
+  "log_id": 8217551499380386503,
+  "text": "中南海的几场戏很见功力，就那么几个场景，也全是文戏，但却把上层之间的博弈拍的很清晰，而且不拖沓，不无聊，把出兵的理由，计划，目标都交代清楚了。",
+  "items": [
+    {
+      "positive_prob": 0.996601,
+      "confidence": 0.992447,
+      "negative_prob": 0.00339871,
+      "sentiment": 2
+    }
+  ]
+}{
+  "log_id": 3671835384927539175,
+  "error_code": 282134,
+  "error_msg": "input empty"
+}{
+  "error_code": 18,
+  "error_msg": "Open api qps request limit reached"
+}{
+  "log_id": 2833436168823053543,
+  "error_code": 282134,
+  "error_msg": "input empty"
+}{
+  "log_id": 4606490538056385351,
+  "text": "前边的几场戏算是备战环节，之后便是入朝。火车站的一场戏拍的可以，简明扼要交代了当时御寒物资不足的情况，为后面的故事埋了伏笔，这也是历史的真实写照。但送围巾的女兵这个角色加的很奇怪，对后续剧情基本无影响，我有理由怀疑这是资方加的一个角色。",
+  "items": [
+    {
+      "positive_prob": 0.192914,
+      "confidence": 0.571302,
+      "negative_prob": 0.807086,
+      "sentiment": 0
+    }
+  ]
+}{
+  "error_code": 18,
+  "error_msg": "Open api qps request limit reached"
+}{
+  "log_id": 7785426915834396039,
+  "text": "另外是轰炸火车和江滩扫射两场戏，作用有些重叠，不外乎表现美军残暴，形势不利，敌我装备悬殊，我觉得完全可以合在一场戏里表现。",
+  "items": [
+    {
+      "positive_prob": 0.829182,
+      "confidence": 0.620405,
+      "negative_prob": 0.170818,
+      "sentiment": 2
+    }
+  ]
+}{
+  "error_code": 18,
+  "error_msg": "Open api qps request limit reached"
+}{
+  "error_code": 18,
+  "error_msg": "Open api qps request limit reached"
+}{
+  "error_code": 18,
+  "error_msg": "Open api qps request limit reached"
+}{
+  "log_id": 5697207632727296487,
+  "text": "第二个部分是炸信号塔，由林超贤执导。第三个部分是电影的主戏，歼灭北极熊团，由徐克执导。因为这两个部分风格比较接近，所以放在一起说。",
+  "items": [
+    {
+      "positive_prob": 0.981962,
+      "confidence": 0.959916,
+      "negative_prob": 0.0180376,
+      "sentiment": 2
+    }
+  ]
+}{
+  "log_id": 8666529616445801511,
+  "error_code": 282134,
+  "error_msg": "input empty"
+}{
+  "log_id": 2585008650768538439,
+  "text": "炸信号塔这场戏是林超贤带着一千多号人，拍了一个多月的夜戏拍出来的，可以说，努力没有白费，论精彩程度，这场炸信号塔的戏无人能出其右，反而把高潮歼灭北极熊团给比下去了。",
+  "items": [
+    {
+      "positive_prob": 0.618158,
+      "confidence": 0.151461,
+      "negative_prob": 0.381842,
+      "sentiment": 2
+    }
+  ]
+}{
+  "log_id": 2568576934358149063,
+  "error_code": 282134,
+  "error_msg": "input empty"
+}{
+  "error_code": 18,
+  "error_msg": "Open api qps request limit reached"
+}{
+  "log_id": 4915511091253523431,
+  "error_code": 282134,
+  "error_msg": "input empty"
+}{
+  "log_id": 4359287030011648135,
+  "text": "炸信号塔一场戏，人数较少，但是更好的体现了志愿军的小范围战术配合。穿插，分割，包围，歼灭。相比之下，打北极熊团的一场戏，就看见火光之下，志愿军战士成群结队往上冲了。志愿军有“人类轻步兵之巅”的称号，这种人海战术，显然不是我们的作战风格。",
+  "items": [
+    {
+      "positive_prob": 0.964304,
+      "confidence": 0.920676,
+      "negative_prob": 0.0356956,
+      "sentiment": 2
+    }
+  ]
+}{
+  "error_code": 18,
+  "error_msg": "Open api qps request limit reached"
+}{
+  "log_id": 5966203329473955687,
+  "text": "而炸塔一战，对于七连一帮主要角色，有出色的群像描写，基本每个主要人物的特点和形象都立起来了。而北极熊团一战，可能是为了照顾大局势，所以对群像的刻画不够，不过却有了雷排长这个角色的出彩，这个角色我到后面再统一说。",
+  "items": [
+    {
+      "positive_prob": 0.982935,
+      "confidence": 0.962079,
+      "negative_prob": 0.0170647,
+      "sentiment": 2
+    }
+  ]
+}{
+  "log_id": 7783597199596307623,
+  "error_code": 282134,
+  "error_msg": "input empty"
+}{
+  "error_code": 18,
+  "error_msg": "Open api qps request limit reached"
+}{
+  "log_id": 8259603608005665511,
+  "error_code": 282134,
+  "error_msg": "input empty"
+}{
+  "log_id": 3742239919401126759,
+  "text": "此外，两场战斗对于寒冷的刻画都不够，在第一次战役和第二次战役期间，由于后勤跟不上，我军因为严寒而减员的情况非常严重，就长津湖战役，我军就有4000名战士被冻死，连装备精良的美军都有几百人。但是电影里对寒冷的描述就只有风大和冻成冰块的土豆了，至于冰雕连，说实话，还不如不拍。",
+  "items": [
+    {
+      "positive_prob": 0.00886338,
+      "confidence": 0.980304,
+      "negative_prob": 0.991137,
+      "sentiment": 0
+    }
+  ]
+}{
+  "error_code": 18,
+  "error_msg": "Open api qps request limit reached"
+}{
+  "log_id": 6327141252289176487,
+  "text": "还有一个点，不能说缺点，只能说遗憾吧，因为疫情原因，所以原本请的一批好莱坞演员都没法参与拍摄，所以临时找了一些外国“演员”，可能也就比群演略好一些，这就导致反派力度不够，让对决少了一份精彩。要知道，美军是当时世界上装备最强的军队，大家可以搜一下水门桥战役，如果换成当时世界上其他任何一个国家，应该都逃不过被志愿军包围全歼的命运，但美军凭借科技优势硬生生逃出了包围圈。只有足够强大的敌人，才能更好的衬托志愿军的伟大。",
+  "items": [
+    {
+      "positive_prob": 0.791339,
+      "confidence": 0.536308,
+      "negative_prob": 0.208661,
+      "sentiment": 2
+    }
+  ]
+}{
+  "log_id": 912279264676450663,
+  "error_code": 282134,
+  "error_msg": "input empty"
+}{
+  "error_code": 18,
+  "error_msg": "Open api qps request limit reached"
+}{
+  "error_code": 18,
+  "error_msg": "Open api qps request limit reached"
+}{
+  "log_id": 1792142997703500519,
+  "text": "吴京的表现很出色，以前看战狼的时候，总觉得他的表演太刚硬了，对于文戏的处理不足，但在长津湖里他几场感情戏的表达，让我觉得很自然，很能代入进去，特别是最后颤抖着把雷排长的名字圈起来的时候。",
+  "items": [
+    {
+      "positive_prob": 0.99979,
+      "confidence": 0.999534,
+      "negative_prob": 0.000209903,
+      "sentiment": 2
+    }
+  ]
+}{
+  "log_id": 4002195227961807271,
+  "error_code": 282134,
+  "error_msg": "input empty"
+}{
+  "error_code": 18,
+  "error_msg": "Open api qps request limit reached"
+}{
+  "log_id": 6432786783464176135,
+  "error_code": 282134,
+  "error_msg": "input empty"
+}{
+  "error_code": 18,
+  "error_msg": "Open api qps request limit reached"
+}{
+  "error_code": 18,
+  "error_msg": "Open api qps request limit reached"
+}{
+  "error_code": 18,
+  "error_msg": "Open api qps request limit reached"
+}{
+  "log_id": 3838560564685969735,
+  "error_code": 282134,
+  "error_msg": "input empty"
+}{
+  "error_code": 18,
+  "error_msg": "Open api qps request limit reached"
+}{
+  "log_id": 7766771500597752423,
+  "error_code": 282134,
+  "error_msg": "input empty"
+}{
+  "error_code": 18,
+  "error_msg": "Open api qps request limit reached"
+}{
+  "error_code": 18,
+  "error_msg": "Open api qps request limit reached"
+}{
+  "log_id": 963262022201426119,
+  "text": "我觉得，如果缩短炸信号塔战斗的时间，把它作为一个小热身戏，并从前边的文戏里匀一些时间出来，好好讲一讲冰雕连这个感人的故事，整部电影会更完整，也更搭“长津湖”这个名字。我还是希望后来有导演能把冰雕连和杨根思连的故事搬上荧幕，作为“长津湖·下”。",
+  "items": [
+    {
+      "positive_prob": 0.955222,
+      "confidence": 0.900494,
+      "negative_prob": 0.0447776,
+      "sentiment": 2
+    }
+  ]
+}{
+  "log_id": 2284678796308933735,
+  "error_code": 282134,
+  "error_msg": "input empty"
+}{
+  "error_code": 18,
+  "error_msg": "Open api qps request limit reached"
+}{
+  "error_code": 18,
+  "error_msg": "Open api qps request limit reached"
+}{
+  "log_id": 766253816687973127,
+  "text": "记得在上《形势与政策》这门课时，老师在课堂上提问：“抗美援朝的意义是什么？”的确，",
+  "items": [
+    {
+      "positive_prob": 0.638621,
+      "confidence": 0.196935,
+      "negative_prob": 0.361379,
+      "sentiment": 2
+    }
+  ]
+}{
+  "log_id": 4664539848797451079,
+  "text": "近年来，仍有人不遗余力否定我国抗美援朝的意义，认为这场仗打得得不偿失。但这个说法是极其狭隘的。别的不说，这一仗，打出了军威国威。用中国人民志愿军司令员彭德怀的话来说，抗美援朝的意义在于，“西方殖民者几百年来只要在东方一个海岸线上架起几尊大炮就可霸占一个国家的时代是一去不复返了！”",
+  "items": [
+    {
+      "positive_prob": 0.0413732,
+      "confidence": 0.908059,
+      "negative_prob": 0.958627,
+      "sentiment": 0
+    }
+  ]
+}{
+  "log_id": 6314314656773007431,
+  "text": "中国军人是有着中国军魂的！在长津湖战争中，敌方的军机、机关枪、坦克等武器装备固然可怕，但我们志愿军冷静机智、团结一致、同仇敌忾，拥有着钢铁般的意志。他们冷静机智，在于美军实力悬殊的情形下，连长伍千里明白当务之急是保护通讯员顺利向同伴传递情报，同时摧毁敌方的通讯信号塔，便分工协作，让一部分人正面进攻敌方阵营，摧毁信号塔，另一部分人保护本方通讯员从小路撤离。他们团结一致、同仇敌忾，怀揣共同理想信念，只“希望我们的下一代生活在一个没有硝烟的年代”，因为“这场仗如果我们不打，就是我们的下一代打”。他们拥有钢铁般的意志，在零下四十度的寒冬夜晚，为了不打草惊蛇，能随时出击作战，他们保持持枪姿势，在漫天飞雪中屹立着。第二天，敌军经过此地，发现了屹立不倒的中国人民志愿军，敌军首领停下来敬礼，并颇有感触地说：“面对有如此决心的敌人，我们永远也无法战胜他们。”",
+  "items": [
+    {
+      "positive_prob": 0.985484,
+      "confidence": 0.967743,
+      "negative_prob": 0.0145159,
+      "sentiment": 2
+    }
+  ]
+}{
+  "error_code": 18,
+  "error_msg": "Open api qps request limit reached"
+}{
+  "error_code": 18,
+  "error_msg": "Open api qps request limit reached"
+}{
+  "log_id": 2465590220947775751,
+  "text": "火箭是为了自由抛弃自己的东西",
+  "items": [
+    {
+      "positive_prob": 0.0994191,
+      "confidence": 0.779069,
+      "negative_prob": 0.900581,
+      "sentiment": 0
+    }
+  ]
+}{
+  "log_id": 2268804330021120391,
+  "text": "生命是用来燃烧的东西",
+  "items": [
+    {
+      "positive_prob": 0.99229,
+      "confidence": 0.982867,
+      "negative_prob": 0.00771001,
+      "sentiment": 2
+    }
+  ]
+}{
+  "log_id": 7079289021372215879,
+  "text": "死亡是验证生命的东西",
+  "items": [
+    {
+      "positive_prob": 0.166478,
+      "confidence": 0.630048,
+      "negative_prob": 0.833522,
+      "sentiment": 0
+    }
+  ]
+}{
+  "log_id": 7883067916577732359,
+  "text": "我们能生活在这个幸福的社会，都应该向我们的父辈致敬。曾经，先辈们用血肉保卫我们幸福的家园。现在，相对和平的社会已不需要我们流血割肉了，但我们仍面临各种各样的挑战，台湾尚未统一、疆独藏独势力仍猖獗、资源环境约束压力大、中美贸易战等等。一代人有一代人的使命，生在当下，吾辈应不负先辈的血汗，发挥自己的价值，燃烧自己的生命，给中国人民辉煌的历史添上华丽的一笔！本来打算一上映就看的，但是十一旅游去了才回来，所以拖到现在。《长津湖》",
+  "items": [
+    {
+      "positive_prob": 0.999539,
+      "confidence": 0.998976,
+      "negative_prob": 0.000460661,
+      "sentiment": 2
+    }
+  ]
+}{
+  "log_id": 5494427376830981607,
+  "text": "&quot;我们不打仗，这仗就得下一代打&quot;冰雕连用自己的肉身去堵美军的炮火，以少胜多，既是抗美援朝的打得一拳开，也为我们带来了免得百拳来的新时代。中国刚刚建国，土地还没捂热就要被抢走，冰雕连给出了对此的坚定答复--我们绝不答应！",
+  "items": [
+    {
+      "positive_prob": 0.000362251,
+      "confidence": 0.999195,
+      "negative_prob": 0.999638,
+      "sentiment": 0
+    }
+  ]
+}{
+  "log_id": 511532840173407399,
+  "text": "总的来说，陈凯歌导演的运镜永远是长在我审美上的，幻灯片般流畅的镜头切换真人让感到丝滑。剧情主要围绕伍千里和弟弟展开，穿插了毛岸英，杨根思等烈士光辉事迹，有主有次，不显凌乱。但是，还是有些许的&quot;神剧&quot;色彩，比如两个坦克对轰炮弹擦边之类的，不过瑕不掩瑜。",
+  "items": [
+    {
+      "positive_prob": 0.999347,
+      "confidence": 0.998549,
+      "negative_prob": 0.000652886,
+      "sentiment": 2
+    }
+  ]
+}{
+  "log_id": 8032367786961665927,
+  "text": "影片中足以看出当时中美差距之大，美国坦克飞机遍地，中国全靠肉体；美国有感恩节party，中国却只有硬土豆充饥······但最后美军还是遭遇了重大失利，这一切或许就像麦克阿瑟最后说的那样：&quot;中国军人有着必胜的信念和坚强的斗志，这样的军人永远不会被打败&quot;命题作文能答成这样，算是还不错的。",
+  "items": [
+    {
+      "positive_prob": 0.1988,
+      "confidence": 0.558223,
+      "negative_prob": 0.8012,
+      "sentiment": 0
+    }
+  ]
+}{
+  "log_id": 6849687686289762855,
+  "text": "1.故事内容感觉有点多，可以放5个小时那种，所以显得很多内容无法展开，好多次我的情绪酝酿到那儿快落泪的时候眼泪又被突兀的转场给整没了。",
+  "items": [
+    {
+      "positive_prob": 0.247752,
+      "confidence": 0.44944,
+      "negative_prob": 0.752248,
+      "sentiment": 0
+    }
+  ]
+}{
+  "error_code": 18,
+  "error_msg": "Open api qps request limit reached"
+}{
+  "error_code": 18,
+  "error_msg": "Open api qps request limit reached"
+}{
+  "log_id": 2302305211417527591,
+  "text": "4.在观看过程中，我军被美军空中火力压制的那种窒息感冲击着我，联想到《金刚川》中一次次被炮击的那座桥，再想到《无问西东》（没看过电影，但看过赏析，略有了解），那个年代，我军空军实力太弱，歼20还有一份致敬的意义在。",
+  "items": [
+    {
+      "positive_prob": 0.886264,
+      "confidence": 0.747253,
+      "negative_prob": 0.113736,
+      "sentiment": 2
+    }
+  ]
+}{
+  "error_code": 18,
+  "error_msg": "Open api qps request limit reached"
+}{
+  "log_id": 4668452883349839751,
+  "text": "6.以一个新兵伍万里作为电影的观察口带观众进入这个故事里头是一个很好也挺常用的电影表现方式，但是个人觉得情节安排的不是很好，略显生硬，不知道是不是创作团队和甲方爸爸的妥协结果，像是本来有两种表现方式最后杂糅在一起了，故事显得不太丝滑。",
+  "items": [
+    {
+      "positive_prob": 0.15065,
+      "confidence": 0.665222,
+      "negative_prob": 0.84935,
+      "sentiment": 0
+    }
+  ]
+}{
+  "error_code": 18,
+  "error_msg": "Open api qps request limit reached"
+}{
+  "error_code": 18,
+  "error_msg": "Open api qps request limit reached"
+}{
+  "error_code": 18,
+  "error_msg": "Open api qps request limit reached"
+}{
+  "log_id": 5728039248962539783,
+  "text": "还有很多其他的感想，但比较零碎，就不说啦。等在影院下线后我再上视频平台欣赏下。首先，向朝鲜战争中的志愿军将士致敬！向在艰苦环境中还能取得胜利的战士们致敬！就如电影中的话：他们把后代的仗打完了，后代就不用经受战火了。",
+  "items": [
+    {
+      "positive_prob": 0.996548,
+      "confidence": 0.992328,
+      "negative_prob": 0.00345235,
+      "sentiment": 2
+    }
+  ]
+}{
+  "log_id": 8511311463296118887,
+  "error_code": 282134,
+  "error_msg": "input empty"
+}{
+  "error_code": 18,
+  "error_msg": "Open api qps request limit reached"
+}{
+  "log_id": 2589040533629019175,
+  "error_code": 282134,
+  "error_msg": "input empty"
+}{
+  "log_id": 477586461250348423,
+  "text": "第三，我说下我对这部电影的感受，仅对电影本身提出一些看法：",
+  "items": [
+    {
+      "positive_prob": 0.872443,
+      "confidence": 0.71654,
+      "negative_prob": 0.127557,
+      "sentiment": 2
+    }
+  ]
+}{
+  "error_code": 18,
+  "error_msg": "Open api qps request limit reached"
+}{
+  "log_id": 2436778726132290183,
+  "text": "1、时长3个小时，算是很长的一部电影了。可是看完后我想了想，我看了啥？好像除了炮火连天就剩几个泪点了。我的观点是这部电影学习了美国电影的皮、学习香港电影的皮，却没有学到灵魂，尤其是把我们的电影的核心优势给弱化了甚至丢了。",
+  "items": [
+    {
+      "positive_prob": 0.355734,
+      "confidence": 0.209479,
+      "negative_prob": 0.644266,
+      "sentiment": 0
+    }
+  ]
+}{
+  "log_id": 5450914395823362407,
+  "error_code": 282134,
+  "error_msg": "input empty"
+}{
+  "error_code": 18,
+  "error_msg": "Open api qps request limit reached"
+}{
+  "log_id": 7100706787408605031,
+  "error_code": 282134,
+  "error_msg": "input empty"
+}{
+  "error_code": 18,
+  "error_msg": "Open api qps request limit reached"
+}{
+  "log_id": 1487444627850992039,
+  "error_code": 282134,
+  "error_msg": "input empty"
+}{
+  "log_id": 8930416475304631943,
+  "text": "4、再说下我觉的硬伤，我不是军迷，只是从个人的知识结构上得出的结论：",
+  "items": [
+    {
+      "positive_prob": 0.00178893,
+      "confidence": 0.996025,
+      "negative_prob": 0.998211,
+      "sentiment": 0
+    }
+  ]
+}{
+  "error_code": 18,
+  "error_msg": "Open api qps request limit reached"
+}{
+  "error_code": 18,
+  "error_msg": "Open api qps request limit reached"
+}{
+  "error_code": 18,
+  "error_msg": "Open api qps request limit reached"
+}{
+  "log_id": 4959804697378398183,
+  "text": "(2)志愿军可能会有人会开汽车开坦克，但在本剧中也有些太驾轻就熟了。",
+  "items": [
+    {
+      "positive_prob": 0.603919,
+      "confidence": 0.119821,
+      "negative_prob": 0.396081,
+      "sentiment": 2
+    }
+  ]
+}{
+  "log_id": 3935344705809138311,
+  "error_code": 282134,
+  "error_msg": "input empty"
+}{
+  "error_code": 18,
+  "error_msg": "Open api qps request limit reached"
+}{
+  "error_code": 18,
+  "error_msg": "Open api qps request limit reached"
+}{
+  "log_id": 5664522774963023495,
+  "text": "(4)伍千里是连长，那可是带着一百五十几人的连长啊，用伍父的话那可是大官啊。整场战争他在干嘛？在和一两个人配合的打冲锋，他的指挥呢？他的连队呢？",
+  "items": [
+    {
+      "positive_prob": 0.115467,
+      "confidence": 0.743407,
+      "negative_prob": 0.884533,
+      "sentiment": 0
+    }
+  ]
+}{
+  "error_code": 18,
+  "error_msg": "Open api qps request limit reached"
+}{
+  "log_id": 7085195015459406759,
+  "text": "(5)零下三、四十度的环境，所有人都没有呼出白气，所有人都没有冻僵后不灵活的手脚。",
+  "items": [
+    {
+      "positive_prob": 0.00677133,
+      "confidence": 0.984953,
+      "negative_prob": 0.993229,
+      "sentiment": 0
+    }
+  ]
+}{
+  "error_code": 18,
+  "error_msg": "Open api qps request limit reached"
+}{
+  "log_id": 3503475748003820231,
+  "text": "(6)美军撤退到船上离开了，我军打着红旗冲向海滩，貌似是胜利的场面，可是这个环境和这些士兵不像打过打仗的样子，也不像零下几十度的场面。尤其是美军是撤退不是溃败不是没有战斗力，他们的运兵船都是军舰都可以开炮的，这样在海滩很容易被美军战舰炮击。",
+  "items": [
+    {
+      "positive_prob": 0.00167857,
+      "confidence": 0.99627,
+      "negative_prob": 0.998321,
+      "sentiment": 0
+    }
+  ]
+}{
+  "error_code": 18,
+  "error_msg": "Open api qps request limit reached"
+}{
+  "error_code": 18,
+  "error_msg": "Open api qps request limit reached"
+}{
+  "log_id": 8707322691242607207,
+  "error_code": 282134,
+  "error_msg": "input empty"
+}{
+  "error_code": 18,
+  "error_msg": "Open api qps request limit reached"
+}{
+  "error_code": 18,
+  "error_msg": "Open api qps request limit reached"
+}{
+  "log_id": 7224142866489001767,
+  "text": "十二分的期待，近三个小时时间，看完《长津湖》，其感受是确实好看。",
+  "items": [
+    {
+      "positive_prob": 0.999316,
+      "confidence": 0.99848,
+      "negative_prob": 0.000683964,
+      "sentiment": 2
+    }
+  ]
+}{
+  "log_id": 2495197838044327815,
+  "text": "因为，其场面堪称壮阔。",
+  "items": [
+    {
+      "positive_prob": 0.998079,
+      "confidence": 0.995731,
+      "negative_prob": 0.00192108,
+      "sentiment": 2
+    }
+  ]
+}{
+  "error_code": 18,
+  "error_msg": "Open api qps request limit reached"
+}{
+  "log_id": 429778048889971399,
+  "text": "一边是“边城多警急，虏骑数迁移。”新中国百废待兴，举国上下热切盼望休生养息，建设新家园，却因美帝悍然发动战争，唇亡齿寒、保家卫国，大多数子弟兵正待解甲归田时，不得不组成志愿军，不得不重拾刀枪，挥师入朝。",
+  "items": [
+    {
+      "positive_prob": 0.98113,
+      "confidence": 0.958067,
+      "negative_prob": 0.0188699,
+      "sentiment": 2
+    }
+  ]
+}{
+  "error_code": 18,
+  "error_msg": "Open api qps request limit reached"
+}{
+  "error_code": 18,
+  "error_msg": "Open api qps request limit reached"
+}{
+  "error_code": 18,
+  "error_msg": "Open api qps request limit reached"
+}{
+  "log_id": 6010963980265290887,
+  "text": "一方是“武装到牙齿”的钢铁之师。美国大兵以悠闲自在心态参战，以当时最好的装备，伴随最好的保障。",
+  "items": [
+    {
+      "positive_prob": 0.999336,
+      "confidence": 0.998526,
+      "negative_prob": 0.00066348,
+      "sentiment": 2
+    }
+  ]
+}{
+  "log_id": 2255575488036014951,
+  "text": "地面兵力部署、火力配系堪称教科书般庞大精准，坦克横冲直撞，重火力肆无忌惮，美国兵人高马大。",
+  "items": [
+    {
+      "positive_prob": 0.952179,
+      "confidence": 0.893732,
+      "negative_prob": 0.0478206,
+      "sentiment": 2
+    }
+  ]
+}{
+  "error_code": 18,
+  "error_msg": "Open api qps request limit reached"
+}{
+  "log_id": 6102040424426499495,
+  "text": "更不要说啤酒、火鸡、牛奶、面包、罐头，感恩节大餐，还有温暖的睡袋，和精准的信息情报支持。",
+  "items": [
+    {
+      "positive_prob": 0.992022,
+      "confidence": 0.982271,
+      "negative_prob": 0.00797821,
+      "sentiment": 2
+    }
+  ]
+}{
+  "log_id": 2688395425392691975,
+  "text": "一方是衣衫单薄，冻得坚硬的土豆，潜伏在冰天雪地里，志愿军战士以血肉之躯对抗着飞机坦克，完全是以“我不入地狱谁入地狱”之心，慷慨赴死，从容面对。",
+  "items": [
+    {
+      "positive_prob": 0.0820093,
+      "confidence": 0.817757,
+      "negative_prob": 0.917991,
+      "sentiment": 0
+    }
+  ]
+}{
+  "error_code": 18,
+  "error_msg": "Open api qps request limit reached"
+}{
+  "error_code": 18,
+  "error_msg": "Open api qps request limit reached"
+}{
+  "log_id": 4326724226673692263,
+  "text": "领袖之子与百姓子弟的交融，新兵老兵之间的关爱，平时与战时的区分。都在细节处交代得清楚细致，入微入木入味。",
+  "items": [
+    {
+      "positive_prob": 0.989017,
+      "confidence": 0.975594,
+      "negative_prob": 0.0109828,
+      "sentiment": 2
+    }
+  ]
+}{
+  "error_code": 18,
+  "error_msg": "Open api qps request limit reached"
+}{
+  "log_id": 7969414546545065255,
+  "text": "背景交代过于简略。抗美援朝战争发生的大背景没有涉及，共和国最高层决策的大纵深没有说清，战役战略层面的计划部署没有阐述，只是以一个穿插连，一家三兄弟，几场遭遇战，就把一个宏大的第二次战役，乃至是抗美援朝战争都想带进去、说清楚，导演层想得太过简单，也没有显示出其有如此功力。",
+  "items": [
+    {
+      "positive_prob": 0.1197,
+      "confidence": 0.734,
+      "negative_prob": 0.8803,
+      "sentiment": 0
+    }
+  ]
+}{
+  "error_code": 18,
+  "error_msg": "Open api qps request limit reached"
+}{
+  "log_id": 4230939990134761095,
+  "text": "实践证明，眉毛胡子一把抓，一厢情愿地想把所有的事情都拉来“一锅煮”，最终只能是煮不透、嚼不烂。",
+  "items": [
+    {
+      "positive_prob": 0.000738264,
+      "confidence": 0.998359,
+      "negative_prob": 0.999262,
+      "sentiment": 0
+    }
+  ]
+}{
+  "error_code": 18,
+  "error_msg": "Open api qps request limit reached"
+}{
+  "error_code": 18,
+  "error_msg": "Open api qps request limit reached"
+}{
+  "error_code": 18,
+  "error_msg": "Open api qps request limit reached"
+}{
+  "log_id": 38360317252625895,
+  "text": "如，七连的第一仗就打得就堪称相当激烈，拿来所有的中国电影以往镜头，就战斗场面的拍摄而言，恐怕没有超出此片的。",
+  "items": [
+    {
+      "positive_prob": 0.0344563,
+      "confidence": 0.92343,
+      "negative_prob": 0.965544,
+      "sentiment": 0
+    }
+  ]
+}{
+  "error_code": 18,
+  "error_msg": "Open api qps request limit reached"
+}{
+  "error_code": 18,
+  "error_msg": "Open api qps request limit reached"
+}{
+  "log_id": 7659326952905394503,
+  "text": "而头一回上到战场的新兵伍万里，凭借着儿时嬉戏扔石头练就的精准，稍稍迟疑之间，就可以熟练计算空中爆炸时间，精准的用手榴弹把堡垒里的敌人尽数炸成冤大头。",
+  "items": [
+    {
+      "positive_prob": 0.959479,
+      "confidence": 0.909954,
+      "negative_prob": 0.0405206,
+      "sentiment": 2
+    }
+  ]
+}{
+  "error_code": 18,
+  "error_msg": "Open api qps request limit reached"
+}{
+  "error_code": 18,
+  "error_msg": "Open api qps request limit reached"
+}{
+  "error_code": 18,
+  "error_msg": "Open api qps request limit reached"
+}{
+  "log_id": 4032888478954171143,
+  "text": "他们甚至于没有见过白人，更不用说黑人，瞬间遭遇短兵接战不可能那么坦然。早期曾有志愿军小部队摸入美军“土耳其旅”的营地，看到睡袋里熟睡着露出来的一颗黑脑袋，还以为是见到了鬼，吓得连枪都没开就跑了。",
+  "items": [
+    {
+      "positive_prob": 0.000448647,
+      "confidence": 0.999003,
+      "negative_prob": 0.999551,
+      "sentiment": 0
+    }
+  ]
+}{
+  "log_id": 1331798053521649191,
+  "text": "而首批入朝的第三十八军，也就是后来闻名的“万岁军”，就因为一个黑人团是否存在的问题，直接导致军长梁大牙贻误战机，被彭老总一顿臭骂，全军上下几个月都抬不起头来，直到在第二次战役，也就是长津湖之战的东线作战中，完成惨烈的阻击任务，才一雪前耻……",
+  "items": [
+    {
+      "positive_prob": 0.0447577,
+      "confidence": 0.900539,
+      "negative_prob": 0.955242,
+      "sentiment": 0
+    }
+  ]
+}{
+  "error_code": 18,
+  "error_msg": "Open api qps request limit reached"
+}{
+  "log_id": 3414066017339506887,
+  "text": "但即使是面对美军如此强大的存在，我们看起来呆板、老土的志愿军，依然敢于战斗，敢于胜利，也敢于牺牲。",
+  "items": [
+    {
+      "positive_prob": 0.0489908,
+      "confidence": 0.891132,
+      "negative_prob": 0.951009,
+      "sentiment": 0
+    }
+  ]
+}{
+  "log_id": 1939561366796941223,
+  "text": "因为，我们是为自己而战，为土地而战，为信念而战，为子孙后代而战。这一点，美国人永远不懂，美国大兵也永远学不来，更实践不了。当年在朝鲜战场上不行，过了七十年，无论放在哪个战场，他们还是不行，也永远不行。",
+  "items": [
+    {
+      "positive_prob": 0.0127507,
+      "confidence": 0.971665,
+      "negative_prob": 0.987249,
+      "sentiment": 0
+    }
+  ]
+}{
+  "error_code": 18,
+  "error_msg": "Open api qps request limit reached"
+}{
+  "error_code": 18,
+  "error_msg": "Open api qps request limit reached"
+}{
+  "log_id": 566852253501260103,
+  "text": "这一点，任何导演和演员恐怕都不会懂。       十二分的期待，近三个小时时间，看完《长津湖》，其感受是确实好看。",
+  "items": [
+    {
+      "positive_prob": 0.994857,
+      "confidence": 0.98857,
+      "negative_prob": 0.00514327,
+      "sentiment": 2
+    }
+  ]
+}{
+  "log_id": 1627641228305389255,
+  "text": "因为，其场面堪称壮阔。",
+  "items": [
+    {
+      "positive_prob": 0.998079,
+      "confidence": 0.995731,
+      "negative_prob": 0.00192109,
+      "sentiment": 2
+    }
+  ]
+}{
+  "log_id": 2684269381815281127,
+  "text": "一边是风高浪急的太平洋，无数的美军舰队，铺天盖地的飞机，潮水一般涌入，美军在仁川登陆，朝鲜半岛局势风云突变。",
+  "items": [
+    {
+      "positive_prob": 0.429904,
+      "confidence": 0.0446571,
+      "negative_prob": 0.570096,
+      "sentiment": 0
+    }
+  ]
+}{
+  "log_id": 6122555996635720359,
+  "text": "一边是“边城多警急，虏骑数迁移。”新中国百废待兴，举国上下热切盼望休生养息，建设新家园，却因美帝悍然发动战争，唇亡齿寒、保家卫国，大多数子弟兵正待解甲归田时，不得不组成志愿军，不得不重拾刀枪，挥师入朝。",
+  "items": [
+    {
+      "positive_prob": 0.98113,
+      "confidence": 0.958067,
+      "negative_prob": 0.0188699,
+      "sentiment": 2
+    }
+  ]
+}{
+  "error_code": 18,
+  "error_msg": "Open api qps request limit reached"
+}{
+  "log_id": 1144442337244420679,
+  "text": "最下层至爷娘弟兄，无需更多动员，收拾起百般心事，牵扯下父母儿女愁绪，一声令下，无声告别，悄然入朝，“捐躯赴国难，视死忽如归”。",
+  "items": [
+    {
+      "positive_prob": 0.955177,
+      "confidence": 0.900393,
+      "negative_prob": 0.0448233,
+      "sentiment": 2
+    }
+  ]
+}{
+  "error_code": 18,
+  "error_msg": "Open api qps request limit reached"
+}{
+  "error_code": 18,
+  "error_msg": "Open api qps request limit reached"
+}{
+  "error_code": 18,
+  "error_msg": "Open api qps request limit reached"
+}{
+  "error_code": 18,
+  "error_msg": "Open api qps request limit reached"
+}{
+  "error_code": 18,
+  "error_msg": "Open api qps request limit reached"
+}{
+  "error_code": 18,
+  "error_msg": "Open api qps request limit reached"
+}{
+  "error_code": 18,
+  "error_msg": "Open api qps request limit reached"
+}{
+  "log_id": 7550235728465125799,
+  "text": "还有如，美国大兵的傲慢、狂妄、客观，志愿军的朴实、友爱、热血，有对比，有层次，有温度。",
+  "items": [
+    {
+      "positive_prob": 0.990615,
+      "confidence": 0.979145,
+      "negative_prob": 0.0093847,
+      "sentiment": 2
+    }
+  ]
+}{
+  "log_id": 4883124632090408263,
+  "error_code": 282134,
+  "error_msg": "input empty"
+}{
+  "log_id": 5593676828367924103,
+  "text": "领袖之子与百姓子弟的交融，新兵老兵之间的关爱，平时与战时的区分。都在细节处交代得清楚细致，入微入木入味。           《长津湖》作为主旋律电影，以一以贯之的主题，诠释了谁是最可爱的人。历史上的长津湖战役是一场非常惨烈的战役，在全歼北极熊团的战斗中就伤亡及非战斗减员1万多人，全军冻伤据说高达22%。影片并没有全景式的反映战斗全貌，而是从一支连队护送电台及译电员到朝鲜志愿军指挥部作为故事正式的开始，选取歼灭北极熊团的战斗作为高潮，以点窥面，用连队反映全军，用局部映照全局，艺术地再现了意志与钢铁洪流的较量。",
+  "items": [
+    {
+      "positive_prob": 0.990973,
+      "confidence": 0.97994,
+      "negative_prob": 0.00902704,
+      "sentiment": 2
+    }
+  ]
+}{
+  "error_code": 18,
+  "error_msg": "Open api qps request limit reached"
+}{
+  "error_code": 18,
+  "error_msg": "Open api qps request limit reached"
+}{
+  "error_code": 18,
+  "error_msg": "Open api qps request limit reached"
+}{
+  "log_id": 2620476008258206951,
+  "text": "影片唤起了人们的英烈记忆，传达了和平强音。所以，我用了邦达列夫一部战争题材小说的标题作为文章的题目。我认为，这个标题能切合那场战役的巨大意义。热的雪，是的，那是大自然留下的，对于志愿军战士的肯定；同时炽热的雪也是改变历史命运的见证。今晚终于抽出时间去看《长津湖》",
+  "items": [
+    {
+      "positive_prob": 0.999679,
+      "confidence": 0.999286,
+      "negative_prob": 0.000321125,
+      "sentiment": 2
+    }
+  ]
+}{
+  "log_id": 2650594967384170791,
+  "text": "朋友：“记得带上纸巾哦.”",
+  "items": [
+    {
+      "positive_prob": 0.980552,
+      "confidence": 0.956783,
+      "negative_prob": 0.0194479,
+      "sentiment": 2
+    }
+  ]
+}{
+  "log_id": 3443749407553087719,
+  "text": "我摆摆手：“我泪点很高，不需要。”",
+  "items": [
+    {
+      "positive_prob": 0.882067,
+      "confidence": 0.737926,
+      "negative_prob": 0.117933,
+      "sentiment": 2
+    }
+  ]
+}{
+  "error_code": 18,
+  "error_msg": "Open api qps request limit reached"
+}{
+  "log_id": 4360040164145820615,
+  "text": "然而全程观影176分钟，没有刻意煽情，我却数次泪目。",
+  "items": [
+    {
+      "positive_prob": 0.751736,
+      "confidence": 0.448301,
+      "negative_prob": 0.248264,
+      "sentiment": 2
+    }
+  ]
+}{
+  "log_id": 7950038806945905575,
+  "text": "“这场仗我们不打,就是我们的下一代要打.”",
+  "items": [
+    {
+      "positive_prob": 0.109541,
+      "confidence": 0.756576,
+      "negative_prob": 0.890459,
+      "sentiment": 0
+    }
+  ]
+}{
+  "log_id": 8351265421312845255,
+  "text": "“全体都有，五分钟整理装备.&quot;",
+  "items": [
+    {
+      "positive_prob": 0.872965,
+      "confidence": 0.717699,
+      "negative_prob": 0.127035,
+      "sentiment": 2
+    }
+  ]
+}{
+  "error_code": 18,
+  "error_msg": "Open api qps request limit reached"
+}{
+  "log_id": 8155776433007517127,
+  "error_code": 282134,
+  "error_msg": "input empty"
+}{
+  "log_id": 2182158196949948871,
+  "text": "伍万里赌气拉开火车车门准备往下跳时，车厢外徐徐展开了一副恢弘的画卷。落日余晖中，万里长城蜿蜒盘踞在崇山峻岭间，山河壮阔，是如此神圣、庄严和肃穆。此刻“保家卫国”不再是一句空洞的口号，而是每个人心中强烈的信仰和家国情怀。",
+  "items": [
+    {
+      "positive_prob": 0.999784,
+      "confidence": 0.999521,
+      "negative_prob": 0.000215562,
+      "sentiment": 2
+    }
+  ]
+}{
+  "error_code": 18,
+  "error_msg": "Open api qps request limit reached"
+}{
+  "log_id": 1498033685192213639,
+  "text": "电影除了最大程度地缩短和还原历史，更是传达了一种精神：敢于在最恶劣的条件下挑战美国霸权的精神。影片的最后，美军长官向“冰雕连”行礼，他说：“我们的敌人拥有如此强大的决心，我们永远都无法战胜他们。”",
+  "items": [
+    {
+      "positive_prob": 0.670456,
+      "confidence": 0.267679,
+      "negative_prob": 0.329544,
+      "sentiment": 2
+    }
+  ]
+}{
+  "error_code": 18,
+  "error_msg": "Open api qps request limit reached"
+}{
+  "error_code": 18,
+  "error_msg": "Open api qps request limit reached"
+}{
+  "log_id": 6154441288405495559,
+  "text": "又想起孟晚舟回国，深圳机场万人合唱《歌唱祖国》。",
+  "items": [
+    {
+      "positive_prob": 0.989685,
+      "confidence": 0.977078,
+      "negative_prob": 0.0103147,
+      "sentiment": 2
+    }
+  ]
+}{
+  "error_code": 18,
+  "error_msg": "Open api qps request limit reached"
+}{
+  "error_code": 18,
+  "error_msg": "Open api qps request limit reached"
+}{
+  "log_id": 1434987562814238919,
+  "text": "长津湖是历史题材和商业运作的完美契合。",
+  "items": [
+    {
+      "positive_prob": 0.980318,
+      "confidence": 0.956262,
+      "negative_prob": 0.0196822,
+      "sentiment": 2
+    }
+  ]
+}{
+  "error_code": 18,
+  "error_msg": "Open api qps request limit reached"
+}{
+  "log_id": 918421029148510727,
+  "text": "40亿，我也贡献出一份子。",
+  "items": [
+    {
+      "positive_prob": 0.967967,
+      "confidence": 0.928815,
+      "negative_prob": 0.032033,
+      "sentiment": 2
+    }
+  ]
+}{
+  "log_id": 6576901313920230375,
+  "error_code": 282134,
+  "error_msg": "input empty"
+}{
+  "error_code": 18,
+  "error_msg": "Open api qps request limit reached"
+}{
+  "error_code": 18,
+  "error_msg": "Open api qps request limit reached"
+}{
+  "error_code": 18,
+  "error_msg": "Open api qps request limit reached"
+}{
+  "error_code": 18,
+  "error_msg": "Open api qps request limit reached"
+}{
+  "log_id": 2511360184915949607,
+  "text": "看一位老师的解说发现了问题所在，影片的导演无疑很优秀，但香港本土的局限性让他们对战争的理解认识太浅，最多能拍出优秀的警匪片，放到战争片里自然感觉很用力也还是欠点啥。",
+  "items": [
+    {
+      "positive_prob": 0.867898,
+      "confidence": 0.706441,
+      "negative_prob": 0.132102,
+      "sentiment": 2
+    }
+  ]
+}{
+  "log_id": 6720774033944794279,
+  "text": "别说那不还有一个内地导演，陈老师的手笔大概只是最后那个虚构的美国人敬礼冰雕连，是整部电影唯一让我心生膈应的地方，真正的尊敬是敌人发自内心的，而不是自己yy对方被震撼的心悦诚服，个人很不喜欢这种艺术处理的手法，很尬，如同今天看到阿三正在拍摄加勒万河谷大战解放军的电影一样，竟然没有看到演员跳舞！多冷的隆冬，多冷的隆冬淡淡的，我在东北玩泥巴。我看完《长津湖》，心情激荡，题诗以示感慨！",
+  "items": [
+    {
+      "positive_prob": 0.762277,
+      "confidence": 0.471726,
+      "negative_prob": 0.237724,
+      "sentiment": 2
+    }
+  ]
+}{
+  "error_code": 18,
+  "error_msg": "Open api qps request limit reached"
+}{
+  "log_id": 6766004158887749511,
+  "text": "多灾多难秉初衷，才止硝烟又起戎。",
+  "items": [
+    {
+      "positive_prob": 0.328827,
+      "confidence": 0.269273,
+      "negative_prob": 0.671173,
+      "sentiment": 0
+    }
+  ]
+}{
+  "log_id": 6286629824513789799,
+  "text": "肉体凡胎迎恶战，天寒地冻建奇功。",
+  "items": [
+    {
+      "positive_prob": 0.894716,
+      "confidence": 0.766036,
+      "negative_prob": 0.105284,
+      "sentiment": 2
+    }
+  ]
+}{
+  "error_code": 18,
+  "error_msg": "Open api qps request limit reached"
+}{
+  "log_id": 7034907713173676647,
+  "text": "护我河山千古计，绝非域外逞英雄。",
+  "items": [
+    {
+      "positive_prob": 0.955386,
+      "confidence": 0.900857,
+      "negative_prob": 0.0446143,
+      "sentiment": 2
+    }
+  ]
+}{
+  "log_id": 5920976125046067079,
+  "error_code": 282134,
+  "error_msg": "input empty"
+}{
+  "error_code": 18,
+  "error_msg": "Open api qps request limit reached"
+}{
+  "log_id": 8804831774832698279,
+  "text": "长津湖畔卧严冬，纵目持枪势欲冲。",
+  "items": [
+    {
+      "positive_prob": 0.871223,
+      "confidence": 0.713828,
+      "negative_prob": 0.128777,
+      "sentiment": 2
+    }
+  ]
+}{
+  "log_id": 802141862625465863,
+  "text": "谁谓天寒难立命，敢将热血作前锋。",
+  "items": [
+    {
+      "positive_prob": 0.0482429,
+      "confidence": 0.892793,
+      "negative_prob": 0.951757,
+      "sentiment": 0
+    }
+  ]
+}{
+  "error_code": 18,
+  "error_msg": "Open api qps request limit reached"
+}{
+  "log_id": 8793326140768969447,
+  "text": "这是一部优秀的作品，时值志愿军烈士遗骸回国的当下，能有这样一部好电影映射他们的丰功伟绩，这不再是单纯的艺术作品的创造，而是一种担当，其在传播抗美援朝精神方面的积极作用是无与伦比的。",
+  "items": [
+    {
+      "positive_prob": 0.999986,
+      "confidence": 0.999969,
+      "negative_prob": 1.40714e-05,
+      "sentiment": 2
+    }
+  ]
+}{
+  "log_id": 1251049793397868647,
+  "text": "——2021年10月11日1.战斗拍的很精彩，再现了战争的残酷，老一辈的志愿军战士赢得不易，向他们致敬。电影《长津湖》时长近三个小时，展现的战争场面之惨烈震荡着我们的魂魄，扣动着我们的心弦，源于心底的泪水淋湿了面颊。",
+  "items": [
+    {
+      "positive_prob": 0.999956,
+      "confidence": 0.999901,
+      "negative_prob": 4.43344e-05,
+      "sentiment": 2
+    }
+  ]
+}{
+  "log_id": 6128456038080809799,
+  "text": "美军有飞机、大炮、坦克等先进的武器，还有美酒佳肴。我们的志愿军使用的是落后的步枪、手榴弹和小钢炮等，并且要忍饥挨饿和受冻。中国人民志愿军，用智慧、勇敢和誓死保卫祖国的伟大信念，与天抗争，饿了，吃树皮、草根，偶尔吃到土豆，因冻的坚硬会被硌掉牙齿，渴了吃口冰雪，穿着单薄的棉衣冒着零下近40℃的时刻被冻死的酷冷。在这种敌我实力存在巨大差距的战场上，志愿军战士依然翻山越岭、严密伪装，忍着高寒和饥饿，采取“迂回切断、包围歼灭”的战术，与美军浴血奋战。许多志愿军战士携着炸药包、手榴弹，与美军的坦克、炮楼和战略要地等守军同归于尽。用鲜血和生命消灭了美国的王牌部队陆战一师“北极熊”，赢得了长津湖战役的决定性胜利，为“立国之战”的抗美援朝全胜奠定了坚实的基础 。",
+  "items": [
+    {
+      "positive_prob": 0.863393,
+      "confidence": 0.696429,
+      "negative_prob": 0.136607,
+      "sentiment": 2
+    }
+  ]
+}{
+  "log_id": 5818782231621796807,
+  "text": "电影《长津湖》中，曾出现令人震撼无比的一幕，即“冰雕连”。就是志愿军某连队在执行阻击任务时，因衣着单薄和严寒天气，不幸全部牺牲在战斗岗位上。冰冻的志愿军战士遗体，都手握钢枪，目视前方，如活着时刻准备战斗的样子。撤退的美军目睹这一幕，其长官禁不住驻足，向牺牲的志愿军战士献上一个军礼，并感叹道：“这是一支不可战胜的军队。”",
+  "items": [
+    {
+      "positive_prob": 0.990083,
+      "confidence": 0.977962,
+      "negative_prob": 0.00991697,
+      "sentiment": 2
+    }
+  ]
+}{
+  "error_code": 18,
+  "error_msg": "Open api qps request limit reached"
+}{
+  "log_id": 8593676915559440231,
+  "text": "不得不说，这是一部很棒的爱国教育片。",
+  "items": [
+    {
+      "positive_prob": 0.991475,
+      "confidence": 0.981056,
+      "negative_prob": 0.00852471,
+      "sentiment": 2
+    }
+  ]
+}{
+  "log_id": 8735802541577553031,
+  "text": "首先，它抓住了大体。抗美援朝的典型刻画了，杨根思、冰雕连，用历史真实的温度贴近观影者。长津湖战役的框架架构了，东西线、时间轴，较为完整地呈现了战争全貌。",
+  "items": [
+    {
+      "positive_prob": 0.999826,
+      "confidence": 0.999614,
+      "negative_prob": 0.000173532,
+      "sentiment": 2
+    }
+  ]
+}{
+  "error_code": 18,
+  "error_msg": "Open api qps request limit reached"
+}{
+  "error_code": 18,
+  "error_msg": "Open api qps request limit reached"
+}{
+  "log_id": 2681094683918869895,
+  "text": "但是只说电影，我觉得有几点不足。一是故事有点不成型，前面决定太长，送棉服的姑娘和围巾给了描写又没有后续，美军飞机大炮装备那么多，而我们的作战计划却没有描写很多，感觉全靠个人肉搏，结尾冻死的士兵没有前戏铺垫，如果没有了解过这事件会觉得这里出现的让人摸不着头脑。二是有些枪不能开没看懂想说什么，都在你死我活的战争中了对敌人有啥枪不能开的，还有美军向冻死士兵敬礼，这是真实的吗，挺奇怪的。三是易烊千玺前面演的，虽然我是路人粉，但看的还是有点尴尬，看小红花的时候就觉得有这个问题，脑袋能不能不要老晃，嘴巴肢体语言不要用力过猛。",
+  "items": [
+    {
+      "positive_prob": 0.0241907,
+      "confidence": 0.946243,
+      "negative_prob": 0.975809,
+      "sentiment": 0
+    }
+  ]
+}{
+  "log_id": 7474045160359617127,
+  "text": "第一次选在在动感厅看，整个晚上感觉在做过山车和按摩一样，体验感挺好，三个小时也不觉得很长了。剪辑生硬，bgm在混乱的转场中显得很突兀，影片开头大量使用cg背景，饱和度拉满，廉价感扑面而来。导演从彭老总逐级讲到刚入伍的小兵，却没讲好志愿军的组织构造，组织能力。对指挥层的描写乏陈可善，显得照本宣科，理所应当，整片充斥各种个人英雄主义，各自为战，更是有几处逻辑硬伤，最让人难以接受的是导演的恶趣味，镜头里一边血肉模糊，尸横遍野，一边试图制造笑点，电影院里有人笑出声的时候，真的令人难过。不过本片的战斗场景刻画的很真实，正视了观众的智商，单凭这点都值回票价。整部电影下来，泪目三次。",
+  "items": [
+    {
+      "positive_prob": 0.0363156,
+      "confidence": 0.919298,
+      "negative_prob": 0.963684,
+      "sentiment": 0
+    }
+  ]
+}{
+  "error_code": 18,
+  "error_msg": "Open api qps request limit reached"
+}{
+  "error_code": 18,
+  "error_msg": "Open api qps request limit reached"
+}{
+  "log_id": 7395985719410921383,
+  "text": "我塑造的形象没有所谓的主角和配角，主线或者副线，我和朋友看了有同样的感觉就是雷公那个形象特别的令人印象深刻，包括他死的时候也是，他身上迸发出来的那种力量，那种新鲜感，那种顽强。",
+  "items": [
+    {
+      "positive_prob": 0.998543,
+      "confidence": 0.996762,
+      "negative_prob": 0.00145723,
+      "sentiment": 2
+    }
+  ]
+}{
+  "log_id": 3341432719815115335,
+  "text": "其实看这种很宏大叙事的电影，一般来说是不会哭的那么凶的，但是当他把镜头集中到一个人身上的时候，就会觉得有点触动了。像那种血肉横飞的大场景，视觉上很受震撼，很惨烈，个人也有睚眦欲裂的感觉，但是你要说哭，眼睛是没有一滴眼泪的。",
+  "items": [
+    {
+      "positive_prob": 0.999808,
+      "confidence": 0.999573,
+      "negative_prob": 0.000191984,
+      "sentiment": 2
+    }
+  ]
+}{
+  "error_code": 18,
+  "error_msg": "Open api qps request limit reached"
+}{
+  "log_id": 3524023761567912327,
+  "text": "我塑造的形象没有所谓的主角和配角，主线或者副线，我和朋友看了有同样的感觉就是雷公那个形象特别的令人印象深刻，包括他死的时候也是，他身上迸发出来的那种力量，那种新鲜感，那种顽强。",
+  "items": [
+    {
+      "positive_prob": 0.998543,
+      "confidence": 0.996762,
+      "negative_prob": 0.00145723,
+      "sentiment": 2
+    }
+  ]
+}{
+  "log_id": 2344001918336142919,
+  "text": "其实看这种很宏大叙事的电影，一般来说是不会哭的那么凶的，但是当他把镜头集中到一个人身上的时候，就会觉得有点触动了。像那种血肉横飞的大场景，视觉上很受震撼，很惨烈，个人也有睚眦欲裂的感觉，但是你要说哭，眼睛是没有一滴眼泪的。",
+  "items": [
+    {
+      "positive_prob": 0.999808,
+      "confidence": 0.999573,
+      "negative_prob": 0.000191984,
+      "sentiment": 2
+    }
+  ]
+}{
+  "log_id": 3537085335148079719,
+  "text": "总而言之感觉还是挺了不起的吧，拍这种电影。不知道为什么，最近的国庆档的重头戏主旋律电影。都是在讲建国以后抗美援朝这段故事的，讲抗战的倒少了，要是说国共对抗的就更少了……但是抗美援朝的故事基本上都是非常非常又很壮烈的，看得人心里固然觉得美好的生活来之不易，同时心里也赌得发慌。整部片子过于冗长了，很多地方拍得好拖沓，可取之处是战争场面还不错，在战争片式微的如今，毕竟成本高调度难也不讨巧观众，能在影院看到这么震撼的战争场面还是很高兴的，就是节奏拖得太太太长了，一直嘣嘣嘣，我从一开始的震撼到后面的打哈欠。有些血腥场面真是很难得在电影院看到，竟然保留了，也是因为献礼片的特殊性吧，但是看到有些家长真的因为是部爱国主义宣传片就带小孩子去看，想要让孩子接受一下爱国主义教育，那么小的孩子，那么血腥的片段，没有分级制度真是太可怕了。这部片子有些地方拍的好奇怪，不知道是功力不够或真的别有用心，比如说把美军过感恩节丰盛的鸡鸭鱼肉与我军因为没有棉衣和食物在战场上冻死，这两个镜头生硬的切换间让我感到无比的愤怒，只觉得怎么能这样视生命如草芥，明知道他们面对的是死亡，明明可以做的更好，明明可以避免无谓的牺牲，为什么不做点什么，生命怎么可以被这般践踏，这样的牺牲根本就不是因为敌人啊。只针对这部电影来说，我只能说导这部分的导演真的是太敷衍了。老段出场没有太多，但是就算惊鸿一瞥也太可了。最后，反战是永恒的主题。对于为了祖国，英勇奋战的战士，表示最崇高的敬意，这绝对不可以用评星来表示。",
+  "items": [
+    {
+      "positive_prob": 0.980006,
+      "confidence": 0.95557,
+      "negative_prob": 0.0199937,
+      "sentiment": 2
+    }
+  ]
+}{
+  "log_id": 733241776112356775,
+  "text": "但如果仅从一部战争片的角度来评价的话，这部长津湖，还是有不少欠缺的。",
+  "items": [
+    {
+      "positive_prob": 0.0852549,
+      "confidence": 0.810545,
+      "negative_prob": 0.914745,
+      "sentiment": 0
+    }
+  ]
+}{
+  "error_code": 18,
+  "error_msg": "Open api qps request limit reached"
+}{
+  "log_id": 5843047435671212967,
+  "text": "听生活在那个年代老一辈的人说，都是十几岁的孩子，好多好多，上了战场就再也没回来。剧中五万里十九岁，其实年龄还是设定的高了，而且也没有特地表述出，上战场都是十来岁孩子的情景。",
+  "items": [
+    {
+      "positive_prob": 0.116261,
+      "confidence": 0.741641,
+      "negative_prob": 0.883739,
+      "sentiment": 0
+    }
+  ]
+}{
+  "log_id": 3913673138098897191,
+  "text": "并不是每一个上了战场的士兵，都想着英勇牺牲，奋不顾身的。很多孩子，上了战场，可能只是想着活下来，打完这仗，回家见爹娘。",
+  "items": [
+    {
+      "positive_prob": 0.434767,
+      "confidence": 0.0338507,
+      "negative_prob": 0.565233,
+      "sentiment": 0
+    }
+  ]
+}{
+  "error_code": 18,
+  "error_msg": "Open api qps request limit reached"
+}{
+  "log_id": 1891728115783848199,
+  "text": "那些失去年轻孩子的父母不痛苦吗？那些尸横遍野的战场不令人恐惧吗？",
+  "items": [
+    {
+      "positive_prob": 0.00717284,
+      "confidence": 0.98406,
+      "negative_prob": 0.992827,
+      "sentiment": 0
+    }
+  ]
+}{
+  "log_id": 710221079087772039,
+  "text": "影片的最后有描写到冰雕连，也描写到有一个连全部牺牲阻击敌人，实在是太令人心疼了。这样的牺牲，在朝鲜战争里，实在是太多了，影片应该好好描述一下这些事迹，让和平年代的我们对那场战争有更深刻的感触。看电影之前，了解到电影有三个小时时长，因为看多了因为只有一个半小时时长而导致很多地方交待不完整的电影，所以对这点表示很满意和期待。三个大导演合拍，服化道具制作都很精良，很多老戏骨同台飙戏，可以看出电影制作的用心。电影中打仗的场景很多，枪林炮雨，飞机炮弹，现实中可能更残酷。个人很喜欢战争片，小时候看七七事变，那种家国情怀，总是能感同身受热泪盈眶，希望以后能出更多优秀的战争片，让大家记住历史，致敬革命先辈。",
+  "items": [
+    {
+      "positive_prob": 0.999986,
+      "confidence": 0.999969,
+      "negative_prob": 1.38655e-05,
+      "sentiment": 2
+    }
+  ]
+}{
+  "error_code": 18,
+  "error_msg": "Open api qps request limit reached"
+}{
+  "error_code": 18,
+  "error_msg": "Open api qps request limit reached"
+}{
+  "log_id": 8421965746461989223,
+  "error_code": 282134,
+  "error_msg": "input empty"
+}{
+  "log_id": 8712740341810427815,
+  "text": "《长津湖》以一名新生入伍的战士五万里（易烊千玺）饰的视角来展现战争的可怕，失去亲人的痛苦，在电影里我甚至能亲身感受到，和平对我们这个时代的人们有多么重要！",
+  "items": [
+    {
+      "positive_prob": 0.996065,
+      "confidence": 0.991256,
+      "negative_prob": 0.00393473,
+      "sentiment": 2
+    }
+  ]
+}{
+  "error_code": 18,
+  "error_msg": "Open api qps request limit reached"
+}{
+  "log_id": 45098369754899239,
+  "text": "《长津湖》有两场战役让我记忆犹新，第一次与美军交锋，吴京展示了极强的 战斗力，与敌人殊死搏斗，跳入坦克车，在车里与余从戎（李晨）饰开着坦克与敌人奋力抵抗，最终把敌人血洗。小时候就喜欢看战争片，小时候看七七事变，被战争中家国情怀感动得热泪盈眶，也很心疼战争中逝去的英雄们。这部电影时长三小时，让我打消了过分剪辑故事不完整的顾虑。三大导演联合拍摄，里面服化道具也很用心，很多老戏骨，演员们演技精湛。四字弟弟演的角色感觉和中国医生里差不多，也是职场战场小白升职记，可能是因为流量明星，所以特意为他打造了这么一个感觉跟电影没啥关系的人物。《长津湖》",
+  "items": [
+    {
+      "positive_prob": 0.999986,
+      "confidence": 0.999968,
+      "negative_prob": 1.42519e-05,
+      "sentiment": 2
+    }
+  ]
+}{
+  "error_code": 18,
+  "error_msg": "Open api qps request limit reached"
+}{
+  "log_id": 8811207860551252359,
+  "text": "唯一哭的地方就是胡兵演的雷爹自我牺牲把标识弹弄走的一幕。那个沂蒙小调的声音一出来，我眼泪直接就射出来了，不得不说胡兵演得是真好。但是抛开感动来看，我觉得这个情节不是太合理。就是典型的一人拯救整个班部队牺牲自己的个人英雄主义，我也没有搜到真实案例，也许是艺术化处理，但不太能接受，我宁愿是整个部队有序撤离，但是他为了保护仅存的几架炮而牺牲。而整个电影里长津湖这一战拍完雷爹牺牲后志愿军就没多少剧情了，结束的很突兀。",
+  "items": [
+    {
+      "positive_prob": 0.831929,
+      "confidence": 0.626509,
+      "negative_prob": 0.168071,
+      "sentiment": 2
+    }
+  ]
+}{
+  "error_code": 18,
+  "error_msg": "Open api qps request limit reached"
+}{
+  "error_code": 18,
+  "error_msg": "Open api qps request limit reached"
+}{
+  "error_code": 18,
+  "error_msg": "Open api qps request limit reached"
+}{
+  "log_id": 1143691804312187719,
+  "text": "致敬伟大的英雄们！两个愿望写在前头：一是希望我们的中国多一些这样的电影，二是别再有战争。",
+  "items": [
+    {
+      "positive_prob": 0.999451,
+      "confidence": 0.99878,
+      "negative_prob": 0.000549134,
+      "sentiment": 2
+    }
+  ]
+}{
+  "log_id": 3857679931693098887,
+  "error_code": 282134,
+  "error_msg": "input empty"
+}{
+  "error_code": 18,
+  "error_msg": "Open api qps request limit reached"
+}{
+  "log_id": 1547531893768575111,
+  "error_code": 282134,
+  "error_msg": "input empty"
+}{
+  "log_id": 6410053805679265959,
+  "text": "因为那个年代有他们“打得一拳开，免得百拳来”，现在的青年人才没什么必要的使命捆绑在身。我不愿看流血那场面，但《长津湖》真实到：我觉得观看流血的历史就是当代青年人的潜在使命。",
+  "items": [
+    {
+      "positive_prob": 0.704055,
+      "confidence": 0.342344,
+      "negative_prob": 0.295945,
+      "sentiment": 2
+    }
+  ]
+}{
+  "error_code": 18,
+  "error_msg": "Open api qps request limit reached"
+}{
+  "log_id": 7470404113747504711,
+  "text": "是的，真实，就是真实。",
+  "items": [
+    {
+      "positive_prob": 0.997686,
+      "confidence": 0.994858,
+      "negative_prob": 0.00231392,
+      "sentiment": 2
+    }
+  ]
+}{
+  "error_code": 18,
+  "error_msg": "Open api qps request limit reached"
+}{
+  "error_code": 18,
+  "error_msg": "Open api qps request limit reached"
+}{
+  "log_id": 2207652748663704167,
+  "text": "176分钟太长，长到人物都有血有肉。很多细节让人物一下子变鲜活，跳脱出我们印象中都是艰苦忧伤的历史，把黑色染成了彩。",
+  "items": [
+    {
+      "positive_prob": 0.98423,
+      "confidence": 0.964955,
+      "negative_prob": 0.0157703,
+      "sentiment": 2
+    }
+  ]
+}{
+  "log_id": 9067758656330779879,
+  "error_code": 282134,
+  "error_msg": "input empty"
+}{
+  "error_code": 18,
+  "error_msg": "Open api qps request limit reached"
+}{
+  "log_id": 6402275865219405063,
+  "error_code": 282134,
+  "error_msg": "input empty"
+}{
+  "log_id": 2077990128621192295,
+  "text": "看之前问自己：都死了吗？都死了我就不要去看。",
+  "items": [
+    {
+      "positive_prob": 0.000375124,
+      "confidence": 0.999166,
+      "negative_prob": 0.999625,
+      "sentiment": 0
+    }
+  ]
+}{
+  "error_code": 18,
+  "error_msg": "Open api qps request limit reached"
+}{
+  "error_code": 18,
+  "error_msg": "Open api qps request limit reached"
+}{
+  "log_id": 1600643272711199815,
+  "error_code": 282134,
+  "error_msg": "input empty"
+}{
+  "log_id": 9095318669277630279,
+  "text": "冻土豆递来递去，到我手已成了美味佳肴。从主题来说，我觉得给满分，这样题材的电影正是当下需要的，铭记历史，缅怀我们的英雄，有很强的教育意义，好比我老婆，就被震撼到了，因为她对那段历史的记忆，除了一个“抗美援朝”四个字基本没有了，很空白，所以即使是通过电影这个载体，让她们更多的了解那段历史我觉得就是成功了。4星基于商业片观众的角度。但对于从这段历史讲述的听众角度而言只能2星。单位组织看了长津湖，我以前也看过一些参加过朝鲜战争的中国老人和外国老人的纪录片。电影里的某些场景已经很惨烈了，但是我知道真实的历史战争只会更残酷。电影里都有鞋穿，但纪录片里有些士兵根本没有棉衣，甚至没有鞋穿，有的单鞋甚至草鞋，脚冻的都已经没有知觉甚至溃烂，就那样还要行军打仗，没有实物只能吃土豆，甚至一直饿着。电影里雷公，杨根思和毛岸英牺牲的那里止不住流泪，但现实战争里牺牲的更是千千万万的军人。十九多万人，是一个很庞大的数字了。那一代人努力奋战，只为能够保家卫国，让后来人能过上和平的生活，和平生活来之不易。致敬，铭记所有英雄。       无数革命先辈用钢铁之躯，铸就了今日的和平年代。在极度恶劣的环境和资源严重匮乏的条件下，进行了一场看似不可能胜利的战争。他们想尽办法客服困难，完成了一个个不可能完成的任务，他们的坚持，他们的信念，获得了敌军最高将领的敬意。如果牺牲任何一个人，可以换来大家的和平，你会怎么做?带着小学生一块去看的，三个小时的时长看战争片也看的很过瘾，就是看完脑子一直嗡嗡的。",
+  "items": [
+    {
+      "positive_prob": 0.99984,
+      "confidence": 0.999645,
+      "negative_prob": 0.000159587,
+      "sentiment": 2
+    }
+  ]
+}{
+  "log_id": 6338289197491467431,
+  "text": "抗美援朝的相关战役最近有看过一些，譬如金刚川，跨过鸭绿江。但都没有这次让人真实的感觉到战争的残酷，人命的脆弱，不论是敌机的轰炸还是机枪的扫射，都让人深刻感受到，那种环境下我们没有退路只能勇往直前。",
+  "items": [
+    {
+      "positive_prob": 0.636712,
+      "confidence": 0.192693,
+      "negative_prob": 0.363288,
+      "sentiment": 2
+    }
+  ]
+}{
+  "log_id": 2365434027075297799,
+  "text": "老实说看抗战片的时候特别容易被其中的故事感动，每每音乐响起就忍不住要掉泪，第一个记住的名字是张小川，那个带着万里到处跑的小伙子，也是在调皮天真的年纪，就在装死尸的那刻被打的不成人形；还有后面指导员在山坡着急的到处翻找，终于看到了被烧了一半的照片，喃喃道爸爸对不起你，指导员的那一句“我们不打仗，那我们的下一代就要打”，我们的和平生活都是先烈们用生命换来的；最催泪的自然是雷公，那句我好疼一出口，真的爆泪了…",
+  "items": [
+    {
+      "positive_prob": 0.981146,
+      "confidence": 0.958101,
+      "negative_prob": 0.0188544,
+      "sentiment": 2
+    }
+  ]
+}{
+  "error_code": 18,
+  "error_msg": "Open api qps request limit reached"
+}{
+  "log_id": 5891190946889193831,
+  "text": "大家好，我是充满元气的枫叶飞翔，欢迎各位来到我的枫叶飞翔说电影做客，今天我将为大家讲述的正是这部电影，它是由陈凯歌、徐克、林超贤执导，由吴京、易烊千玺、段奕宏、朱亚文、胡军、李晨、张涵予等演员演出，可以说是一次非常具有历史意义的战争题材的教育片，是根据真实事件改编的，无论是成人还是中小学生，都很适合他们观看，教会他们爱国情怀。",
+  "items": [
+    {
+      "positive_prob": 0.999936,
+      "confidence": 0.999857,
+      "negative_prob": 6.42754e-05,
+      "sentiment": 2
+    }
+  ]
+}{
+  "error_code": 18,
+  "error_msg": "Open api qps request limit reached"
+}{
+  "log_id": 2288919609909322343,
+  "text": "《长津湖》这部影片，以老兵的视角回顾那场惨烈的战斗，无涉胜败。零下40度的严寒，使战斗变得更加悲壮。健在的老兵在讲述这个故事时，充满感情。离开战场就不再敌对，他们对敌方军人流露同情和敬意。六，七十年过去了，当年活泼好动的年轻人，都垂垂老矣，但他们依然可爱。他们回忆起当时的场景真是不堪回首，让人心痛：",
+  "items": [
+    {
+      "positive_prob": 0.999524,
+      "confidence": 0.998942,
+      "negative_prob": 0.000476317,
+      "sentiment": 2
+    }
+  ]
+}{
+  "log_id": 676524335715156295,
+  "error_code": 282134,
+  "error_msg": "input empty"
+}{
+  "error_code": 18,
+  "error_msg": "Open api qps request limit reached"
+}{
+  "log_id": 4454514267395279975,
+  "error_code": 282134,
+  "error_msg": "input empty"
+}{
+  "log_id": 3412447276707032199,
+  "text": "由于入朝仓促",
+  "items": [
+    {
+      "positive_prob": 0.92467,
+      "confidence": 0.832599,
+      "negative_prob": 0.0753303,
+      "sentiment": 2
+    }
+  ]
+}{
+  "error_code": 18,
+  "error_msg": "Open api qps request limit reached"
+}{
+  "error_code": 18,
+  "error_msg": "Open api qps request limit reached"
+}{
+  "log_id": 80726912315217479,
+  "error_code": 282134,
+  "error_msg": "input empty"
+}{
+  "log_id": 2295526019421527303,
+  "text": "弹药不能及时供给",
+  "items": [
+    {
+      "positive_prob": 0.0283026,
+      "confidence": 0.937105,
+      "negative_prob": 0.971697,
+      "sentiment": 0
+    }
+  ]
+}{
+  "error_code": 18,
+  "error_msg": "Open api qps request limit reached"
+}{
+  "log_id": 8430694356043601863,
+  "text": "冬季物资也不能及时补充",
+  "items": [
+    {
+      "positive_prob": 0.0487558,
+      "confidence": 0.891654,
+      "negative_prob": 0.951244,
+      "sentiment": 0
+    }
+  ]
+}{
+  "log_id": 3437799340406110215,
+  "error_code": 282134,
+  "error_msg": "input empty"
+}{
+  "log_id": 5995993436502444935,
+  "text": "大量战士冻死冻伤",
+  "items": [
+    {
+      "positive_prob": 0.0803217,
+      "confidence": 0.821507,
+      "negative_prob": 0.919678,
+      "sentiment": 0
+    }
+  ]
+}{
+  "log_id": 8805804436672093959,
+  "error_code": 282134,
+  "error_msg": "input empty"
+}{
+  "error_code": 18,
+  "error_msg": "Open api qps request limit reached"
+}{
+  "log_id": 4801288728110053575,
+  "error_code": 282134,
+  "error_msg": "input empty"
+}{
+  "log_id": 2455505460188126983,
+  "text": "当时的长津湖有多冷？",
+  "items": [
+    {
+      "positive_prob": 0.380539,
+      "confidence": 0.154357,
+      "negative_prob": 0.619461,
+      "sentiment": 0
+    }
+  ]
+}{
+  "error_code": 18,
+  "error_msg": "Open api qps request limit reached"
+}{
+  "log_id": 6342504115092898215,
+  "text": "参加过这场战役的老战士周全弟",
+  "items": [
+    {
+      "positive_prob": 0.991002,
+      "confidence": 0.980004,
+      "negative_prob": 0.00899822,
+      "sentiment": 2
+    }
+  ]
+}{
+  "log_id": 6562254767899718599,
+  "error_code": 282134,
+  "error_msg": "input empty"
+}{
+  "log_id": 5658758881409235143,
+  "text": "作为幸存者，他历历在目：",
+  "items": [
+    {
+      "positive_prob": 0.7422,
+      "confidence": 0.427112,
+      "negative_prob": 0.2578,
+      "sentiment": 2
+    }
+  ]
+}{
+  "log_id": 8358053407486269415,
+  "error_code": 282134,
+  "error_msg": "input empty"
+}{
+  "log_id": 2719560139660956935,
+  "text": "“解小手都不能",
+  "items": [
+    {
+      "positive_prob": 0.00719065,
+      "confidence": 0.984021,
+      "negative_prob": 0.992809,
+      "sentiment": 0
+    }
+  ]
+}{
+  "log_id": 3773824244912595559,
+  "error_code": 282134,
+  "error_msg": "input empty"
+}{
+  "error_code": 18,
+  "error_msg": "Open api qps request limit reached"
+}{
+  "log_id": 685466502901384135,
+  "error_code": 282134,
+  "error_msg": "input empty"
+}{
+  "log_id": 615265539926055463,
+  "text": "全部冻麻木了",
+  "items": [
+    {
+      "positive_prob": 0.0229996,
+      "confidence": 0.94889,
+      "negative_prob": 0.977,
+      "sentiment": 0
+    }
+  ]
+}{
+  "error_code": 18,
+  "error_msg": "Open api qps request limit reached"
+}{
+  "log_id": 1054372642975240231,
+  "text": "用针扎都不晓得疼”",
+  "items": [
+    {
+      "positive_prob": 0.402215,
+      "confidence": 0.10619,
+      "negative_prob": 0.597785,
+      "sentiment": 0
+    }
+  ]
+}{
+  "error_code": 18,
+  "error_msg": "Open api qps request limit reached"
+}{
+  "log_id": 8265276268367130311,
+  "text": "我印象最深刻的是里面的一句台词：",
+  "items": [
+    {
+      "positive_prob": 0.746773,
+      "confidence": 0.437274,
+      "negative_prob": 0.253227,
+      "sentiment": 2
+    }
+  ]
+}{
+  "error_code": 18,
+  "error_msg": "Open api qps request limit reached"
+}{
+  "log_id": 155091552763442087,
+  "text": "电影《长津湖》主要以抗美援朝战争第二次战役中的长津湖战役为背景，讲述了一段波澜壮阔的历史：71年前中国人民志愿军赴朝作战，在极寒严酷环境下，东线作战部队凭着钢铁意志和英勇无畏的战斗精神一路追击，奋勇杀敌，扭转了战争态势，打出了军威国威。",
+  "items": [
+    {
+      "positive_prob": 0.997248,
+      "confidence": 0.993885,
+      "negative_prob": 0.00275166,
+      "sentiment": 2
+    }
+  ]
+}{
+  "error_code": 18,
+  "error_msg": "Open api qps request limit reached"
+}{
+  "error_code": 18,
+  "error_msg": "Open api qps request limit reached"
+}{
+  "error_code": 18,
+  "error_msg": "Open api qps request limit reached"
+}{
+  "error_code": 18,
+  "error_msg": "Open api qps request limit reached"
+}{
+  "error_code": 18,
+  "error_msg": "Open api qps request limit reached"
+}{
+  "log_id": 7820859413191376615,
+  "text": "电影场面恢宏，整个剧情详略得当，敌我双方的激烈交战，使我的仿佛亲临现场。志愿军战士们的强大决心与视死如归。许多年轻的将士们将自己的满腔热血挥洒在这片土地上，身为后人，我们应永远铭记这段历史，向英勇无畏的战士们致敬。",
+  "items": [
+    {
+      "positive_prob": 0.999936,
+      "confidence": 0.999858,
+      "negative_prob": 6.39277e-05,
+      "sentiment": 2
+    }
+  ]
+}{
+  "log_id": 8510537120500434951,
+  "error_code": 282134,
+  "error_msg": "input empty"
+}{
+  "error_code": 18,
+  "error_msg": "Open api qps request limit reached"
+}{
+  "log_id": 1321346257634196583,
+  "error_code": 282134,
+  "error_msg": "input empty"
+}{
+  "log_id": 6667329815162136999,
+  "text": "喜欢这部战争片的朋友不妨去电影院看看，感觉真的很震撼，就像是亲临其境，回味无穷。我是充满元气的枫叶飞翔，陪您共赏好剧，分享更多干货，请关注我为我点赞，谢谢，下期再见！",
+  "items": [
+    {
+      "positive_prob": 0.999988,
+      "confidence": 0.999974,
+      "negative_prob": 1.1834e-05,
+      "sentiment": 2
+    }
+  ]
+}{
+  "error_code": 18,
+  "error_msg": "Open api qps request limit reached"
+}{
+  "log_id": 8432101036527359239,
+  "text": "在我看来，一部好的电影是能真正打动人心，而长津湖正是这样一部影片。",
+  "items": [
+    {
+      "positive_prob": 0.999198,
+      "confidence": 0.998219,
+      "negative_prob": 0.000801667,
+      "sentiment": 2
+    }
+  ]
+}{
+  "log_id": 7902920004587440519,
+  "text": "小的时候听大人们讲抗美援朝战争，一直不能明白为什么要去帮朝鲜打仗，直到后来慢慢长大，才逐渐理解抗美援朝的重要意义。影片中提到“如果我们不打仗，就是我们的下一代要上战场”，这是七连指导员看着女儿照片说的一句话（大概是这个意思），先辈们用他们的鲜血换来了我们的和平。我一直庆幸我们可以生活在一个和平的国度，我没有说和平的年代，是因为此时此刻，世界并不和平，在我们看不见的地方，还有许许多多的炮火。“生而无悔入华夏”是我观影后的深切体会。华夏人民，渴望和平，却无惧战争，犯中华者，虽远必诛。",
+  "items": [
+    {
+      "positive_prob": 0.997523,
+      "confidence": 0.994496,
+      "negative_prob": 0.00247693,
+      "sentiment": 2
+    }
+  ]
+}{
+  "log_id": 2512876157806484231,
+  "text": "抗美援朝战争中无数战斗英雄牺牲于异国他乡。影片的一个片头，老雷牺牲前说“别把我自己留在这”，这是多少位英雄牺牲前最后的祈愿，而现实却是许许多多的人民英雄客死他乡，难归故土，甚至还有许多无名英雄。而我们的国家却从未放弃过寻他们回国，不断有抗美援朝的战士荣归故里，落叶归根。",
+  "items": [
+    {
+      "positive_prob": 0.998634,
+      "confidence": 0.996965,
+      "negative_prob": 0.00136575,
+      "sentiment": 2
+    }
+  ]
+}{
+  "log_id": 7285502501511990183,
+  "text": "任何年代都有为人民冲锋陷阵的人，他们始终冲在前线，为我们守护着平安盛世。如今国际社会也并不平静，而我们的国家却始终站在我们身前，也始终守护在我们身后。历史长河永远不会忘记为国家为人民做出贡献的人。",
+  "items": [
+    {
+      "positive_prob": 0.99674,
+      "confidence": 0.992754,
+      "negative_prob": 0.00326047,
+      "sentiment": 2
+    }
+  ]
+}{
+  "error_code": 18,
+  "error_msg": "Open api qps request limit reached"
+}{
+  "log_id": 3450129771502618919,
+  "text": "记忆深刻的片段一",
+  "items": [
+    {
+      "positive_prob": 0.999096,
+      "confidence": 0.99799,
+      "negative_prob": 0.000904301,
+      "sentiment": 2
+    }
+  ]
+}{
+  "log_id": 7961043656779582663,
+  "text": "在火车上伍万里拉开车厢门战士们看到万里长城沐浴在阳光之中，是多么的宏伟壮阔，连绵不绝像一幅画卷展开让人震撼，同时也坚定了战士们要用自己的血肉之躯捍卫这美好壮丽山河的决心。那一刻他们知道可能会战死他乡，故土的美好是他们心底的眷恋和牵挂。",
+  "items": [
+    {
+      "positive_prob": 0.999596,
+      "confidence": 0.999103,
+      "negative_prob": 0.00040366,
+      "sentiment": 2
+    }
+  ]
+}{
+  "error_code": 18,
+  "error_msg": "Open api qps request limit reached"
+}{
+  "log_id": 808161136823645159,
+  "text": "剧中有一句台词我记录下来了：“我们这一代来打仗，下一代就不用打仗了”，是先辈们的牺牲才换回我们今日的幸福生活，永远不能忘！雷公牺牲的太惨烈太破防了，他用自己的血肉之躯抱起了标识弹开车冲向美军，想牺牲自己保全更多的战士，冲往美军的过程中被流弹击中脸上鼻子里不停的流血最后车子被炸翻他被压在车下，满脸血污弥留之际跟伍千里说“好疼啊，疼死了，不要留我一个人在这里”伍千里不忍再看痛哭出声最后在名册上圈出了雷公的名字让人泪目。",
+  "items": [
+    {
+      "positive_prob": 0.592539,
+      "confidence": 0.0945302,
+      "negative_prob": 0.407461,
+      "sentiment": 2
+    }
+  ]
+}{
+  "log_id": 5622925993212894375,
+  "text": "记忆深刻片段三",
+  "items": [
+    {
+      "positive_prob": 0.990932,
+      "confidence": 0.97985,
+      "negative_prob": 0.00906761,
+      "sentiment": 2
+    }
+  ]
+}{
+  "error_code": 18,
+  "error_msg": "Open api qps request limit reached"
+}{
+  "log_id": 2228266055730588647,
+  "text": "这部电影很值得看，里面有很多经典也值得让人深思的片段，唯一一点不好就是结局有点仓促了，还在深陷其中就放字幕了，我想应该还会有第二部的吧，感觉后面还有很多情节没有交代清楚。",
+  "items": [
+    {
+      "positive_prob": 0.999885,
+      "confidence": 0.999744,
+      "negative_prob": 0.000115294,
+      "sentiment": 2
+    }
+  ]
+}{
+  "log_id": 8891747206839170631,
+  "text": "伟大的抗美援朝精神日久弥新，伟大的中国人民志愿军烈士永垂不朽！我们何其有幸，生于华夏，恰逢盛世，不经战乱，不缺医食，人民有信仰，国家有力量。",
+  "items": [
+    {
+      "positive_prob": 0.999774,
+      "confidence": 0.999499,
+      "negative_prob": 0.000225676,
+      "sentiment": 2
+    }
+  ]
+}{
+  "error_code": 18,
+  "error_msg": "Open api qps request limit reached"
+}{
+  "log_id": 5045044300944442663,
+  "text": "长津湖好哭的点其实不是硬煽情，影片节奏还挺快的，特别是进入战斗部分之后，一场战斗结束，你还没来得及哭，战士们已经进入下一个阶段了。因为影片没有预备时间给观众流泪，所以观影中，我只感到震撼、憋屈、以及联与当今现实对照的感慨。",
+  "items": [
+    {
+      "positive_prob": 0.999949,
+      "confidence": 0.999888,
+      "negative_prob": 5.06058e-05,
+      "sentiment": 2
+    }
+  ]
+}{
+  "log_id": 6349965514845884295,
+  "text": "片中，因为没有制空权，我们还没奔赴前线的战士被敌机当成赌注一样玩闹扫射。不满十九岁的小山和一群战友的命，竟然只值十美元。因为没有制空权，我们甚至连中心指挥所都被敌机炸掉，将军躲防空洞，领袖的骨肉被烧死。因为没有制空权，补给线被炸断，零下四十度的冰天雪地，我军战士们只能挨冻，吃着把牙都给崩掉的冻土豆，看敌军过感恩节。",
+  "items": [
+    {
+      "positive_prob": 0.00595417,
+      "confidence": 0.986769,
+      "negative_prob": 0.994046,
+      "sentiment": 0
+    }
+  ]
+}{
+  "error_code": 18,
+  "error_msg": "Open api qps request limit reached"
+}{
+  "error_code": 18,
+  "error_msg": "Open api qps request limit reached"
+}{
+  "log_id": 2852033213635039335,
+  "text": "电影《长津湖》从编剧到导演到演员的配置做到了让团队中每一个参与创作的人都在合适的位置上发挥出了自己的长处，陈凯歌的风景、文戏，徐克的分镜、侠气，林超贤的爆破、动作，架设在兰晓龙以小见大的成长型战争思考和王树增的悲情丰润，于节奏和远近景的张弛缩放上看下来是很合理舒服的。大段的爆破打斗，俯拍仰拍结合出美军制空机飞弹打的压迫感，志愿军数次被火力压制分散到最后发起总攻时吼出四面楚歌之效，面对冰冷的器械和强大而密集的火力打出五花八门的智慧。",
+  "items": [
+    {
+      "positive_prob": 0.999972,
+      "confidence": 0.999938,
+      "negative_prob": 2.7798e-05,
+      "sentiment": 2
+    }
+  ]
+}{
+  "log_id": 8727582110866980359,
+  "text": "《长津湖》在自身独立完整的故事线之外，精巧地补充连贯了几部经典之作，更使其自身的用心雕琢可见一斑，也让那一段历史的拼图能够更加楔成一个整体，让年轻人更好细化理解继往开来的整个因果逻辑。在优秀工业化电影的技术流之外，用心用脑子才是当下影视剧，尤其是主旋律电影最难能可贵的核心。《长津湖》在自身独立完整的故事线之外，精巧地补充连贯了几部经典之作，更使其自身的用心雕琢可见一斑，也让那一段历史的拼图能够更加楔成一个整体，让年轻人更好细化理解继往开来的整个因果逻辑。在优秀工业化电影的技术流之外，用心用脑子才是当下影视剧，尤其是主旋律电影最难能可贵的核心。",
+  "items": [
+    {
+      "positive_prob": 0.999986,
+      "confidence": 0.999968,
+      "negative_prob": 1.44369e-05,
+      "sentiment": 2
+    }
+  ]
+}{
+  "error_code": 18,
+  "error_msg": "Open api qps request limit reached"
+}{
+  "log_id": 6543380955817075367,
+  "text": "当然，每个人都是浓墨重彩的。",
+  "items": [
+    {
+      "positive_prob": 0.990691,
+      "confidence": 0.979314,
+      "negative_prob": 0.0093086,
+      "sentiment": 2
+    }
+  ]
+}{
+  "log_id": 1902674161719566919,
+  "text": "易同学在我印象里一直是乖巧的孩子的感觉，但每次都能把个性十足的、叛逆的、混不吝的小孩演得像样。",
+  "items": [
+    {
+      "positive_prob": 0.997262,
+      "confidence": 0.993915,
+      "negative_prob": 0.00273832,
+      "sentiment": 2
+    }
+  ]
+}{
+  "error_code": 18,
+  "error_msg": "Open api qps request limit reached"
+}{
+  "log_id": 7825843569927466151,
+  "text": "白雪皑皑的新兴里，连绵的深山，深红的火光和血色，冻成冰雕的战士，绝妙的和弦。",
+  "items": [
+    {
+      "positive_prob": 0.992525,
+      "confidence": 0.983389,
+      "negative_prob": 0.00747473,
+      "sentiment": 2
+    }
+  ]
+}{
+  "log_id": 1420019472875330919,
+  "text": "雷爹真有种，拔了敌军的标识弹，死前哼唱了一首沂蒙山小调。对我而言，乡愁是一剂温甜的药，故歌一唱，就击中了我的死穴，我死守的堡垒瞬间溃如流水。在七连又当爹又当妈的雷爹啊，嘴硬心软的雷公啊，这才是活着的人，活到袒胸露背迎接万箭攒头，犹能举头对苍天一笑。",
+  "items": [
+    {
+      "positive_prob": 0.0144089,
+      "confidence": 0.96798,
+      "negative_prob": 0.985591,
+      "sentiment": 0
+    }
+  ]
+}{
+  "log_id": 3918101345878026247,
+  "text": "青山埋白骨，绿水吊忠魂，英雄事迹不堪忘，需要时时回忆，警醒警醒。长津湖没有特别新奇的叙事技巧，但整体不失水平，战争场面恢宏，两场作战都拍得惊心动魄，看完甚至感觉锻炼了自己的动态视力。  整部电影看下来的感觉就是：场面很大，但内容很“空”。可以说一整部电影是用炮火的轰鸣和激烈的战斗为故事框架。首先，进入主要故事内容的节奏太慢，前期有很长一段时间的铺垫和介绍环节，算是介绍主要人物，以及为后面情节铺垫。其次，主角光环有一点重，五万里第一次开枪杀人犹豫的时间太长，在真正的战场上不但没有救到人还会使自己送命，这可能是为了彰显刚上战场的年轻孩子的对于真正上战场时面对敌军的害怕。渴望拿起神圣的枪，却又没有勇气扣钉板机。除此之外，电影过程中只着重描写了一个主要人物的牺牲：雷公。这个过程还是令人感触颇深。",
+  "items": [
+    {
+      "positive_prob": 0.985172,
+      "confidence": 0.967049,
+      "negative_prob": 0.0148277,
+      "sentiment": 2
+    }
+  ]
+}{
+  "log_id": 7405930964010638311,
+  "text": "在这部电影中，出现了几场抗美援朝战争的重要情节：杨根思独自一人打退了敌人的第八次战争，在电影中这个场景一带而过。没有深入了解该战役的观众可能只能通过文字大致了解这个情节。还有在抗美援朝战争中催人泪下的“冰雕连”在电影中也是只用几个士兵结冰的特写和美国军官的敬礼一笔带过。",
+  "items": [
+    {
+      "positive_prob": 0.998186,
+      "confidence": 0.99597,
+      "negative_prob": 0.00181361,
+      "sentiment": 2
+    }
+  ]
+}{
+  "error_code": 18,
+  "error_msg": "Open api qps request limit reached"
+}{
+  "log_id": 4711793230550974791,
+  "text": "对电影中存在一些疑惑：多次提到五百里的死因，但任然存在疑惑，以及五万里的红围巾和送他围巾的女孩。",
+  "items": [
+    {
+      "positive_prob": 0.5997,
+      "confidence": 0.110445,
+      "negative_prob": 0.4003,
+      "sentiment": 2
+    }
+  ]
+}{
+  "error_code": 18,
+  "error_msg": "Open api qps request limit reached"
+}{
+  "log_id": 8527304494664343111,
+  "text": "没人知道这次会不会赢，没人知道这次还能不能活着回来，但我们知道只要上级下达命令，无论此时此刻在做什么，战士们拿上枪就往战场上冲。",
+  "items": [
+    {
+      "positive_prob": 0.0448219,
+      "confidence": 0.900396,
+      "negative_prob": 0.955178,
+      "sentiment": 0
+    }
+  ]
+}{
+  "error_code": 18,
+  "error_msg": "Open api qps request limit reached"
+}{
+  "error_code": 18,
+  "error_msg": "Open api qps request limit reached"
+}{
+  "log_id": 1074194601813223943,
+  "text": "朝鲜半岛的青山绿水无疑是承载了许多不幸的，但是它也是幸运的，因为我们的志愿军战士的正义之血，终将开出最艳丽的花朵。",
+  "items": [
+    {
+      "positive_prob": 0.998225,
+      "confidence": 0.996055,
+      "negative_prob": 0.00177534,
+      "sentiment": 2
+    }
+  ]
+}{
+  "log_id": 5280756761978680679,
+  "text": "我在思考，是不是时代变了，现在大家都吃得饱饭了，没有战争了，每个人的生活从出生就一路平坦，开始出现了很多怪象？我也在想，或者说我们现在是不是还在打战，只是一场无形的战争？温室里的我们是不是又被很多伟人顶在身后了？",
+  "items": [
+    {
+      "positive_prob": 0.830107,
+      "confidence": 0.622459,
+      "negative_prob": 0.169893,
+      "sentiment": 2
+    }
+  ]
+}{
+  "error_code": 18,
+  "error_msg": "Open api qps request limit reached"
+}{
+  "log_id": 4779166703229072775,
+  "text": "当我看到中国战士们冻死在战场上时，我的眼泪一直在眼睛里打转，这一刻我甚至忘了战争，忘了危险，我所看到的是中国军人那颗致死守卫国家的决心和坚定不拔的勇气。这比什么都重要，这比打赢战争更打动我的心，这是中国精神，这就是中国力量。",
+  "items": [
+    {
+      "positive_prob": 0.999765,
+      "confidence": 0.999478,
+      "negative_prob": 0.000234762,
+      "sentiment": 2
+    }
+  ]
+}{
+  "log_id": 1047517857701035879,
+  "text": "山河破碎风飘絮，身世浮沉雨打萍。",
+  "items": [
+    {
+      "positive_prob": 0.596301,
+      "confidence": 0.102892,
+      "negative_prob": 0.403699,
+      "sentiment": 2
+    }
+  ]
+}{
+  "error_code": 18,
+  "error_msg": "Open api qps request limit reached"
+}{
+  "error_code": 18,
+  "error_msg": "Open api qps request limit reached"
+}{
+  "log_id": 4972135718635196135,
+  "text": "和平，需要珍惜。",
+  "items": [
+    {
+      "positive_prob": 0.904097,
+      "confidence": 0.786882,
+      "negative_prob": 0.095903,
+      "sentiment": 2
+    }
+  ]
+}{
+  "error_code": 18,
+  "error_msg": "Open api qps request limit reached"
+}{
+  "log_id": 9012296627079788679,
+  "text": "我们的愿望都是，世界和平！再也不想看战争片了。太难受了。开场30分钟就想走。",
+  "items": [
+    {
+      "positive_prob": 0.0163096,
+      "confidence": 0.963757,
+      "negative_prob": 0.98369,
+      "sentiment": 0
+    }
+  ]
+}{
+  "error_code": 18,
+  "error_msg": "Open api qps request limit reached"
+}{
+  "log_id": 5325599751043849895,
+  "text": "小时候就知道，抗美援朝的中国志愿军是“最可爱的人”，但那时我不理解，为什么国内战争刚刚结束，人们刚刚过上太平日子，中央一声令下，就要把老百姓的儿子再次送上战场，送到鸭绿江外，送到那冰天雪地，去援助“别人”。但《长津湖》告诉给了我两个答案：一为我们深爱的美丽河山，一为后辈的和平安康。“为什么我的眼里常含泪水，因为我对这土地爱得深沉。”是拉开火车门就能看到的美丽河山震撼、安抚一个新兵回家的心；是那梦中的家乡，沂蒙的青山绿水、谷子高粱，激励着一个老兵浴血奋战。电影中我最喜欢的角色是指导员梅生。明明有深爱的妻子女儿，明明可以退役不参战，明明知道去了可能回不来，他还是归队了。矛盾在战场上梅生抚摸女儿照片时得到解释。为了让下一代能够生长在一个没有硝烟的年代，为了更多我们爱的人，必须做出必要的自我牺牲。",
+  "items": [
+    {
+      "positive_prob": 0.999758,
+      "confidence": 0.999461,
+      "negative_prob": 0.000242338,
+      "sentiment": 2
+    }
+  ]
+}{
+  "error_code": 18,
+  "error_msg": "Open api qps request limit reached"
+}{
+  "error_code": 18,
+  "error_msg": "Open api qps request limit reached"
+}{
+  "log_id": 7558989735889464807,
+  "text": "我印象最深的，是他们跨过河床的那场戏。飞机把炮弹扔下来，但是我们只能躺在石头上活活被炸。血肉被炸飞也只能咬紧牙关忍着。真是太疼了。我忽然就懂为啥大家对出歼-20这些飞机这么开心了。制空权必须牢牢掌控在自己手里！",
+  "items": [
+    {
+      "positive_prob": 0.858687,
+      "confidence": 0.685972,
+      "negative_prob": 0.141313,
+      "sentiment": 2
+    }
+  ]
+}{
+  "log_id": 6536123786400087111,
+  "error_code": 282134,
+  "error_msg": "input empty"
+}{
+  "error_code": 18,
+  "error_msg": "Open api qps request limit reached"
+}{
+  "log_id": 7886934739233667527,
+  "error_code": 282134,
+  "error_msg": "input empty"
+}{
+  "log_id": 994327947388917959,
+  "text": "吴京怎么说呢，演得没胡军让我印象深刻哈哈哈哈哈。不像志愿军，身上现代兵的影子更多一点。",
+  "items": [
+    {
+      "positive_prob": 0.131168,
+      "confidence": 0.708515,
+      "negative_prob": 0.868832,
+      "sentiment": 0
+    }
+  ]
+}{
+  "error_code": 18,
+  "error_msg": "Open api qps request limit reached"
+}{
+  "log_id": 6562722485431810375,
+  "text": "之前没有看过易烊千玺演的剧或电影，这次看了，感觉挺失望的。前期摇头晃脑，演得像个zz，后期表现平平，离出色还差好大一口气。可能是营销把他抬太高了吧，觉得他在电影里，演的痕迹还挺重。",
+  "items": [
+    {
+      "positive_prob": 1.97464e-06,
+      "confidence": 0.999996,
+      "negative_prob": 0.999998,
+      "sentiment": 0
+    }
+  ]
+}{
+  "log_id": 8035068152522811271,
+  "error_code": 282134,
+  "error_msg": "input empty"
+}{
+  "error_code": 18,
+  "error_msg": "Open api qps request limit reached"
+}{
+  "log_id": 2717608837290347815,
+  "text": "对寒冷的描述也不到位，怎么讲，在零下四十度的环境中，还能聊天，还能热泪盈眶吗？怕不是马上变成冰碴子吧。",
+  "items": [
+    {
+      "positive_prob": 0.00194676,
+      "confidence": 0.995674,
+      "negative_prob": 0.998053,
+      "sentiment": 0
+    }
+  ]
+}{
+  "log_id": 2865045884249134663,
+  "error_code": 282134,
+  "error_msg": "input empty"
+}{
+  "error_code": 18,
+  "error_msg": "Open api qps request limit reached"
+}{
+  "error_code": 18,
+  "error_msg": "Open api qps request limit reached"
+}{
+  "log_id": 8540211325778781415,
+  "text": "陈凯歌，徐克，林超贤三位导演送上的《长津湖》是非常具有融合性的，在这部电影中我们可以看到满是他们的影子就比如:大场面制作在《我和我的祖国》《无极》等等一些影片，包括在该影片《长津湖》志愿军攻打北极熊团，强炸信号塔，乱石阵中躲避敌战斗机等多个片段都是非常有代入感和震撼感。而徐克导演则是以他代表的《智取威虎山》中的升格镜头的运用在《长津湖》中无论是炸弹爆炸的瞬间还是火光四射的战场，升格镜头  的运用便是最能阐述  暴力美学的了。美丽的事物，总是能够经受住时间的洗礼，沉淀出来的是精华，升格镜头正是如此。其次就是在电影中的真实感-（林超贤导演）看过《红海行动》与《湄公河行动》的朋友们都知道战场的真实感是能带入观众而引发深思的重要手段。林超贤导演不负众望再次将真实感压满整部影片。从而体现出 抗美援朝，保家卫国的核心。",
+  "items": [
+    {
+      "positive_prob": 0.999969,
+      "confidence": 0.999931,
+      "negative_prob": 3.10801e-05,
+      "sentiment": 2
+    }
+  ]
+}{
+  "log_id": 5367294048660159975,
+  "text": "一千个人的眼中有一千个哈姆雷特。《长津湖》中让我迷惑的地方也有很多。我只是斗胆发表我的言论。为什么在易烊千玺拿出两颗手雷扔向地方堡垒是那么的得心应手？虽说影片开头点出了他“打水漂 ”能力出众，可是在子弹如雨的战场抛开外力因素，也是有很小的几率吧。（仅为自己之所思想，勿抬杠）亲：",
+  "items": [
+    {
+      "positive_prob": 0.125071,
+      "confidence": 0.722065,
+      "negative_prob": 0.874929,
+      "sentiment": 0
+    }
+  ]
+}{
+  "log_id": 4512109621998543207,
+  "text": "展信佳，最近还好吗？一定有这样那样的难处吧？我也是呢，最近在这个坑道里都断粮好几天了。不过还好，在下一轮炮火来临前鹰酱他们应该还不会冲上来，趁着这个时候赶紧给亲写一封信，聊聊天。",
+  "items": [
+    {
+      "positive_prob": 0.0905859,
+      "confidence": 0.798698,
+      "negative_prob": 0.909414,
+      "sentiment": 0
+    }
+  ]
+}{
+  "error_code": 18,
+  "error_msg": "Open api qps request limit reached"
+}{
+  "error_code": 18,
+  "error_msg": "Open api qps request limit reached"
+}{
+  "error_code": 18,
+  "error_msg": "Open api qps request limit reached"
+}{
+  "log_id": 3470221974109887431,
+  "text": "“我们现在不打，下一代也要打这场仗，我们现在是替下一代打”",
+  "items": [
+    {
+      "positive_prob": 0.110684,
+      "confidence": 0.754035,
+      "negative_prob": 0.889316,
+      "sentiment": 0
+    }
+  ]
+}{
+  "error_code": 18,
+  "error_msg": "Open api qps request limit reached"
+}{
+  "error_code": 18,
+  "error_msg": "Open api qps request limit reached"
+}{
+  "error_code": 18,
+  "error_msg": "Open api qps request limit reached"
+}{
+  "error_code": 18,
+  "error_msg": "Open api qps request limit reached"
+}{
+  "error_code": 18,
+  "error_msg": "Open api qps request limit reached"
+}{
+  "error_code": 18,
+  "error_msg": "Open api qps request limit reached"
+}{
+  "log_id": 4035451251803455527,
+  "error_code": 282134,
+  "error_msg": "input empty"
+}{
+  "log_id": 9091799711524103847,
+  "text": "上战场的恐惧一直都在：新人兵老将们，他们不怕吗，怕啊。我记得胡军演绎的雷公把这种内心恐惧演绎得很刻骨铭心。",
+  "items": [
+    {
+      "positive_prob": 0.922662,
+      "confidence": 0.828137,
+      "negative_prob": 0.0773383,
+      "sentiment": 2
+    }
+  ]
+}{
+  "log_id": 3971732473814433319,
+  "error_code": 282134,
+  "error_msg": "input empty"
+}{
+  "error_code": 18,
+  "error_msg": "Open api qps request limit reached"
+}{
+  "error_code": 18,
+  "error_msg": "Open api qps request limit reached"
+}{
+  "error_code": 18,
+  "error_msg": "Open api qps request limit reached"
+}{
+  "log_id": 39802419241051943,
+  "text": "《长津湖》。先说结论，电影一般。但说不上神剧，夸张都在可以接受的范围。艺术的事情，不管雅俗都应放在艺术的范畴内讨论。",
+  "items": [
+    {
+      "positive_prob": 0.0414622,
+      "confidence": 0.907862,
+      "negative_prob": 0.958538,
+      "sentiment": 0
+    }
+  ]
+}{
+  "log_id": 1852519701332081991,
+  "text": "一，本片败笔在于叙事乏力。片子试图以近年流行的小切口（武千里两兄弟和七连）来表现大背景。然而导演又舍不得大场景，结果在造成人物塑造单薄，大场面只有场面没有层次和逻辑。看完以后，既不知道刻画了怎样的人，如果不是字幕，连战争胜利没有都不知道。",
+  "items": [
+    {
+      "positive_prob": 0.000262738,
+      "confidence": 0.999416,
+      "negative_prob": 0.999737,
+      "sentiment": 0
+    }
+  ]
+}{
+  "error_code": 18,
+  "error_msg": "Open api qps request limit reached"
+}{
+  "log_id": 2471097050372436391,
+  "text": "三，片子立意太低。长津湖战役是中国获胜，毋庸置疑，到中国的惨烈也毋庸置疑。美军虽然遭受重创，但机会完整撤退也是事实。这场战役，中国战斗伤亡一万多，非战斗伤亡（冻死冻伤）三万多。以这样的代价换来的战略胜利竟然在电影中关于战士冻死的镜头只有一分来钟。战争的惨烈，英雄的精神难道就只剩下碰碰碰碰？",
+  "items": [
+    {
+      "positive_prob": 0.0419335,
+      "confidence": 0.906814,
+      "negative_prob": 0.958066,
+      "sentiment": 0
+    }
+  ]
+}{
+  "log_id": 1437372959070578439,
+  "text": "四，电影基本尊重史实。为了观看本部电影，在有限的时间内，先后看了美国纪录片《长津湖》，中国纪录片，冰雪长津湖，以及百度百科和维基百科的相关词条。大多数细节有出处。今天看完《长津湖》我才发现自己的一个习惯有点儿不靠谱——以前也常这么做，没觉出来特别明显的不妥——在看一部电影之前，先跟网上找差评，带着各种陌生人的各种偏见走进电影院，有点儿类似于喜欢被剧透这种小癖好，然而当我再一次带着这样的预备去看《长津湖》时我发现，我差点儿被那波为了差评而差评的人左右，被限制，被预埋，一度相信这部电影“支离破碎”“故事性差”，通篇只有“炸炸炸”……",
+  "items": [
+    {
+      "positive_prob": 0.00350391,
+      "confidence": 0.992213,
+      "negative_prob": 0.996496,
+      "sentiment": 0
+    }
+  ]
+}{
+  "error_code": 18,
+  "error_msg": "Open api qps request limit reached"
+}{
+  "log_id": 6141045169856533863,
+  "text": "电影一开始水波平静，悠悠小船，宁静水乡代替了残酷硝烟，只可惜五毛特效的乡间小路让我对伍万里打出78910个水漂嗤之以鼻，瞧瞧，扔石头的动作和背景和假发一样假。",
+  "items": [
+    {
+      "positive_prob": 0.215672,
+      "confidence": 0.520729,
+      "negative_prob": 0.784328,
+      "sentiment": 0
+    }
+  ]
+}{
+  "log_id": 1475824901865539111,
+  "text": "伍千里从战场卸甲归来，自带光环的军人气质和这个渔船飘摇的家格格不入，却吸引了伍万里对部队的向往，最终一家兄弟三人成为七连三颗坚固的螺丝钉，虽然大哥伍百里已经牺牲在解放战争的沙场上。",
+  "items": [
+    {
+      "positive_prob": 0.997025,
+      "confidence": 0.99339,
+      "negative_prob": 0.00297466,
+      "sentiment": 2
+    }
+  ]
+}{
+  "error_code": 18,
+  "error_msg": "Open api qps request limit reached"
+}{
+  "log_id": 9022599355023002119,
+  "text": "讨论角色不能脱离演员本身，恰恰张涵予的宋时轮司令总是让我看到朝鲜战场上谷子地的影子，从造型到台词。我真的特别想看到他像在《动什么别动感情》里面那样再演一回小心眼儿男人，贱不喽馊哆里哆嗦，别一演什么都是红星二锅头：就是这个味儿，正！再说，一个好演员不应该是即使两个角色造型人物再接近也能诠释得迥然不同么？对比之下李晨儿的余从戎、朱亚文儿的上海男人指导员在这里都让我忘记了他们曾经的角色。最惊艳的当属胡军，他参加综艺那啥去哪之时，我曾惋惜担心他再无法成功塑造新的角色。我很反感真正的演员参加综艺，真正的演员只有在保持自己这个人相对神秘的前提下，才能塑造出让观众忘了你是谁的角色，可但是雷雎生他居然成功了，看电影的时候我就在想，要是有个什么明目的最佳男配角应该颁给胡军一个，这个幸存下来目前七连最老的兵，胆小心细，没有个人英雄主义却做了最无畏的献身，临牺牲前没有颤抖着血手从上衣口袋掏出最后一笔党费，而是让大家不要把他一个人留在那里，胡军将之演绎得可爱可敬，山东大汉的直率娇羞小算盘跃然银幕。",
+  "items": [
+    {
+      "positive_prob": 0.982768,
+      "confidence": 0.961707,
+      "negative_prob": 0.017232,
+      "sentiment": 2
+    }
+  ]
+}{
+  "log_id": 3248736470189316135,
+  "text": "其中有个片段，美军北极熊的团长在伍千里面前受致命伤后靠坐在桌边上粗重地倒着生命中最后几口气，伍万里从屋外闯进来，看到这一幕要抬枪将之击毙，被伍千里阻止，说有的枪能开有的枪不能开。战场上搏杀是执行军人的职责，而向将死之人开枪，则是杀戮，年轻的伍万里如果能从战场上全身而退，他的生活还有无限可能，这也是哥哥对弟弟的一种保护吧，我猜想这一段是陈凯歌的手笔？",
+  "items": [
+    {
+      "positive_prob": 0.474049,
+      "confidence": 0.480989,
+      "negative_prob": 0.525951,
+      "sentiment": 1
+    }
+  ]
+}{
+  "error_code": 18,
+  "error_msg": "Open api qps request limit reached"
+}{
+  "error_code": 18,
+  "error_msg": "Open api qps request limit reached"
+}{
+  "log_id": 4397280054948298215,
+  "text": "电影全篇类似的铺垫和呼应还有很多，有很多导演和观众之间不言自明的小默契。遗憾的是很多场景的剪辑怪里怪气，经常镜头突然一转，出来两个抱在一起扭杀的人，他们究竟是哪两个人却让观众一脸问号。",
+  "items": [
+    {
+      "positive_prob": 0.756613,
+      "confidence": 0.459139,
+      "negative_prob": 0.243387,
+      "sentiment": 2
+    }
+  ]
+}{
+  "log_id": 6688648529747723463,
+  "text": "我喜欢电影中小军鼓的配乐，行进的节奏，营造着紧张急促的气氛，而当片中角色流露出一个个普通人的情绪时缓缓流出的钢琴声，悠扬轻灵又深沉，是狂轰滥炸中片刻的宁静。",
+  "items": [
+    {
+      "positive_prob": 0.999307,
+      "confidence": 0.998461,
+      "negative_prob": 0.00069263,
+      "sentiment": 2
+    }
+  ]
+}{
+  "log_id": 8001551498750844871,
+  "text": "看完这部三个小时的电影，我只想说我若早出生50年，我一定要手握钢枪走向前线，我想这也是电影为我们传达出来的感召，艺术作品的妙效就是通过艺术的手段点燃观众的共鸣，用艺术之手带你走进电影营造的精神世界。这部电影真没看过，但是很想去看，出于好奇心，我就去各大网站上找些评论看看，都是不错的评论，很想去看，也是对于志愿军由衷的敬意，是他们用鲜血换来我们今天的幸福！去年的金刚川看的我就热血沸腾，今年长津湖我一定要去看。影片节凑挺快，特别是进入战斗部分，一场战斗结束，你还没来的哭，战士们进入下一个阶段了。说实话我有点跳戏了，一直等着吴磊出来，结果电影结束了问舍友为什么吴磊没在，哦原来不是这个。喜欢黄轩好帅好帅呀。一只蛋从外边被敲开只能被吃掉，暂时从里边啄开，说不定是老鹰呢！场面的震撼。无悔生在华夏！增强自己的民族自豪感，其实我之前没看过这些抗战相关的电影，这次也没有后悔去看，或许若干年以后，会被奉为经典，深度解析。我害怕剧中的主角牺牲，英雄之所以被称为英雄，必然有超越凡人的坚韧。欧豪扮演的杨根思烈士“不相信有完不成的任务，不相信有克服不了的困难，不相信有战胜不了的敌人！”。电影让人动容和心疼。今天下午，和同学一起去看了这部电影。很幸运，我们现在处于一个和平的年代，而这正是我们的前辈们誓死捍卫出来的。",
+  "items": [
+    {
+      "positive_prob": 0.999933,
+      "confidence": 0.99985,
+      "negative_prob": 6.73783e-05,
+      "sentiment": 2
+    }
+  ]
+}{
+  "log_id": 1578375936485987143,
+  "error_code": 282134,
+  "error_msg": "input empty"
+}{
+  "error_code": 18,
+  "error_msg": "Open api qps request limit reached"
+}{
+  "log_id": 5280537875748863783,
+  "error_code": 282134,
+  "error_msg": "input empty"
+}{
+  "log_id": 3888632838680381511,
+  "text": "印象很深的画面还有：我们的战士们吃着冻土豆，而敌军却在庆祝感恩节，吃着美食，真的非常揪心。还有一幕是雷爹的牺牲，真的让人非常难过。我们要勿忘历史，珍惜和平！今天下午，和同学一起去看了这部电影。很幸运，我们现在处于一个和平的年代，而这正是我们的前辈们誓死捍卫出来的。",
+  "items": [
+    {
+      "positive_prob": 0.999468,
+      "confidence": 0.998819,
+      "negative_prob": 0.000531735,
+      "sentiment": 2
+    }
+  ]
+}{
+  "error_code": 18,
+  "error_msg": "Open api qps request limit reached"
+}{
+  "log_id": 6670560269076843623,
+  "error_code": 282134,
+  "error_msg": "input empty"
+}{
+  "log_id": 8856431705082340967,
+  "error_code": 282134,
+  "error_msg": "input empty"
+}{
+  "error_code": 18,
+  "error_msg": "Open api qps request limit reached"
+}{
+  "log_id": 1855546345609536679,
+  "text": "其实我们能在什么都缺的情况下战胜什么都不缺的美军",
+  "items": [
+    {
+      "positive_prob": 0.148477,
+      "confidence": 0.67005,
+      "negative_prob": 0.851523,
+      "sentiment": 0
+    }
+  ]
+}{
+  "error_code": 18,
+  "error_msg": "Open api qps request limit reached"
+}{
+  "error_code": 18,
+  "error_msg": "Open api qps request limit reached"
+}{
+  "error_code": 18,
+  "error_msg": "Open api qps request limit reached"
+}{
+  "log_id": 5463101534162630951,
+  "text": "我想我并不精通历史，也不能像专业影评人一样细数剧情bug，我只想，《长津湖》的立意以及这份伟大抗美援朝的精神传递就已经高于一切了。",
+  "items": [
+    {
+      "positive_prob": 0.160967,
+      "confidence": 0.642296,
+      "negative_prob": 0.839033,
+      "sentiment": 0
+    }
+  ]
+}{
+  "log_id": 1576828226539757831,
+  "text": "最后，电影里我最喜欢的角色是胡军演的老雷，非常真实，演得也很真实。我选择共情的方式去看这部电影，去体会他们当时的心情，去感受他们那个年代。伍万里刚出场的时候，我旁边有人说他这个角色被演成了个&quot;智障&quot;一样，可我觉得他并不是。谁有能说当时的伍万里不可以或者不会是这个样子呢？在那个年代，一个十几岁的孩子，他们难道可以在游乐场，在补习班，在网上冲浪？当然不可能！打水漂，在山林里，溪水边，就已经很不错了。有人可能会觉得，他们那样疯又没礼貌，那个正常人会这样？没有人天生就长成所谓的优质青年的，在那个年代，能活着，能吃饱就是他们的全部了。我很难过，我很感激，我很敬佩。在飞机把躺在石头上的我们的先辈们当做死尸轰炸时，他们看着身边战友被炸的面目全非，却连大气都不敢出一声，直到暂时安全了才表露出自己的悲伤，这悲伤，撕心裂肺，震耳欲聋，让我几乎喘不过气来，我知道战场远远比我们能知道的，能想到的更残酷。当雷爹开着车载着标识弹一路狂飙的时候，他知不知道自己会死？当他们在冰天雪地里每日只吃一个土豆时，他们害怕过吗？又是为什么让他们坚持了下来呢？我看完电影后一直在想，是为什么呢？大概是为家为国，为了他们身后的家人，为了他们誓死捍卫的祖国，也为了后来的我们。片头船屋的戏很有些陈凯歌的质感，战斗场面的剪辑很有些林超贤的风格。但二者的文武并没有能够交相辉映，反倒有些格格不入。影片想讲的很多，但却仅仅只是些主旋律内容的简单糅合，乱而无主的剧情也使之后的感情流露有些空穴来风。",
+  "items": [
+    {
+      "positive_prob": 0.48929,
+      "confidence": 0.785802,
+      "negative_prob": 0.51071,
+      "sentiment": 1
+    }
+  ]
+}{
+  "error_code": 18,
+  "error_msg": "Open api qps request limit reached"
+}{
+  "log_id": 3984363879482285383,
+  "text": "伟大的抗美援朝精神值得颂扬更应保护。",
+  "items": [
+    {
+      "positive_prob": 0.998806,
+      "confidence": 0.997348,
+      "negative_prob": 0.00119356,
+      "sentiment": 2
+    }
+  ]
+}{
+  "error_code": 18,
+  "error_msg": "Open api qps request limit reached"
+}{
+  "log_id": 4560878789467666791,
+  "error_code": 282134,
+  "error_msg": "input empty"
+}{
+  "log_id": 6067525766215977895,
+  "error_code": 282134,
+  "error_msg": "input empty"
+}{
+  "error_code": 18,
+  "error_msg": "Open api qps request limit reached"
+}{
+  "error_code": 18,
+  "error_msg": "Open api qps request limit reached"
+}{
+  "log_id": 6511677595269252327,
+  "text": "2.前两个小时节奏很紧凑，特别是从下火车躲轰炸到小村第一次正面交锋，紧张到手汗直冒；",
+  "items": [
+    {
+      "positive_prob": 0.557541,
+      "confidence": 0.0167567,
+      "negative_prob": 0.442459,
+      "sentiment": 2
+    }
+  ]
+}{
+  "error_code": 18,
+  "error_msg": "Open api qps request limit reached"
+}{
+  "log_id": 5466577017707026727,
+  "text": "4.想表现得内容太多，剧本深度有待增厚。百里的牺牲、万里的红围巾都是挖下了有头没尾的坑，“刘秘书”的牺牲更是难以用“壮烈”形容，包括最后高潮的老兵牺牲，也没有很好的铺垫；",
+  "items": [
+    {
+      "positive_prob": 0.0102281,
+      "confidence": 0.977271,
+      "negative_prob": 0.989772,
+      "sentiment": 0
+    }
+  ]
+}{
+  "log_id": 5832184246594572711,
+  "text": "5.想描写群像但用力太浅，几个主角完全靠演技撑起来，结果整场下来也没看出个性格使然，感觉既想描写大战争又想刻画战争中的人物，中间人物描写有点突兀（比如那个打不死的英雄…）结果顾此失彼。先说战争场面的拍摄，可以说是目前为止最震撼的大兵团作战的战争制作，简直是目前国产电影天花板似的存在。看的太过瘾，太震撼了。文戏稍弱，以前拍的三大战役，除了战争场面不能和长津湖比以外，其他方面完胜。美军的部署安排，太过脸谱化，没有详细的刻画。当时国内国外形势的复杂和一穷二白国力的刻画几乎没有，这就导致这部片子在深度上有所欠缺。易烊千玺饰演的小兵是个败笔，就好像是葱花芫荽成了主菜，夺了味。这个人物可以有，但不该成为主角。这是一部群像戏，可以选择刻画人物更多样，更立体，但不该单一人物加重戏份。就算是要加重也应该是具体事件里面的关键人物，比如杨根思等。易烊千玺这个人物的刻画，从头到尾感觉是游离于整个故事线之外，而且又给一个完整的成长线，但是群像故事里又不存在主角，不存在超级英雄，但他的设计和拍摄手法从始至终给人感觉他会成长为一个超级英雄，这就很尴尬。因为如果后期真的让他成为了一个超级英雄。那整个片子就又降了一个档次，成了战狼3了，就不是一个真正意义上的战争片，而成了一个爆米花片了。所以这个角色的存在意义就是担心观众看的太入戏。而来让观众出戏的。但瑕不掩瑜，这部片子仍然是目前国内最好的战争片，给个五星，希望以后多出这样的片子。 特效满满，剧情正常吧。",
+  "items": [
+    {
+      "positive_prob": 0.976918,
+      "confidence": 0.948706,
+      "negative_prob": 0.0230825,
+      "sentiment": 2
+    }
+  ]
+}{
+  "error_code": 18,
+  "error_msg": "Open api qps request limit reached"
+}{
+  "log_id": 7040870285680112935,
+  "text": "但是很多铺垫感觉没有对得上，比如说易烊千玺扔手榴弹的时候前面打水漂对应后面掷手榴弹很准，但是后面吴京说让千玺跟着他是要让他掷手榴弹的，结果到结束都没有，就觉得有点失望。",
+  "items": [
+    {
+      "positive_prob": 0.0319472,
+      "confidence": 0.929006,
+      "negative_prob": 0.968053,
+      "sentiment": 0
+    }
+  ]
+}{
+  "log_id": 3745208933372042951,
+  "text": "再者说一下整个剧情的铺垫，一开始讲了他们到达长津湖是多么艰辛（这段剧情在我看来最精彩，也最值得一看，应该是整个剧的高潮），再后来到了长津湖正式开战，再到整个战役的胜利 我以为后面会再有个高潮收尾，结果就只简单收尾，感觉没有那种很大的震撼。",
+  "items": [
+    {
+      "positive_prob": 0.985328,
+      "confidence": 0.967395,
+      "negative_prob": 0.0146721,
+      "sentiment": 2
+    }
+  ]
+}{
+  "log_id": 6301318177380743495,
+  "text": "还有一些人物的设置感觉很刻意了，毛岸英就出场了几个画面，很难让人对他有很深的情感，我可以理解在他真正身份的加持下，观众会关注他，但是从剧情上讲，真的就设置的十分不好。每次看战争片的战争画面，我总是会害怕的心砰砰直跳，不敢看那些血腥的，残酷的，随时有人牺牲的画面。",
+  "items": [
+    {
+      "positive_prob": 0.56507,
+      "confidence": 0.0334888,
+      "negative_prob": 0.43493,
+      "sentiment": 2
+    }
+  ]
+}{
+  "log_id": 6935806480136575943,
+  "error_code": 282134,
+  "error_msg": "input empty"
+}{
+  "error_code": 18,
+  "error_msg": "Open api qps request limit reached"
+}{
+  "error_code": 18,
+  "error_msg": "Open api qps request limit reached"
+}{
+  "log_id": 6413126087120348679,
+  "text": "《长津湖》从出品方、到编剧，导演，再到本片的主演，都是国内顶尖的。不愧是国内战争片的天花板。",
+  "items": [
+    {
+      "positive_prob": 0.999794,
+      "confidence": 0.999542,
+      "negative_prob": 0.00020603,
+      "sentiment": 2
+    }
+  ]
+}{
+  "log_id": 2559011840203911303,
+  "text": "陈凯歌导演把人物性格特点描绘的鲜明，奠定了人物基调，更拍出了祖国的壮美河山。徐导和林导拍的战争动作场面非常真实，如身临其境。",
+  "items": [
+    {
+      "positive_prob": 0.999981,
+      "confidence": 0.999958,
+      "negative_prob": 1.89e-05,
+      "sentiment": 2
+    }
+  ]
+}{
+  "log_id": 6703175922282971047,
+  "text": "再说说各位主演，演技方面，吴京，胡军，段奕宏，李晨，朱亚文，都是老戏骨，绝对的实力派兼演技派，果然很博纳，请到的演员全是国内一流，唯一一个小鲜肉易烊千玺，之前的几部影视作品也都是可圈可点，受到了业界一致好评，绝不是流量花瓶，浪得虚名，从台词到形体，没有一处让人觉得做作跑戏，整部影片都引人入胜，三个小时一点都不觉得拖沓冗长，节奏把握非常好。以易烊千玺主演的新兵“伍万里”的视角来了解朝鲜战争，更有代入感，把我们这些没有经历过战争，和平年代出生的观影者一步一步的代入故事，慢慢了解战争的真实与残酷，更加体会“繁华盛世，来之不易”！千玺的眼神和肢体动作都非常到位，从听说给娶媳妇儿的小窃喜，到失去战友的悲伤以及对敌人的憎恨，很有层次感，不得不说千玺确实是一个优秀的，有天赋的青年演员。",
+  "items": [
+    {
+      "positive_prob": 0.999988,
+      "confidence": 0.999974,
+      "negative_prob": 1.18587e-05,
+      "sentiment": 2
+    }
+  ]
+}{
+  "log_id": 2622141662485153959,
+  "text": "总之，值得一看，再看。看这场电影时，我内心震撼；看完后心里五味杂陈当看到我们的志愿军取下肩章帽徽时，我们国家不愿意打仗，可这场仗我们不得不打",
+  "items": [
+    {
+      "positive_prob": 0.999834,
+      "confidence": 0.999632,
+      "negative_prob": 0.000165533,
+      "sentiment": 2
+    }
+  ]
+}{
+  "log_id": 3585315913693329511,
+  "text": "当看到万里长城延绵不绝时候，万里长城抵御外敌，祖国大好河山我们要保卫她",
+  "items": [
+    {
+      "positive_prob": 0.999936,
+      "confidence": 0.999859,
+      "negative_prob": 6.36337e-05,
+      "sentiment": 2
+    }
+  ]
+}{
+  "log_id": 5298696594318451687,
+  "text": "当看到以美国为首的17国联合军队对打到我们国家境内时，他们在试探我们的态度，看看新中国是否软弱可欺",
+  "items": [
+    {
+      "positive_prob": 0.0302212,
+      "confidence": 0.932842,
+      "negative_prob": 0.969779,
+      "sentiment": 0
+    }
+  ]
+}{
+  "error_code": 18,
+  "error_msg": "Open api qps request limit reached"
+}{
+  "error_code": 18,
+  "error_msg": "Open api qps request limit reached"
+}{
+  "log_id": 7022988617166060199,
+  "text": "当看到我们的志愿军战士在冰天雪地只有一个土豆充饥的时候，美国的军人在吃大餐。如此艰苦的条件下我们的志愿军战士取得了胜利，是需要付出多大的代价",
+  "items": [
+    {
+      "positive_prob": 0.217595,
+      "confidence": 0.516456,
+      "negative_prob": 0.782405,
+      "sentiment": 0
+    }
+  ]
+}{
+  "log_id": 8873467301275519015,
+  "error_code": 282134,
+  "error_msg": "input empty"
+}{
+  "error_code": 18,
+  "error_msg": "Open api qps request limit reached"
+}{
+  "error_code": 18,
+  "error_msg": "Open api qps request limit reached"
+}{
+  "error_code": 18,
+  "error_msg": "Open api qps request limit reached"
+}{
+  "log_id": 2150376694798696199,
+  "error_code": 282134,
+  "error_msg": "input empty"
+}{
+  "log_id": 703726202039427687,
+  "text": "当看到以美国为首的17国联合军队对打到我们国家境内时，他们在试探我们的态度，看看新中国是否软弱可欺",
+  "items": [
+    {
+      "positive_prob": 0.0302212,
+      "confidence": 0.932842,
+      "negative_prob": 0.969779,
+      "sentiment": 0
+    }
+  ]
+}{
+  "error_code": 18,
+  "error_msg": "Open api qps request limit reached"
+}{
+  "error_code": 18,
+  "error_msg": "Open api qps request limit reached"
+}{
+  "log_id": 1993082227441057415,
+  "error_code": 282134,
+  "error_msg": "input empty"
+}{
+  "log_id": 28008811793037575,
+  "text": "当听到说这场仗我们不打，就是我们的下一代要打的时候，保家卫国的决心",
+  "items": [
+    {
+      "positive_prob": 0.547919,
+      "confidence": 0.0416243,
+      "negative_prob": 0.452081,
+      "sentiment": 1
+    }
+  ]
+}{
+  "log_id": 1794901714773350823,
+  "error_code": 282134,
+  "error_msg": "input empty"
+}{
+  "error_code": 18,
+  "error_msg": "Open api qps request limit reached"
+}{
+  "error_code": 18,
+  "error_msg": "Open api qps request limit reached"
+}{
+  "log_id": 3552047420845317191,
+  "error_code": 282134,
+  "error_msg": "input empty"
+}{
+  "log_id": 9120083110014934503,
+  "text": "保和平，卫祖国，就是保家乡；",
+  "items": [
+    {
+      "positive_prob": 0.994474,
+      "confidence": 0.987721,
+      "negative_prob": 0.00552559,
+      "sentiment": 2
+    }
+  ]
+}{
+  "error_code": 18,
+  "error_msg": "Open api qps request limit reached"
+}{
+  "log_id": 8375220912567913959,
+  "text": "中国好儿女，齐心团结聚，抗美援朝；",
+  "items": [
+    {
+      "positive_prob": 0.992378,
+      "confidence": 0.983062,
+      "negative_prob": 0.00762227,
+      "sentiment": 2
+    }
+  ]
+}{
+  "error_code": 18,
+  "error_msg": "Open api qps request limit reached"
+}{
+  "error_code": 18,
+  "error_msg": "Open api qps request limit reached"
+}{
+  "error_code": 18,
+  "error_msg": "Open api qps request limit reached"
+}{
+  "log_id": 1324453525288164551,
+  "text": "——《中国人民志愿者军歌》",
+  "items": [
+    {
+      "positive_prob": 0.61741,
+      "confidence": 0.149799,
+      "negative_prob": 0.38259,
+      "sentiment": 2
+    }
+  ]
+}{
+  "log_id": 5805626291391309351,
+  "error_code": 282134,
+  "error_msg": "input empty"
+}{
+  "error_code": 18,
+  "error_msg": "Open api qps request limit reached"
+}{
+  "log_id": 5400831855681363527,
+  "error_code": 282134,
+  "error_msg": "input empty"
+}{
+  "log_id": 1829345297537923719,
+  "text": "1937.7.7 卢沟桥事变，中日战争全面爆发",
+  "items": [
+    {
+      "positive_prob": 0.986207,
+      "confidence": 0.96935,
+      "negative_prob": 0.0137928,
+      "sentiment": 2
+    }
+  ]
+}{
+  "error_code": 18,
+  "error_msg": "Open api qps request limit reached"
+}{
+  "log_id": 8794726313208711271,
+  "text": "1941.12.7 日本发动太平洋战争（对方曾参与过太平洋战役）",
+  "items": [
+    {
+      "positive_prob": 0.907072,
+      "confidence": 0.793493,
+      "negative_prob": 0.092928,
+      "sentiment": 2
+    }
+  ]
+}{
+  "log_id": 8001196340344089799,
+  "error_code": 282134,
+  "error_msg": "input empty"
+}{
+  "error_code": 18,
+  "error_msg": "Open api qps request limit reached"
+}{
+  "error_code": 18,
+  "error_msg": "Open api qps request limit reached"
+}{
+  "log_id": 7647559766750801511,
+  "text": "1949.10.1中华人民共和国成立，标志中国民主主义革命胜利，社会主义革命的开始。",
+  "items": [
+    {
+      "positive_prob": 0.994389,
+      "confidence": 0.987532,
+      "negative_prob": 0.00561063,
+      "sentiment": 2
+    }
+  ]
+}{
+  "error_code": 18,
+  "error_msg": "Open api qps request limit reached"
+}{
+  "error_code": 18,
+  "error_msg": "Open api qps request limit reached"
+}{
+  "error_code": 18,
+  "error_msg": "Open api qps request limit reached"
+}{
+  "error_code": 18,
+  "error_msg": "Open api qps request limit reached"
+}{
+  "log_id": 2506021283691460359,
+  "error_code": 282134,
+  "error_msg": "input empty"
+}{
+  "log_id": 8292287320754273799,
+  "error_code": 282134,
+  "error_msg": "input empty"
+}{
+  "error_code": 18,
+  "error_msg": "Open api qps request limit reached"
+}{
+  "error_code": 18,
+  "error_msg": "Open api qps request limit reached"
+}{
+  "log_id": 2508234115641081383,
+  "text": "1947杜鲁门主义的出台，标志美苏冷战开始；马歇尔计划通过援助欧洲经济恢复，控制和占领欧洲市场，抗衡苏联。",
+  "items": [
+    {
+      "positive_prob": 0.978819,
+      "confidence": 0.952931,
+      "negative_prob": 0.0211812,
+      "sentiment": 2
+    }
+  ]
+}{
+  "log_id": 9197910620563064167,
+  "error_code": 282134,
+  "error_msg": "input empty"
+}{
+  "error_code": 18,
+  "error_msg": "Open api qps request limit reached"
+}{
+  "log_id": 73285943501675911,
+  "text": "1950.10—1953.7   抗美援朝战争",
+  "items": [
+    {
+      "positive_prob": 0.954138,
+      "confidence": 0.898084,
+      "negative_prob": 0.0458622,
+      "sentiment": 2
+    }
+  ]
+}{
+  "error_code": 18,
+  "error_msg": "Open api qps request limit reached"
+}{
+  "error_code": 18,
+  "error_msg": "Open api qps request limit reached"
+}{
+  "log_id": 3855601899479785767,
+  "text": "抗美援朝的原因：",
+  "items": [
+    {
+      "positive_prob": 0.703948,
+      "confidence": 0.342107,
+      "negative_prob": 0.296052,
+      "sentiment": 2
+    }
+  ]
+}{
+  "error_code": 18,
+  "error_msg": "Open api qps request limit reached"
+}{
+  "log_id": 4312563698169248071,
+  "text": "1. 社会主义政营；",
+  "items": [
+    {
+      "positive_prob": 0.873149,
+      "confidence": 0.718108,
+      "negative_prob": 0.126851,
+      "sentiment": 2
+    }
+  ]
+}{
+  "error_code": 18,
+  "error_msg": "Open api qps request limit reached"
+}{
+  "log_id": 6097803838886484039,
+  "text": "2. 保家卫国，美侵犯边境，巩固国家领土，提高国际地位；",
+  "items": [
+    {
+      "positive_prob": 0.98051,
+      "confidence": 0.956689,
+      "negative_prob": 0.0194901,
+      "sentiment": 2
+    }
+  ]
+}{
+  "error_code": 18,
+  "error_msg": "Open api qps request limit reached"
+}{
+  "error_code": 18,
+  "error_msg": "Open api qps request limit reached"
+}{
+  "log_id": 7353909992784597063,
+  "error_code": 282134,
+  "error_msg": "input empty"
+}{
+  "log_id": 1779952609198606375,
+  "error_code": 282134,
+  "error_msg": "input empty"
+}{
+  "error_code": 18,
+  "error_msg": "Open api qps request limit reached"
+}{
+  "error_code": 18,
+  "error_msg": "Open api qps request limit reached"
+}{
+  "log_id": 6470715080328248423,
+  "error_code": 282134,
+  "error_msg": "input empty"
+}{
+  "log_id": 1756388656167602887,
+  "text": "长津湖战役是抗美援朝战争的第二次战役中发生在长津湖地区的一场战役。中国人民志愿军在艰难困苦的条件下，与武器装备先进、战功显赫的美军在1950年11月27日至12月24日在朝鲜长津湖地区进行直接较量。这场战役收复三八线以北的东部广大地区。志愿军在东西两线同时大捷，扭转了战争劣势，为最终到来的停战谈判奠定了胜利基础。”",
+  "items": [
+    {
+      "positive_prob": 0.995654,
+      "confidence": 0.990342,
+      "negative_prob": 0.004346,
+      "sentiment": 2
+    }
+  ]
+}{
+  "error_code": 18,
+  "error_msg": "Open api qps request limit reached"
+}{
+  "error_code": 18,
+  "error_msg": "Open api qps request limit reached"
+}{
+  "error_code": 18,
+  "error_msg": "Open api qps request limit reached"
+}{
+  "error_code": 18,
+  "error_msg": "Open api qps request limit reached"
+}{
+  "log_id": 8890617775815163399,
+  "text": "火车上七连的战士一个接一个说出自己的名字、打开车厢入目便是新中国的朝阳、在美军庆祝圣诞的另一边是志愿军在满天风雪里满身冰碴子啃着从怀里掏出的冻土豆、雷爹开车移走标记弹、前面的人倒下立马有人补上他的位置继续冲锋……",
+  "items": [
+    {
+      "positive_prob": 0.898393,
+      "confidence": 0.774208,
+      "negative_prob": 0.101607,
+      "sentiment": 2
+    }
+  ]
+}{
+  "error_code": 18,
+  "error_msg": "Open api qps request limit reached"
+}{
+  "log_id": 1123522711649189735,
+  "text": "三个多小时的电影放在如今普遍一、二个小时的电影时长来说确实算长的，但是正是这样长度的战斗情节，才能让我们真正感知革命先辈的艰难以及当今的和平来之不易。我从来没有像今天这样了解到“枪林弹雨”究竟是个什么场面，子弹密密麻麻地袭来，冲在最前面的战士视而不见依旧举枪进攻，前面的人倒下了，后面的人立马补上，在时长占比超过一半的战斗部分，“前赴后继”这个词一直在我脑海中浮现，不只是长津湖一战，也不止是在抗美援朝战役，在中国近代风雨飘摇的百年以来，正是因为这群“前赴后继”的革命烈士，中国才能巍然不倒，屹立东方。感觉不够看啊，太震撼了，很多细节都很好，铭记历史，缅怀先烈啊！！！！因为有你们，我们才能生活在这个和平年代，看看现在那些还在战争混乱的国家，我感到自己无比的幸运。这个影片不同人的感受不同，有好评，也有差评，但就我来说我很喜欢，我感觉我还可以看很多次。我感觉我的爱国情怀得到了又一次升华，我身边很多人都很说电影很好《长津湖》观后思绪一二。值得一看。",
+  "items": [
+    {
+      "positive_prob": 0.999958,
+      "confidence": 0.999907,
+      "negative_prob": 4.19738e-05,
+      "sentiment": 2
+    }
+  ]
+}{
+  "error_code": 18,
+  "error_msg": "Open api qps request limit reached"
+}{
+  "log_id": 8407990356335794375,
+  "text": "感触最深的两句话:",
+  "items": [
+    {
+      "positive_prob": 0.984191,
+      "confidence": 0.964869,
+      "negative_prob": 0.0158088,
+      "sentiment": 2
+    }
+  ]
+}{
+  "error_code": 18,
+  "error_msg": "Open api qps request limit reached"
+}{
+  "error_code": 18,
+  "error_msg": "Open api qps request limit reached"
+}{
+  "log_id": 4896139497733526823,
+  "text": "这大概也是如今年代爱国教育的意义:不忘历史、缅怀先烈、珍惜和平。",
+  "items": [
+    {
+      "positive_prob": 0.998414,
+      "confidence": 0.996476,
+      "negative_prob": 0.0015857,
+      "sentiment": 2
+    }
+  ]
+}{
+  "log_id": 4690342338250937511,
+  "text": "看电影前先看了长津湖之战的相关历史，收有冻伤冻残的志愿军遗骸的纪念馆，吃的粮食，穿的单衣，战争伤亡数据。真实而不可置信。",
+  "items": [
+    {
+      "positive_prob": 0.808864,
+      "confidence": 0.575254,
+      "negative_prob": 0.191136,
+      "sentiment": 2
+    }
+  ]
+}{
+  "error_code": 18,
+  "error_msg": "Open api qps request limit reached"
+}{
+  "log_id": 745233865653508871,
+  "text": "选的演员基本上都是我喜欢的硬汉风格，（没有说流量不好，只是硬汉能更好的饰演出战争片内军人的气魄）胡军这次做了雷爹，因为战争，故乡沂蒙山没有了家人，所有七连的大孩子小孩子都是他默默爱护的“小兔崽子”。朱亚文的角色，在经历一夜的攻塔战，在战场上翻出烧掉一半的女儿照片时，他哭引而哀恸。吴京的二哥，一直想护着三弟活着，他肯定已经想好了自己和大哥一样为战胜而牺牲的准备，但是希望三弟可以平安活着陪着爹娘，来年开春把房子盖好，从此陪着爹娘过上有盼头幸福的生活。另外还有我最爱的段奕宏饰演了角色、抗美战中杨根思牺牲的片段、伍千里小本儿上有个细节特写，有位小战士15岁就牺牲了！！！",
+  "items": [
+    {
+      "positive_prob": 0.999917,
+      "confidence": 0.999815,
+      "negative_prob": 8.34498e-05,
+      "sentiment": 2
+    }
+  ]
+}{
+  "log_id": 4405056685692920071,
+  "text": "不是杀20个敌人才算英雄，上了战场就已经是英雄！",
+  "items": [
+    {
+      "positive_prob": 0.0237364,
+      "confidence": 0.947253,
+      "negative_prob": 0.976264,
+      "sentiment": 0
+    }
+  ]
+}{
+  "error_code": 18,
+  "error_msg": "Open api qps request limit reached"
+}{
+  "log_id": 1567460839456807655,
+  "text": "电影不完美在于攻塔的前半部分着墨太多，导致“长津湖”这个最中心的故事没有份额了。近三个小时的电影，从讲长津湖故事的时候，就开始很紧，三场不同缘由战争场面的描写，分散了中心点。真正的长津湖战在加入雷爹牺牲片段后根本没时间去刻画了。",
+  "items": [
+    {
+      "positive_prob": 0.00410975,
+      "confidence": 0.990867,
+      "negative_prob": 0.99589,
+      "sentiment": 0
+    }
+  ]
+}{
+  "error_code": 18,
+  "error_msg": "Open api qps request limit reached"
+}{
+  "error_code": 18,
+  "error_msg": "Open api qps request limit reached"
+}{
+  "log_id": 9053988298173455783,
+  "text": "另外还有值得一提的是，没有主观丑化敌人，电影中有两个美国士兵说“他送来了圣诞节清单，但我最想的还是回家”。所以战争是“兴，百姓苦；亡，百姓苦。”哪个士兵不是万千人家的儿子。",
+  "items": [
+    {
+      "positive_prob": 0.671268,
+      "confidence": 0.269484,
+      "negative_prob": 0.328732,
+      "sentiment": 2
+    }
+  ]
+}{
+  "log_id": 6268650238933782503,
+  "text": "战争是美政治博弈的手段、政治之下的牺牲品。昔日白雪皑皑的战场，无数战士化作丰碑遥望着故乡，如今这里碧草蓝天，一派安宁祥和。多想对长眠于此的先辈说，如今繁华盛世如你所想。先辈的付出，我们永远不会忘记。 山河已无恙，光影敬英雄。感觉达到了预期，上映之前听说剧情有点散，看过之后感觉其实挺紧凑，主要两场战役，中间夹杂着行军过程（个人感觉第一场其实比第二场更有看点，美军的火力压制特别明显，敌人的强大才能证明我军的力量），整体下来剧情走向上没有什么特别大的缺点，但可惜的是也没有特别大的优点，可能问题出现在高潮部分，确实没有第一场战役紧张刺激。但是三个小时下来却不会让你感觉特别冗长，剧情编排还是可以，而且这部电影有指导员了（终于！！）；到最后的泪点还是很足的，说实话到最后看到志愿军被冻僵时还持这战斗姿势，这里真的绷不住直接泪目，历史上确实有这样的记载，咱们能打赢美国佬确实也靠得是战斗意志，而且当看电影的话感觉人海战术也起了作用（也就是战术比较强，毕竟七连还是穿插连）",
+  "items": [
+    {
+      "positive_prob": 0.99997,
+      "confidence": 0.999933,
+      "negative_prob": 3.00085e-05,
+      "sentiment": 2
+    }
+  ]
+}{
+  "error_code": 18,
+  "error_msg": "Open api qps request limit reached"
+}{
+  "log_id": 2710795392059231559,
+  "text": "总结一下确实有缺点，但是总体上还是达到了预期（当然是我的预期），可能也有一些电影化加工的地方导致有些不真实，但毕竟是电影嘛（还有剧中的雷爹长的和我的WEB老师一模一样，看着好亲切hhhh）典型的爱国教育片。",
+  "items": [
+    {
+      "positive_prob": 0.981607,
+      "confidence": 0.959127,
+      "negative_prob": 0.0183927,
+      "sentiment": 2
+    }
+  ]
+}{
+  "log_id": 8779417879328688391,
+  "text": "在现代社会的声色犬马中，大多数人为着房子、车子、孩子忙碌着，淡漠而焦虑。爱国之心，只是在微博的评论中时而显现。而一年一度的国庆节对国家的意义，也被假期所冲淡，国庆档的影片，便成了爱国历史教育的输出口。",
+  "items": [
+    {
+      "positive_prob": 0.995312,
+      "confidence": 0.989583,
+      "negative_prob": 0.00468771,
+      "sentiment": 2
+    }
+  ]
+}{
+  "error_code": 18,
+  "error_msg": "Open api qps request limit reached"
+}{
+  "error_code": 18,
+  "error_msg": "Open api qps request limit reached"
+}{
+  "log_id": 6714887572291463047,
+  "text": "但是故事所想要表达的东西太多，以至于显得有些零碎，虽然战争画面震撼，但是失却了真实感。影片虽然想表现战士们平凡的一面，但是过于刻意，反而架空了人物，感情显得生硬。",
+  "items": [
+    {
+      "positive_prob": 0.282249,
+      "confidence": 0.372781,
+      "negative_prob": 0.717751,
+      "sentiment": 0
+    }
+  ]
+}{
+  "log_id": 1130552730790906983,
+  "text": "总而言之，是一部好的爱国教育片，但是不是一部有艺术价值的电影。",
+  "items": [
+    {
+      "positive_prob": 0.140404,
+      "confidence": 0.68799,
+      "negative_prob": 0.859596,
+      "sentiment": 0
+    }
+  ]
+}{
+  "error_code": 18,
+  "error_msg": "Open api qps request limit reached"
+}{
+  "log_id": 7103298144928299655,
+  "text": "我们不打仗，要打仗的就是孩子们观影之前和朋友感叹近三个小时的电影时间，可能会很累，买了超大桶爆米花和水，但随着波澜壮阔的场面一幕幕出现，激烈的战斗场面的发生，根本就无暇顾及其他。看到土豆把战士牙都咯掉了，有好笑 又想哭，瞬间觉得爆米花不香了，好想给他们一堆吃的。特别是冰雕连，泪水忍不住的流下。结束时还意犹未尽 ，致敬先烈们，这盛世繁华，如您所想。电影《长津湖》中感动人的瞬间有很多，唯独这一段，让人心里不是滋味。",
+  "items": [
+    {
+      "positive_prob": 0.900315,
+      "confidence": 0.778478,
+      "negative_prob": 0.0996848,
+      "sentiment": 2
+    }
+  ]
+}{
+  "error_code": 18,
+  "error_msg": "Open api qps request limit reached"
+}{
+  "error_code": 18,
+  "error_msg": "Open api qps request limit reached"
+}{
+  "log_id": 5068054075767898631,
+  "error_code": 282134,
+  "error_msg": "input empty"
+}{
+  "log_id": 4280489564776902855,
+  "text": "麦克莱恩只是中弹，并没有死亡，很难说还有没有战斗力，而兄弟俩既没有捕俘也没有击毙敌人，就走了。",
+  "items": [
+    {
+      "positive_prob": 0.0187706,
+      "confidence": 0.958287,
+      "negative_prob": 0.981229,
+      "sentiment": 0
+    }
+  ]
+}{
+  "error_code": 18,
+  "error_msg": "Open api qps request limit reached"
+}{
+  "error_code": 18,
+  "error_msg": "Open api qps request limit reached"
+}{
+  "log_id": 4630929598309971079,
+  "error_code": 282134,
+  "error_msg": "input empty"
+}{
+  "error_code": 18,
+  "error_msg": "Open api qps request limit reached"
+}{
+  "error_code": 18,
+  "error_msg": "Open api qps request limit reached"
+}{
+  "log_id": 2082313901574072135,
+  "text": "什么叫“不向敌人乱开枪”？战场上不是敌人死就是自己死，开枪还需要区分什么是正确的开枪，什么是乱开枪？",
+  "items": [
+    {
+      "positive_prob": 0.000409181,
+      "confidence": 0.999091,
+      "negative_prob": 0.999591,
+      "sentiment": 0
+    }
+  ]
+}{
+  "log_id": 5713168492029913575,
+  "error_code": 282134,
+  "error_msg": "input empty"
+}{
+  "error_code": 18,
+  "error_msg": "Open api qps request limit reached"
+}{
+  "log_id": 3478579557141069319,
+  "error_code": 282134,
+  "error_msg": "input empty"
+}{
+  "log_id": 1140673540032691879,
+  "text": "而不少电影人都把这句话当作是电影中的亮点，人性价值的体现。实在不敢苟同。",
+  "items": [
+    {
+      "positive_prob": 0.14966,
+      "confidence": 0.667421,
+      "negative_prob": 0.85034,
+      "sentiment": 0
+    }
+  ]
+}{
+  "log_id": 2573310323865923143,
+  "error_code": 282134,
+  "error_msg": "input empty"
+}{
+  "log_id": 7911961902194205031,
+  "text": "好好看看《上甘岭》吧，不要把和平年代认知的所谓的“人类共同价值”嫁接到战争年代，对敌人去讲人性。",
+  "items": [
+    {
+      "positive_prob": 0.0264144,
+      "confidence": 0.941301,
+      "negative_prob": 0.973586,
+      "sentiment": 0
+    }
+  ]
+}{
+  "error_code": 18,
+  "error_msg": "Open api qps request limit reached"
+}{
+  "log_id": 4965905890079680999,
+  "text": "（这是@青衣的书影世界    2021年第395篇原创作品。说书影，聊情感，洞见人生人性。与大家有缘相聚在文字中。)今天是十月五号在电影中刚好是抗美援朝的开始。",
+  "items": [
+    {
+      "positive_prob": 0.999309,
+      "confidence": 0.998463,
+      "negative_prob": 0.000691495,
+      "sentiment": 2
+    }
+  ]
+}{
+  "log_id": 5556067467953176167,
+  "text": "在课本中我了解关于抗美援朝的历史事件较少！今天看了《长津湖》我进一步了解了。抗美援朝在课本中只了解到了最重要的战役和，战士们在抗美援朝上的哪些贡献。",
+  "items": [
+    {
+      "positive_prob": 0.94877,
+      "confidence": 0.886156,
+      "negative_prob": 0.0512297,
+      "sentiment": 2
+    }
+  ]
+}{
+  "log_id": 1510175285611328231,
+  "text": "电影《长津湖》真正的告诉了我什么叫战争什么叫“抗美援朝精神”，抗美援朝，它告诉了我们勿忘国耻，其实我觉得这部电影不太适合带12岁以下的小孩子去，因为里面的画面有一点血腥，不要问我为什么，因为我把我弟弟带去了，全程基本上他是唔着两个眼睛的，电影从画面感让我震撼不止，推荐初中生去看，在他们这个年纪，应该知道我们中国在战争时代的精神。",
+  "items": [
+    {
+      "positive_prob": 0.999787,
+      "confidence": 0.999526,
+      "negative_prob": 0.000213361,
+      "sentiment": 2
+    }
+  ]
+}{
+  "log_id": 3211120805143765991,
+  "text": "最开始是为了四字弟弟去看他的，但是我还是被他的剧情给震撼到了，尤其是最开始打仗的那一块，和最后，看见解放军被冻成冰雕的那会，特别的感动。是可以带老一辈人去看的。",
+  "items": [
+    {
+      "positive_prob": 0.999953,
+      "confidence": 0.999895,
+      "negative_prob": 4.71884e-05,
+      "sentiment": 2
+    }
+  ]
+}{
+  "log_id": 623444902593476007,
+  "text": "以吾辈之青春风华，捍卫为我盛世中国。希望我们这一辈年轻人为，自己的祖国创造更好的未来\\^O^/吾辈当自强。我们永远不会忘记历史[电影层面来讲]",
+  "items": [
+    {
+      "positive_prob": 0.999692,
+      "confidence": 0.999315,
+      "negative_prob": 0.000308293,
+      "sentiment": 2
+    }
+  ]
+}{
+  "log_id": 8273872465203464103,
+  "text": "陈凯歌徐克林超贤三位大导都有自己的坚持，不可避免导致影片多个片段的衔接不那么连贯，主要人物的塑造不那么丰满，毕竟是献礼片，啥都想讲的后果是影响了主线故事的叙述，将近3个小时的时长并没有讲好整个故事。",
+  "items": [
+    {
+      "positive_prob": 0.00895394,
+      "confidence": 0.980102,
+      "negative_prob": 0.991046,
+      "sentiment": 0
+    }
+  ]
+}{
+  "error_code": 18,
+  "error_msg": "Open api qps request limit reached"
+}{
+  "log_id": 6586246574030717735,
+  "text": "但电影对战争场面的刻画呈现还是十分精彩的，特别是村庄支援战那一段，林超贤导演对战争动作片节奏的把控当真超绝，完美地调动起了我的肾上腺素！反倒是最后的长津湖总攻，感觉从压抑被调动到高潮的情绪，未能得到足够宣泄。也没有交代第七穿插连后续的战况，据说可能是还有第二部《水门桥》吧……",
+  "items": [
+    {
+      "positive_prob": 0.98881,
+      "confidence": 0.975133,
+      "negative_prob": 0.01119,
+      "sentiment": 2
+    }
+  ]
+}{
+  "log_id": 1418117581544291943,
+  "text": "演员方面，吴京的表演差强人意，车厢内伍千里战前动员的台词演绎，情绪渲染力不够；胡军对角色塑造很丰满，很多细节体现了雷爹的性格及军事素质；朱亚文很好地表现出了梅生的斯文军人气质；段奕宏的一个眼神就能看出是战场上人狠话不多的杀神，身先士卒，肉搏战1v4摧毁敌军重要火力(这也是能这么快升迁营长的原因之一吧)；易烊千玺还停留在《少年的你》的水准，但作为新生代的领军，未来可期。",
+  "items": [
+    {
+      "positive_prob": 0.996062,
+      "confidence": 0.991249,
+      "negative_prob": 0.0039379,
+      "sentiment": 2
+    }
+  ]
+}{
+  "error_code": 18,
+  "error_msg": "Open api qps request limit reached"
+}{
+  "error_code": 18,
+  "error_msg": "Open api qps request limit reached"
+}{
+  "log_id": 4412065959672912903,
+  "text": "[历史背景来讲]",
+  "items": [
+    {
+      "positive_prob": 0.987645,
+      "confidence": 0.972544,
+      "negative_prob": 0.0123552,
+      "sentiment": 2
+    }
+  ]
+}{
+  "log_id": 7903976540316264071,
+  "text": "抗美援朝对我国来讲，战争上是赢了，因为我们打这场战争目的是保家卫国，“打得一拳开，免得百拳来”。但战略上却不一定，当时第九兵团作为我军精锐是要去收复台湾的，但因为这场战争损失了大量战力，也错失了收复台湾的时机。",
+  "items": [
+    {
+      "positive_prob": 0.653887,
+      "confidence": 0.230861,
+      "negative_prob": 0.346113,
+      "sentiment": 2
+    }
+  ]
+}{
+  "log_id": 3510792024333866151,
+  "text": "朝鲜战争本是苏联摆在台面上的阳谋，新中国成立后收回了之前在蒋介石手上出卖主权给苏联的大连、旅顺等“远东不冻港”，苏联利益受损。北朝鲜受鼓动越过三八线发动战争，南朝鲜背后的美国响应出兵，而北朝鲜的老大哥苏联却没有站出来。朝鲜战争3年时间，朝鲜还是没有统一，中美都被战争拖累无暇他顾，战略上最大的受益者是苏联，获得了二战后宝贵的休养生息。",
+  "items": [
+    {
+      "positive_prob": 0.585182,
+      "confidence": 0.0781824,
+      "negative_prob": 0.414818,
+      "sentiment": 2
+    }
+  ]
+}{
+  "error_code": 18,
+  "error_msg": "Open api qps request limit reached"
+}{
+  "error_code": 18,
+  "error_msg": "Open api qps request limit reached"
+}{
+  "error_code": 18,
+  "error_msg": "Open api qps request limit reached"
+}{
+  "log_id": 4298113512239095367,
+  "error_code": 282134,
+  "error_msg": "input empty"
+}{
+  "error_code": 18,
+  "error_msg": "Open api qps request limit reached"
+}{
+  "error_code": 18,
+  "error_msg": "Open api qps request limit reached"
+}{
+  "error_code": 18,
+  "error_msg": "Open api qps request limit reached"
+}{
+  "error_code": 18,
+  "error_msg": "Open api qps request limit reached"
+}{
+  "log_id": 2471728647345173703,
+  "text": "但是《长津湖》还是不错的",
+  "items": [
+    {
+      "positive_prob": 0.981386,
+      "confidence": 0.958637,
+      "negative_prob": 0.0186135,
+      "sentiment": 2
+    }
+  ]
+}{
+  "log_id": 8088358070837841671,
+  "text": "整个电影三段式，三位导演各自拍了什么其实能很明显地看出来，我自己看出来的基本上是开头四五十分钟是陈凯歌，中段开始到第二幕高潮是林超贤，第三幕高潮是徐克。以上部分，陈凯歌最拉，而且相当拉，前四十分钟有很多很假的特效，而且节奏很慢的感觉，差点毁掉了这部电影，而从中间一段战斗机袭击的长镜头戏，也就是第一次见血开始，整个电影就瞬间变得好看了不是一点半点。两场大的战争戏，分别是动作流畅度和仪式感的极致，场面调度超强，实拍和人力物力的使用上也看出了中国影史最大投资的气派，第二段戏的近身肉搏和子弹横飞直接爽上天，第三段的“圣盔谷”式俯冲和最后的大摇臂俯拍美学都是非常难得的体验。而影片对于照明弹光影拍法也是继《八佰》之后有一个新执念，中间山坡上的一段戏简直拍出了《1917》的味道。钢七连的几个主要人物塑造的很好，吴京表演尚可，易烊千玺、胡军惊艳。电影的战争反思和更多的内涵不多，但是就是仪式感和大气感贼强，节奏张弛有度又很满。比较不满意的是，一部六个小时的作品硬生生被压成一部，剪掉一半的时长上映，导致本来第二部里的很多故事只能碎片式的一点点在结尾出来，非常割裂又很消解正剧结尾的悲壮感。总体推荐。看完《长津湖》，我非常高兴地确定了一件事，那就是我看过的最好的国产战争片.......",
+  "items": [
+    {
+      "positive_prob": 0.999466,
+      "confidence": 0.998813,
+      "negative_prob": 0.000534093,
+      "sentiment": 2
+    }
+  ]
+}{
+  "error_code": 18,
+  "error_msg": "Open api qps request limit reached"
+}{
+  "log_id": 524626519465050183,
+  "text": "但是《长津湖》还是不错的",
+  "items": [
+    {
+      "positive_prob": 0.981386,
+      "confidence": 0.958637,
+      "negative_prob": 0.0186135,
+      "sentiment": 2
+    }
+  ]
+}{
+  "error_code": 18,
+  "error_msg": "Open api qps request limit reached"
+}{
+  "error_code": 18,
+  "error_msg": "Open api qps request limit reached"
+}{
+  "log_id": 3172812245704296455,
+  "text": "2，缺特写，片中第一次提到长津湖，太平淡，没特写镜头，没有地图展示方位，没说明战略要塞和价值，没有严寒气侯铺垫暗示",
+  "items": [
+    {
+      "positive_prob": 0.000230608,
+      "confidence": 0.999488,
+      "negative_prob": 0.999769,
+      "sentiment": 0
+    }
+  ]
+}{
+  "log_id": 2163956525410672071,
+  "text": "3，缺主线，头20分钟中央，美军，彭总司令部，九兵团，七连，穿插较好，后来七连上火车之后就垮了，只剩一条线了，莫名其妙打了三四十分钟，炮火连天，对方是美军还是南韩都队面目不清，冗长乏味令人烦燥，改名叫美国飞机来了也差不多，反正是轰炸轰炸再轰炸",
+  "items": [
+    {
+      "positive_prob": 0.000161578,
+      "confidence": 0.999641,
+      "negative_prob": 0.999838,
+      "sentiment": 0
+    }
+  ]
+}{
+  "error_code": 18,
+  "error_msg": "Open api qps request limit reached"
+}{
+  "log_id": 2699410754362099591,
+  "text": "5，不真实，火车上或者战场休息时，士兵嬉戏完全美式大兵风格，我志愿军团结友爱作风不见，老兵痞们总爱起哄欺负新兵，刚打完解放战争的战士们才没这么低俗，另，兰晓龙又在搞钢七连第xxx个兵，太老套了，这一情节还又臭又长，十分尴尬",
+  "items": [
+    {
+      "positive_prob": 0.000916414,
+      "confidence": 0.997963,
+      "negative_prob": 0.999084,
+      "sentiment": 0
+    }
+  ]
+}{
+  "log_id": 2610114926693977511,
+  "text": "6，缺层次感，没有战略纵深，给人感觉刚入朝就闷头打呀打呀，白天黑夜的打，没战术计划，没排兵布阵，事实上长津湖之战前志愿军出奇制胜已打了几个漂亮仗，影片结构上居然没体现太不应该，没宽度。仗打的毫无章法，一点不吸引人，剧中两次战役都拖时太长，叙事不清，框架破坏，节奏打乱，其实每次战役十分钟足以，且战争场面特效太一般，震耳欲聋却让我差点睡着",
+  "items": [
+    {
+      "positive_prob": 7.30979e-06,
+      "confidence": 0.999984,
+      "negative_prob": 0.999993,
+      "sentiment": 0
+    }
+  ]
+}{
+  "error_code": 18,
+  "error_msg": "Open api qps request limit reached"
+}{
+  "log_id": 6556947598306017255,
+  "error_code": 282134,
+  "error_msg": "input empty"
+}{
+  "log_id": 214998510173762503,
+  "text": "首先说一下几个点:",
+  "items": [
+    {
+      "positive_prob": 0.619515,
+      "confidence": 0.154479,
+      "negative_prob": 0.380485,
+      "sentiment": 2
+    }
+  ]
+}{
+  "error_code": 18,
+  "error_msg": "Open api qps request limit reached"
+}{
+  "log_id": 4476524498198881607,
+  "text": "2.演员，一群老戏骨带着一个“新兵蛋子”，但易烊千玺的表现真的出乎我的意料，太惊喜了！刚开头一个回家的片段直接给我带入剧情，后面未谙世事的表情以及初上战场面对敌人的痴楞表现和末尾大器晚成形成对比，这个宝藏男孩未来不可限量。给打了八分。不喜欢吴京这种电影表现形式，不如以杨根思为主角进行拍摄。或者干脆半小时一个片段，演六个片段，描述六段故事。电影高潮是长津湖战役，可惜到了两个多小时的时候才开始，头重脚轻的感觉，主次没有分清楚。村庄夜战那也是可有可无的片段，拍了那么久，太消耗观影热情了。志愿军的艰苦环境拍的不够突出，比如缺少衣服鞋子，完全可以演一演冻掉耳朵，冻硬手脚，冻疮的镜头特写。长津湖战役，在朝鲜战争中至关重要，全歼美军一个加强团，奠定了后来胜利的基础作为一部战争片，我最想先夸的就是战争呈现的方式，影片中几场比较高燃的战争片段，节奏拿捏得恰到好处，当然除了那些令人震撼的战争场面，影片中的还有很多画面也具有很多记忆点。可以说，无论是战争场面，还是剧情刻画，长津湖对得起它的豪华阵容。而最重要的是，长津湖这部电影，能让更多人铭记朝鲜战争，铭记先辈的付出，知晓我们现在的和平生活来之不易。电影《长津湖》：",
+  "items": [
+    {
+      "positive_prob": 0.946613,
+      "confidence": 0.881361,
+      "negative_prob": 0.0533874,
+      "sentiment": 2
+    }
+  ]
+}{
+  "log_id": 6740415214289330631,
+  "text": "超感人超感人超感人！！！",
+  "items": [
+    {
+      "positive_prob": 0.999993,
+      "confidence": 0.999984,
+      "negative_prob": 7.09254e-06,
+      "sentiment": 2
+    }
+  ]
+}{
+  "error_code": 18,
+  "error_msg": "Open api qps request limit reached"
+}{
+  "log_id": 2895683495726170695,
+  "text": "不可否认这部电影有明显的缺点，主要的bug都出在战争场面上：节奏拖沓、剪辑混乱，画面一锅粥，虽然有近身肉搏、坦克对射这样的小高潮，但还是让人觉得应该删减整理一下更好。",
+  "items": [
+    {
+      "positive_prob": 0.0398096,
+      "confidence": 0.911534,
+      "negative_prob": 0.96019,
+      "sentiment": 0
+    }
+  ]
+}{
+  "log_id": 6592729375406918151,
+  "text": "但是，这部电影绝对是一部合格甚至有点儿小优秀的战争片。你既能看到战争的惊心动魄、血肉横飞、残酷无情，也能看到亲情和友情的温暖和细腻，还能看见人性的光辉和脆弱；千钧一发的时候也有不少诙谐和幽默；更是在无意间、在战争最绝望的一刻，看见战士们对和平的憧憬和向往。",
+  "items": [
+    {
+      "positive_prob": 0.999895,
+      "confidence": 0.999766,
+      "negative_prob": 0.000105416,
+      "sentiment": 2
+    }
+  ]
+}{
+  "error_code": 18,
+  "error_msg": "Open api qps request limit reached"
+}{
+  "error_code": 18,
+  "error_msg": "Open api qps request limit reached"
+}{
+  "log_id": 3279250470752088487,
+  "text": "如果别人在胡军舍身引开敌机的时候，在战士们冻成冰雕、埋骨他乡的时候，看到的是爬冰卧雪、英雄无畏、慷慨悲壮，你只能看到什么乱呀、假呀、不值得呀，你还在沉浸在民间历史学家、民间军事理论家和虚拟电影导演的身份中指指点点，那我真的有点儿心疼你，因为你在心灵上错过了一个亿。",
+  "items": [
+    {
+      "positive_prob": 0.0897256,
+      "confidence": 0.80061,
+      "negative_prob": 0.910274,
+      "sentiment": 0
+    }
+  ]
+}{
+  "log_id": 2478678342353018279,
+  "text": "另外有一点有趣的是，看这个电影会有很强的割裂感：看美军的部分，感觉是在看好莱坞电影或者是美剧，看志愿军的部分才感觉像国产电影。不禁感叹70年前，两大阵营的差距和画风像差了一个宇宙。而在70年以后，逆全球化、极端民族主义抬头，又正让我们的世界割裂得越来越远。唉，也许真的是天下大事，分久必合，合久必分吧。",
+  "items": [
+    {
+      "positive_prob": 0.240109,
+      "confidence": 0.466424,
+      "negative_prob": 0.759891,
+      "sentiment": 0
+    }
+  ]
+}{
+  "error_code": 18,
+  "error_msg": "Open api qps request limit reached"
+}{
+  "log_id": 8124705803806959559,
+  "error_code": 282134,
+  "error_msg": "input empty"
+}{
+  "log_id": 3366388557015261031,
+  "error_code": 282134,
+  "error_msg": "input empty"
+}{
+  "log_id": 1437817581317577831,
+  "error_code": 282134,
+  "error_msg": "input empty"
+}{
+  "log_id": 6804240874631912359,
+  "text": "再说三小时的电影，并没有无聊的感觉，每一场战斗又大有小有快有慢，节奏把握得很好，情节也是有笑有泪，三个导演的风格异常的统一，陈凯歌导演是加分项，把山河的壮美塞进了小战士们的心里，让战士们守护祖国大好河山的信念又坚定了几分。",
+  "items": [
+    {
+      "positive_prob": 0.99998,
+      "confidence": 0.999956,
+      "negative_prob": 1.99561e-05,
+      "sentiment": 2
+    }
+  ]
+}{
+  "error_code": 18,
+  "error_msg": "Open api qps request limit reached"
+}{
+  "error_code": 18,
+  "error_msg": "Open api qps request limit reached"
+}{
+  "log_id": 2003617297359882695,
+  "error_code": 282134,
+  "error_msg": "input empty"
+}{
+  "error_code": 18,
+  "error_msg": "Open api qps request limit reached"
+}{
+  "error_code": 18,
+  "error_msg": "Open api qps request limit reached"
+}{
+  "error_code": 18,
+  "error_msg": "Open api qps request limit reached"
+}{
+  "error_code": 18,
+  "error_msg": "Open api qps request limit reached"
+}{
+  "error_code": 18,
+  "error_msg": "Open api qps request limit reached"
+}{
+  "log_id": 4843219217582933479,
+  "error_code": 282134,
+  "error_msg": "input empty"
+}{
+  "log_id": 4326298955956112295,
+  "text": "抗美援朝是新中国的立国之战，长津湖战役又是这场立国之战中最为惨烈壮烈的战斗之一。他展现出来的是中华儿女的倔强不屈之气，是中华民族强大的战斗意志和决心。电影选取这样的视角，从第九军团一个连为基础，形成整个战役整场战争的缩影。透过这场战役，我们不难体会到志愿军战士当年的极大艰辛，不难感受到我们前辈先烈的英勇无敌，不禁产生对中华民族的强烈自豪感！",
+  "items": [
+    {
+      "positive_prob": 0.999989,
+      "confidence": 0.999976,
+      "negative_prob": 1.06327e-05,
+      "sentiment": 2
+    }
+  ]
+}{
+  "log_id": 7897257743250102919,
+  "error_code": 282134,
+  "error_msg": "input empty"
+}{
+  "log_id": 5086963923293591079,
+  "text": "实际上电影前半部分都属于铺垫，是为了让观众形成对整个朝鲜战争的整体认识。真正描述长津湖战役的大概只有一个小时。开头的好山好水，湖光山色，正是与后面的激烈惨烈形成鲜明对比，没有这些战士们的牺牲付出，哪有什么岁月静好。",
+  "items": [
+    {
+      "positive_prob": 0.415172,
+      "confidence": 0.0773948,
+      "negative_prob": 0.584828,
+      "sentiment": 0
+    }
+  ]
+}{
+  "error_code": 18,
+  "error_msg": "Open api qps request limit reached"
+}{
+  "log_id": 6916333396909146919,
+  "text": "站在真实历史的角度来看这部电影，它对于战斗惨烈程度的刻画非常到位，对我军的战斗意志、战术素养表现的也很到位。一支在思想上武装的军队，意志坚强、作风顽强，在没有飞机大炮支援的条件下，能够利用一切客观条件和优势对敌人开展攻击。不是一味的莽打猛冲，而是拥有极强的战斗素养和战斗技巧。吴京没有一味的去彰显个人英雄主义，更多的是团队配合、整体协同作战。另外，这部电影所表达出的：为了后代而战，为了和平而战的理念非常好。他们为了下一代打完了仗，让我们生活在和平年代。这些英雄尽忠报国、埋骨异乡，值得永远铭记！",
+  "items": [
+    {
+      "positive_prob": 0.999924,
+      "confidence": 0.99983,
+      "negative_prob": 7.64203e-05,
+      "sentiment": 2
+    }
+  ]
+}{
+  "log_id": 905965100776297319,
+  "error_code": 282134,
+  "error_msg": "input empty"
+}{
+  "error_code": 18,
+  "error_msg": "Open api qps request limit reached"
+}{
+  "error_code": 18,
+  "error_msg": "Open api qps request limit reached"
+}{
+  "log_id": 3358362034443407719,
+  "text": "对于电影，我们不必要求全责备，因为它本身已经很显很好的展现出了志愿军不一样的战斗风貌，展现了新中国不一样的精神风貌。这绝对是一部五星级的好电影！这一类的电影应当多一些，因为它是整个民族的记忆！",
+  "items": [
+    {
+      "positive_prob": 0.999993,
+      "confidence": 0.999985,
+      "negative_prob": 6.81742e-06,
+      "sentiment": 2
+    }
+  ]
+}{
+  "error_code": 18,
+  "error_msg": "Open api qps request limit reached"
+}{
+  "log_id": 3395114921005787431,
+  "text": "冰雪长津湖，奔流着多少中华儿女的英雄血！一个拥有强大意志和决心的民族是永远无法被战胜的！英勇无敌的中国人民志愿军万岁！抗美援朝是新中国的立国之战，长津湖战役又是这场立国之战中最为惨烈壮烈的战斗之一。他展现出来的是中华儿女的倔强不屈之气，是中华民族强大的战斗意志和决心。电影选取这样的视角，从第九军团一个连为基础，形成整个战役整场战争的缩影。透过这场战役，我们不难体会到志愿军战士当年的极大艰辛，不难感受到我们前辈先烈的英勇无敌，不禁产生对中华民族的强烈自豪感！",
+  "items": [
+    {
+      "positive_prob": 0.99999,
+      "confidence": 0.999977,
+      "negative_prob": 1.05145e-05,
+      "sentiment": 2
+    }
+  ]
+}{
+  "error_code": 18,
+  "error_msg": "Open api qps request limit reached"
+}{
+  "error_code": 18,
+  "error_msg": "Open api qps request limit reached"
+}{
+  "error_code": 18,
+  "error_msg": "Open api qps request limit reached"
+}{
+  "log_id": 805003316040102727,
+  "text": "站在真实历史的角度来看这部电影，它对于战斗惨烈程度的刻画非常到位，对我军的战斗意志、战术素养表现的也很到位。一支在思想上武装的军队，意志坚强、作风顽强，在没有飞机大炮支援的条件下，能够利用一切客观条件和优势对敌人开展攻击。不是一味的莽打猛冲，而是拥有极强的战斗素养和战斗技巧。吴京没有一味的去彰显个人英雄主义，更多的是团队配合、整体协同作战。另外，这部电影所表达出的：为了后代而战，为了和平而战的理念非常好。他们为了下一代打完了仗，让我们生活在和平年代。这些英雄尽忠报国、埋骨异乡，值得永远铭记！",
+  "items": [
+    {
+      "positive_prob": 0.999924,
+      "confidence": 0.99983,
+      "negative_prob": 7.64203e-05,
+      "sentiment": 2
+    }
+  ]
+}{
+  "error_code": 18,
+  "error_msg": "Open api qps request limit reached"
+}{
+  "error_code": 18,
+  "error_msg": "Open api qps request limit reached"
+}{
+  "log_id": 8539052416606543751,
+  "error_code": 282134,
+  "error_msg": "input empty"
+}{
+  "log_id": 5916448961635113447,
+  "text": "对于电影，我们不必要求全责备，因为它本身已经很显很好的展现出了志愿军不一样的战斗风貌，展现了新中国不一样的精神风貌。这绝对是一部五星级的好电影！这一类的电影应当多一些，因为它是整个民族的记忆！",
+  "items": [
+    {
+      "positive_prob": 0.999993,
+      "confidence": 0.999985,
+      "negative_prob": 6.81741e-06,
+      "sentiment": 2
+    }
+  ]
+}{
+  "error_code": 18,
+  "error_msg": "Open api qps request limit reached"
+}{
+  "log_id": 1777447490223166503,
+  "text": "电影开场前发现观众有各个年龄层。一部电影让我前座的老爷爷、旁边的情侣以及我们，应同样的场景而共情流泪，这就是电影应有的魅力吧。",
+  "items": [
+    {
+      "positive_prob": 0.989164,
+      "confidence": 0.97592,
+      "negative_prob": 0.0108361,
+      "sentiment": 2
+    }
+  ]
+}{
+  "error_code": 18,
+  "error_msg": "Open api qps request limit reached"
+}{
+  "log_id": 2103354602534649543,
+  "text": "1.面对美军完全掌控制空权，有许多志愿军们还没到战场就牺牲，在痛心的同时为他们不值，但是，段奕宏饰演的角色对万里说“没有打不死的英雄”让我瞬间落泪。",
+  "items": [
+    {
+      "positive_prob": 0.525465,
+      "confidence": 0.490703,
+      "negative_prob": 0.474535,
+      "sentiment": 1
+    }
+  ]
+}{
+  "log_id": 4277393411123558471,
+  "text": "2.当敌人在途中发现冻成一座座冰雕的志愿军时，虽然这个画面在许多纪录片中见过，但依然会被震撼。他们没有撤退一步，他们的目光坚定地怒视着前方。这一幕真实发生过的历史，没有谁能不动容。",
+  "items": [
+    {
+      "positive_prob": 0.922234,
+      "confidence": 0.827186,
+      "negative_prob": 0.0777665,
+      "sentiment": 2
+    }
+  ]
+}{
+  "error_code": 18,
+  "error_msg": "Open api qps request limit reached"
+}{
+  "error_code": 18,
+  "error_msg": "Open api qps request limit reached"
+}{
+  "log_id": 7595737777796501671,
+  "text": "果然，不愧是易烊千玺。总是会不负期待。作为成长弧度最明显的伍万里，从调皮的小野孩到有些青涩但在战争中迅速成长的军人，不管是眼神还是其他方面都树立了一个可行的万里。如果有后续，期待攒着劲儿的万里战士。",
+  "items": [
+    {
+      "positive_prob": 0.999983,
+      "confidence": 0.999962,
+      "negative_prob": 1.7334e-05,
+      "sentiment": 2
+    }
+  ]
+}{
+  "log_id": 6036068130630178023,
+  "text": "抗美援朝，保家卫国。人民英雄永垂不朽！结局我看到冰雕连，他们都牺牲了，泪目了，很想知道这里有七连的人吗？有伍万里，千里他们吗？看完了电影，来写一个小小的影评。",
+  "items": [
+    {
+      "positive_prob": 0.891851,
+      "confidence": 0.759669,
+      "negative_prob": 0.108149,
+      "sentiment": 2
+    }
+  ]
+}{
+  "log_id": 1668748907580349031,
+  "text": "首先不得不说这部电影阵容十分强大。这部电影由陈凯歌,徐克,林超贤三大导演联合执导,主演阵容也相当豪华,吴京,易烊千玺,段奕宏,朱亚文,并且这部电影还有兰晓龙和黄建新这两位擅长军事题材的编剧加盟。真正保障了电影的质量，完全是可以闭眼买票的程度。",
+  "items": [
+    {
+      "positive_prob": 0.999956,
+      "confidence": 0.999901,
+      "negative_prob": 4.44806e-05,
+      "sentiment": 2
+    }
+  ]
+}{
+  "log_id": 1711439081912330951,
+  "text": "全片故事紧凑，毫无拖了三小时的时长，没有一个事无用镜头，故事大体发展有多个线索构成。(写的不多，挑了两个重点)",
+  "items": [
+    {
+      "positive_prob": 0.969474,
+      "confidence": 0.932164,
+      "negative_prob": 0.0305263,
+      "sentiment": 2
+    }
+  ]
+}{
+  "error_code": 18,
+  "error_msg": "Open api qps request limit reached"
+}{
+  "log_id": 2012008196208893159,
+  "text": "2.其实就是主人公万里的性格变化，由千里回乡时万里的放荡不羁，俨然一名沉迷玩乐的“土孩子”，再到即将踏上战场，那份胆怯与期待，接着在战场上枪林弹雨的环境下变身为一名勇敢的冲锋者，不怕牺牲的战士。演员易烊千玺将每个阶段不同的感觉，把握的特别到位，可以从万里的眼神，台词等深刻的感受到伍万里的性格特点，以及千玺在演戏方面的又一大进步。",
+  "items": [
+    {
+      "positive_prob": 0.999968,
+      "confidence": 0.999928,
+      "negative_prob": 3.23237e-05,
+      "sentiment": 2
+    }
+  ]
+}{
+  "log_id": 6265900022864280903,
+  "text": "无论是吴京老师饰演的角色伍千里，尽管在回乡的过程中，听到要踏上战场的消息，也义无反顾的抛下了爹娘奔赴战场。千玺饰演的角色伍万里，那份不怕困难，不怕牺牲，为了爹娘为了国家，也走上了充斥着枪林弹雨的战场。还是雷爹的慈爱，不怕牺牲为国捐躯。不顾妻子、女儿依旧奋勇奔上前线的梅生……都能让每一个走进电影院，观看电影的观众留下深刻的印象。",
+  "items": [
+    {
+      "positive_prob": 0.999784,
+      "confidence": 0.999519,
+      "negative_prob": 0.000216295,
+      "sentiment": 2
+    }
+  ]
+}{
+  "error_code": 18,
+  "error_msg": "Open api qps request limit reached"
+}{
+  "log_id": 6118225821006437959,
+  "text": "在买票前，我也有一定的顾虑，担心3小时的战争场景会让人很无聊。但是当我真正走进电影院，顾虑完全就被打消了。虽然电影题材严肃，但是电影中穿插了许多笑点，完全不会感到无聊。(我旁边的人笑的都快喘不上气来了)",
+  "items": [
+    {
+      "positive_prob": 0.878463,
+      "confidence": 0.729917,
+      "negative_prob": 0.121537,
+      "sentiment": 2
+    }
+  ]
+}{
+  "log_id":

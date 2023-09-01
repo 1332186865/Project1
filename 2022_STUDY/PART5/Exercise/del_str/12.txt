@@ -1,0 +1,1296 @@
+Dialogue: 0,0:00:57.31,0:00:59.23,BottomCenter,,0,0,0,,[narrator]\NThis is a story about clothing.
+Dialogue: 0,0:00:59.98,0:01:01.97,BottomCenter,,0,0,0,,It's about the clothes we wear,
+Dialogue: 0,0:01:02.06,0:01:04.06,BottomCenter,,0,0,0,,the people who make these clothes,
+Dialogue: 0,0:01:04.18,0:01:06.65,BottomCenter,,0,0,0,,and the impact that it's having\Non our world.
+Dialogue: 0,0:01:09.90,0:01:12.61,BottomCenter,,0,0,0,,It's a story about greed and fear,
+Dialogue: 0,0:01:12.70,0:01:14.48,BottomCenter,,0,0,0,,power and poverty.
+Dialogue: 0,0:01:15.62,0:01:19.08,BottomCenter,,0,0,0,,It's complex, as it extends\Nall the way around the world.
+Dialogue: 0,0:01:19.40,0:01:20.70,BottomCenter,,0,0,0,,But it's also simple,
+Dialogue: 0,0:01:21.08,0:01:24.54,BottomCenter,,0,0,0,,revealing just how connected we are\Nto the many hearts and hands
+Dialogue: 0,0:01:24.62,0:01:26.12,BottomCenter,,0,0,0,,behind our clothes.
+Dialogue: 0,0:01:31.62,0:01:34.64,BottomCenter,,0,0,0,,I came into this story\Nwith no background in fashion at all,
+Dialogue: 0,0:01:34.72,0:01:37.72,BottomCenter,,0,0,0,,beginning with nothing more\Nthan a few simple questions.
+Dialogue: 0,0:01:37.81,0:01:39.26,BottomCenter,,0,0,0,,What I've discovered
+Dialogue: 0,0:01:39.39,0:01:42.23,BottomCenter,,0,0,0,,has forever changed the way\NI think about the things I wear,
+Dialogue: 0,0:01:42.64,0:01:47.23,BottomCenter,,0,0,0,,and my hope is that\Nit might just do the same for you.
+Dialogue: 0,0:02:00.12,0:02:02.40,BottomCenter,,0,0,0,,[interviewer]\NMaybe just start and say your name
+Dialogue: 0,0:02:02.54,0:02:05.42,BottomCenter,,0,0,0,,and talk about how this kind of began.
+Dialogue: 0,0:02:05.54,0:02:06.70,BottomCenter,,0,0,0,,My name is Lucy Siegle.
+Dialogue: 0,0:02:06.82,0:02:10.46,BottomCenter,,0,0,0,,I am a journalist and broadcaster\Nbased in the UK,
+Dialogue: 0,0:02:10.55,0:02:14.25,BottomCenter,,0,0,0,,and I have been obsessed, consumed
+Dialogue: 0,0:02:14.30,0:02:18.75,BottomCenter,,0,0,0,,with the environmental and social impacts\Nof the fashion industry
+Dialogue: 0,0:02:18.84,0:02:20.84,BottomCenter,,0,0,0,,for about a decade.
+Dialogue: 0,0:02:20.97,0:02:23.43,BottomCenter,,0,0,0,,[woman]\NWell, I love everything about clothes.
+Dialogue: 0,0:02:23.56,0:02:28.27,BottomCenter,,0,0,0,,I love the poetry, I love the fabric,\NI love the colors, I love the textures,
+Dialogue: 0,0:02:28.31,0:02:33.56,BottomCenter,,0,0,0,,I love the way that they make you feel.\NYou know, they are our chosen skin.
+Dialogue: 0,0:02:34.03,0:02:38.62,BottomCenter,,0,0,0,,Well, I had the classic massive closet,
+Dialogue: 0,0:02:38.74,0:02:40.28,BottomCenter,,0,0,0,,clothes everywhere,
+Dialogue: 0,0:02:40.33,0:02:43.28,BottomCenter,,0,0,0,,bags constantly coming into my house,\Nyou know,
+Dialogue: 0,0:02:43.41,0:02:46.00,BottomCenter,,0,0,0,,every day, every other day\Nwith some other item in,
+Dialogue: 0,0:02:46.03,0:02:51.03,BottomCenter,,0,0,0,,and never had anything to wear. I could\Nnever put together a coherent outfit.
+Dialogue: 0,0:02:53.75,0:02:55.47,BottomCenter,,0,0,0,,[de Castro]\NWe communicate who we are
+Dialogue: 0,0:02:55.50,0:02:57.30,BottomCenter,,0,0,0,,to a certain extent through clothing.
+Dialogue: 0,0:02:57.43,0:03:00.05,BottomCenter,,0,0,0,,And this is, this is again,\Nthroughout history.
+Dialogue: 0,0:03:00.09,0:03:02.31,BottomCenter,,0,0,0,,You know, you have the trends at court,
+Dialogue: 0,0:03:02.43,0:03:05.34,BottomCenter,,0,0,0,,and Marie Antoinette\Nmaking these huge hats.
+Dialogue: 0,0:03:05.47,0:03:09.06,BottomCenter,,0,0,0,,It's always been our personal\Ncommunication in many ways.
+Dialogue: 0,0:03:09.18,0:03:11.11,BottomCenter,,0,0,0,,That's what interests me,
+Dialogue: 0,0:03:11.18,0:03:15.90,BottomCenter,,0,0,0,,that it is fundamentally a part of what,\Num, we wish to communicate
+Dialogue: 0,0:03:15.93,0:03:17.36,BottomCenter,,0,0,0,,about ourselves.
+Dialogue: 0,0:03:23.24,0:03:25.65,BottomCenter,,0,0,0,,[Siegle] We used to have a system,\Na fashion system
+Dialogue: 0,0:03:25.78,0:03:27.91,BottomCenter,,0,0,0,,where people would go to the, uh, shows,
+Dialogue: 0,0:03:27.96,0:03:30.62,BottomCenter,,0,0,0,,so they would do spring, summer,\Nautumn, winter,
+Dialogue: 0,0:03:30.75,0:03:33.46,BottomCenter,,0,0,0,,and those kind of ran like clockwork\Nfor very many years.
+Dialogue: 0,0:03:33.50,0:03:35.91,BottomCenter,,0,0,0,,"Okay, rip that up,\Nthrow it out the window."
+Dialogue: 0,0:03:36.05,0:03:39.68,BottomCenter,,0,0,0,,That has absolutely nothing to do\Nwith the fashion industry today.
+Dialogue: 0,0:03:39.80,0:03:41.93,BottomCenter,,0,0,0,,It has been re-invented.
+Dialogue: 0,0:03:42.06,0:03:46.22,BottomCenter,,0,0,0,,[de Castro]\NThe shift is moving ruthlessly, um,
+Dialogue: 0,0:03:46.34,0:03:49.81,BottomCenter,,0,0,0,,towards a way of producing
+Dialogue: 0,0:03:49.84,0:03:54.22,BottomCenter,,0,0,0,,which only really looks after
+Dialogue: 0,0:03:54.69,0:03:56.49,BottomCenter,,0,0,0,,big business interest.
+Dialogue: 0,0:03:58.49,0:04:00.15,BottomCenter,,0,0,0,,Growing up, I never gave much thought
+Dialogue: 0,0:04:00.24,0:04:03.12,BottomCenter,,0,0,0,,to anything other than the price\Nof the clothes that I bought,
+Dialogue: 0,0:04:03.15,0:04:06.00,BottomCenter,,0,0,0,,usually making choices\Nbased on the style or a good deal.
+Dialogue: 0,0:04:07.12,0:04:09.15,BottomCenter,,0,0,0,,Looking back,\NI learned that for a long time
+Dialogue: 0,0:04:09.25,0:04:12.12,BottomCenter,,0,0,0,,most of our clothing was actually\Nmade right here in America.
+Dialogue: 0,0:04:12.71,0:04:16.87,BottomCenter,,0,0,0,,As recently as the 1960s, we were\Nstill making 95 percent of our clothes.
+Dialogue: 0,0:04:17.55,0:04:19.97,BottomCenter,,0,0,0,,Today, we only make about 3 percent
+Dialogue: 0,0:04:20.08,0:04:22.00,BottomCenter,,0,0,0,,and the other 97 percent is outsourced
+Dialogue: 0,0:04:22.13,0:04:24.56,BottomCenter,,0,0,0,,to developing countries around the world.
+Dialogue: 0,0:04:29.56,0:04:32.51,BottomCenter,,0,0,0,,[man] I've been in the business\Nfor over nine years now.
+Dialogue: 0,0:04:32.56,0:04:37.02,BottomCenter,,0,0,0,,In terms of scale, we've got 25,000 people\Njust on garment manufacturing side.
+Dialogue: 0,0:04:37.14,0:04:40.31,BottomCenter,,0,0,0,,We produce one in six dress-shirts\Nsold in the U.S.
+Dialogue: 0,0:04:42.87,0:04:44.44,BottomCenter,,0,0,0,,If you actually go to a store
+Dialogue: 0,0:04:44.56,0:04:48.87,BottomCenter,,0,0,0,,and you benchmark the price\Nof a garment over the last 20 years,
+Dialogue: 0,0:04:48.91,0:04:52.04,BottomCenter,,0,0,0,,you will find that there's actually\Na deflation of the product,
+Dialogue: 0,0:04:52.17,0:04:54.04,BottomCenter,,0,0,0,,i.e., the price has gone down over time.
+Dialogue: 0,0:04:54.17,0:04:56.83,BottomCenter,,0,0,0,,Now, has our cost gone down?\NAbsolutely not. Okay?
+Dialogue: 0,0:04:56.87,0:04:58.45,BottomCenter,,0,0,0,,Our cost has gone up.
+Dialogue: 0,0:04:59.17,0:05:01.18,BottomCenter,,0,0,0,,The more production we've outsourced,
+Dialogue: 0,0:05:01.22,0:05:03.75,BottomCenter,,0,0,0,,the cheaper prices have become\Non the clothing we buy,
+Dialogue: 0,0:05:03.85,0:05:07.35,BottomCenter,,0,0,0,,making way for a whole new model,\Nknown as "Fast Fashion,"
+Dialogue: 0,0:05:07.47,0:05:11.88,BottomCenter,,0,0,0,,almost overnight, transforming\Nthe way clothing is bought and sold.
+Dialogue: 0,0:05:12.43,0:05:15.18,BottomCenter,,0,0,0,,[woman] The newest H&M store\Non 5th Avenue in Manhattan
+Dialogue: 0,0:05:15.31,0:05:17.06,BottomCenter,,0,0,0,,is the company's largest ever
+Dialogue: 0,0:05:17.14,0:05:20.18,BottomCenter,,0,0,0,,and just one of many new stores\Nit's planning around the country.
+Dialogue: 0,0:05:20.31,0:05:23.91,BottomCenter,,0,0,0,,[man] It's all part\Nof a high street revolution, Fast Fashion.
+Dialogue: 0,0:05:24.02,0:05:28.19,BottomCenter,,0,0,0,,And instead of two seasons a year,\Nwe practically have 52 seasons a year.
+Dialogue: 0,0:05:28.32,0:05:30.66,BottomCenter,,0,0,0,,So, we have something new\Ncoming in every week.
+Dialogue: 0,0:05:30.79,0:05:33.20,BottomCenter,,0,0,0,,And Fast Fashion has created this,
+Dialogue: 0,0:05:33.32,0:05:35.87,BottomCenter,,0,0,0,,so that it can essentially shift\Nmore products.
+Dialogue: 0,0:05:42.97,0:05:45.25,BottomCenter,,0,0,0,,[all screaming]
+Dialogue: 0,0:05:45.38,0:05:46.97,BottomCenter,,0,0,0,,[crowd]\NWe love Topshop!
+Dialogue: 0,0:05:47.38,0:05:50.76,BottomCenter,,0,0,0,,[man] You can get this fringe\Nmetallic skirt $39 at Joe Fresh,
+Dialogue: 0,0:05:50.81,0:05:52.23,BottomCenter,,0,0,0,,a brand-new store in town.
+Dialogue: 0,0:05:52.35,0:05:56.06,BottomCenter,,0,0,0,,With price tags that might look\Na little bit more appealing to shoppers.
+Dialogue: 0,0:05:56.11,0:05:57.23,BottomCenter,,0,0,0,,[man]\NAmerican consumers,
+Dialogue: 0,0:05:57.36,0:06:00.93,BottomCenter,,0,0,0,,they really have grasped\Nthe fashion part of H&M,
+Dialogue: 0,0:06:01.06,0:06:04.19,BottomCenter,,0,0,0,,and we know that American consumers are\Nvery value-oriented.
+Dialogue: 0,0:06:04.24,0:06:07.19,BottomCenter,,0,0,0,,If you match these two together,\Nwith fashion and value,
+Dialogue: 0,0:06:07.24,0:06:08.41,BottomCenter,,0,0,0,,then you have a recipe.
+Dialogue: 0,0:06:08.52,0:06:11.12,BottomCenter,,0,0,0,,[woman]\NOne Japanese clothing retailer is making
+Dialogue: 0,0:06:11.25,0:06:14.12,BottomCenter,,0,0,0,,a fast and furious mark here in the U.S.
+Dialogue: 0,0:06:14.20,0:06:15.82,BottomCenter,,0,0,0,,The price has dropped.
+Dialogue: 0,0:06:15.92,0:06:20.20,BottomCenter,,0,0,0,,The way of making that product\Nhas completely, completely changed.
+Dialogue: 0,0:06:20.25,0:06:22.50,BottomCenter,,0,0,0,,And you have to ask yourself\Nat some point,
+Dialogue: 0,0:06:22.55,0:06:23.97,BottomCenter,,0,0,0,,"Where does it end?"
+Dialogue: 0,0:06:24.00,0:06:26.12,BottomCenter,,0,0,0,,The global marketplace is some place
+Dialogue: 0,0:06:26.22,0:06:28.85,BottomCenter,,0,0,0,,where we export work to have happen
+Dialogue: 0,0:06:28.93,0:06:32.63,BottomCenter,,0,0,0,,in whatever conditions we want,\Nand then the products come back to me,
+Dialogue: 0,0:06:32.73,0:06:35.31,BottomCenter,,0,0,0,,cheap enough to throw away\Nwithout thinking about it.
+Dialogue: 0,0:06:38.26,0:06:41.11,BottomCenter,,0,0,0,,Globalized production basically means
+Dialogue: 0,0:06:41.14,0:06:42.86,BottomCenter,,0,0,0,,that all of the making of goods
+Dialogue: 0,0:06:42.99,0:06:46.14,BottomCenter,,0,0,0,,has been outsourced to low-cost economies,
+Dialogue: 0,0:06:46.24,0:06:49.82,BottomCenter,,0,0,0,,particularly where wages are very low\Nand kept low.
+Dialogue: 0,0:06:49.87,0:06:53.75,BottomCenter,,0,0,0,,And what that means is that those\Nat the top of the value chain,
+Dialogue: 0,0:06:53.87,0:06:56.82,BottomCenter,,0,0,0,,they get to choose\Nwhere the products are being made,
+Dialogue: 0,0:06:56.87,0:07:00.42,BottomCenter,,0,0,0,,and they get to switch if, for example,\None factory says,
+Dialogue: 0,0:07:00.45,0:07:02.33,BottomCenter,,0,0,0,,"We can't make it that cheap anymore."
+Dialogue: 0,0:07:02.45,0:07:04.97,BottomCenter,,0,0,0,,The brand will say,\N"We're not gonna come to you.
+Dialogue: 0,0:07:05.05,0:07:07.75,BottomCenter,,0,0,0,,We're gonna switch to another place\Nwhich is cheaper."
+Dialogue: 0,0:07:16.26,0:07:19.43,BottomCenter,,0,0,0,,[man] In the West,\Nthey're using "everyday low price."
+Dialogue: 0,0:07:19.76,0:07:22.18,BottomCenter,,0,0,0,,So, every day, they're hampering me,
+Dialogue: 0,0:07:22.31,0:07:24.68,BottomCenter,,0,0,0,,and I'm hampering my workers,\Nthis is how it is.
+Dialogue: 0,0:07:24.77,0:07:27.02,BottomCenter,,0,0,0,,They're competing.\NThe stores are competing.
+Dialogue: 0,0:07:27.06,0:07:30.37,BottomCenter,,0,0,0,,When the stores are coming to us\Nfor an order and negotiating,
+Dialogue: 0,0:07:30.49,0:07:31.74,BottomCenter,,0,0,0,,they're telling, "Look,
+Dialogue: 0,0:07:31.77,0:07:35.91,BottomCenter,,0,0,0,,that particular store is selling\Nthis shirt, like, for $5,
+Dialogue: 0,0:07:36.00,0:07:38.57,BottomCenter,,0,0,0,,so I need to sell it at $4.
+Dialogue: 0,0:07:38.62,0:07:41.20,BottomCenter,,0,0,0,,So you better squeeze your price."\NSo we are squeezing.
+Dialogue: 0,0:07:41.32,0:07:45.20,BottomCenter,,0,0,0,,Then other store is coming and saying,\N"Hey, they're selling it at $4?
+Dialogue: 0,0:07:45.33,0:07:47.62,BottomCenter,,0,0,0,,So the target price is 3.\NIf you can make that 3,
+Dialogue: 0,0:07:47.75,0:07:50.33,BottomCenter,,0,0,0,,you're getting business,\Notherwise you are not getting."
+Dialogue: 0,0:07:50.38,0:07:52.93,BottomCenter,,0,0,0,,Because we want that business so badly,
+Dialogue: 0,0:07:53.06,0:07:55.63,BottomCenter,,0,0,0,,and we don't have other options, okay.
+Dialogue: 0,0:07:55.76,0:07:58.63,BottomCenter,,0,0,0,,Every time we are trying\Nto survive, actually.
+Dialogue: 0,0:07:59.51,0:08:01.48,BottomCenter,,0,0,0,,[Lee]\NUltimately, something's gonna give.
+Dialogue: 0,0:08:01.51,0:08:03.81,BottomCenter,,0,0,0,,Either the price\Nof the product has to go up,
+Dialogue: 0,0:08:03.93,0:08:07.24,BottomCenter,,0,0,0,,or manufacturers have to shut down
+Dialogue: 0,0:08:07.36,0:08:09.02,BottomCenter,,0,0,0,,or cut corners to make it work.
+Dialogue: 0,0:08:09.52,0:08:12.24,BottomCenter,,0,0,0,,[narrator] Cutting corners\Nand disregarding safety measures
+Dialogue: 0,0:08:12.31,0:08:15.37,BottomCenter,,0,0,0,,had become an accepted part\Nof doing business in this new model,
+Dialogue: 0,0:08:15.41,0:08:17.12,BottomCenter,,0,0,0,,until an early morning in April,
+Dialogue: 0,0:08:17.19,0:08:19.75,BottomCenter,,0,0,0,,when an event just outside\Nof Dhaka, Bangladesh
+Dialogue: 0,0:08:19.82,0:08:22.54,BottomCenter,,0,0,0,,brought a hidden side of fashion\Nto front page news.
+Dialogue: 0,0:08:22.67,0:08:24.55,BottomCenter,,0,0,0,,State media in Bangladesh say
+Dialogue: 0,0:08:24.62,0:08:28.22,BottomCenter,,0,0,0,,an eight-story building has collapsed\Nnear the capital of Dhaka,
+Dialogue: 0,0:08:28.25,0:08:29.97,BottomCenter,,0,0,0,,killing more than 70 people.
+Dialogue: 0,0:08:30.05,0:08:32.67,BottomCenter,,0,0,0,,[crowd clamoring]\N[whistle blowing]
+Dialogue: 0,0:08:36.13,0:08:39.85,BottomCenter,,0,0,0,,[wailing in foreign language]
+Dialogue: 0,0:08:42.26,0:08:44.86,BottomCenter,,0,0,0,,[woman 1]\NRescue workers are racing against time,
+Dialogue: 0,0:08:44.94,0:08:47.39,BottomCenter,,0,0,0,,searching through the rubble,\Ntrying to find
+Dialogue: 0,0:08:47.44,0:08:49.77,BottomCenter,,0,0,0,,as many survivors as they can.
+Dialogue: 0,0:08:49.86,0:08:51.27,BottomCenter,,0,0,0,,[man 1]\NHundreds are dead,
+Dialogue: 0,0:08:51.36,0:08:54.95,BottomCenter,,0,0,0,,hundreds more might still be buried alive,\Nafter officials in Bangladesh say
+Dialogue: 0,0:08:55.02,0:08:57.87,BottomCenter,,0,0,0,,factory owners ignored\Nan order to evacuate.
+Dialogue: 0,0:08:58.00,0:09:02.37,BottomCenter,,0,0,0,,[man 2] Some 400 dead,\Nhundreds still believed to be missing.
+Dialogue: 0,0:09:02.46,0:09:06.59,BottomCenter,,0,0,0,,Garment workers in Bangladesh paying\Nthe price for cheap clothing.
+Dialogue: 0,0:09:06.66,0:09:09.54,BottomCenter,,0,0,0,,[woman 2] A huge crowd has gathered\Nnear the building site,
+Dialogue: 0,0:09:09.59,0:09:13.09,BottomCenter,,0,0,0,,many of them family members looking\Nfor loved ones,
+Dialogue: 0,0:09:13.17,0:09:15.88,BottomCenter,,0,0,0,,and they say they can still hear\Npeople screaming
+Dialogue: 0,0:09:15.97,0:09:19.17,BottomCenter,,0,0,0,,from underneath the rubble,\Ncrying out for help.
+Dialogue: 0,0:09:19.30,0:09:21.98,BottomCenter,,0,0,0,,Many are simply losing hope.
+Dialogue: 0,0:09:23.44,0:09:25.44,BottomCenter,,0,0,0,,[speaking in foreign language]
+Dialogue: 0,0:09:34.62,0:09:35.90,BottomCenter,,0,0,0,,[clears throat]
+Dialogue: 0,0:09:56.63,0:09:59.75,BottomCenter,,0,0,0,,[Siegle]\NAnybody who, like me,
+Dialogue: 0,0:09:59.85,0:10:03.63,BottomCenter,,0,0,0,,had written about problems\Nin the supply chain,
+Dialogue: 0,0:10:03.73,0:10:05.86,BottomCenter,,0,0,0,,particularly for Fast Fashion,
+Dialogue: 0,0:10:05.94,0:10:08.19,BottomCenter,,0,0,0,,and tried to articulate
+Dialogue: 0,0:10:08.23,0:10:11.52,BottomCenter,,0,0,0,,how the risk was being carried
+Dialogue: 0,0:10:11.64,0:10:15.87,BottomCenter,,0,0,0,,by those who are most vulnerable\Nand the worst paid.
+Dialogue: 0,0:10:16.49,0:10:19.90,BottomCenter,,0,0,0,,You try to articulate that,\Nbut you could never have envisaged
+Dialogue: 0,0:10:19.95,0:10:23.25,BottomCenter,,0,0,0,,that there would be such\Na catastrophic illustration
+Dialogue: 0,0:10:23.33,0:10:25.41,BottomCenter,,0,0,0,,of what you were trying to say.
+Dialogue: 0,0:10:25.50,0:10:29.37,BottomCenter,,0,0,0,,And Rana Plaza, to me,\Nwas like some horror story.
+Dialogue: 0,0:10:30.25,0:10:32.34,BottomCenter,,0,0,0,,[woman]\NTwo weeks after the catastrophe
+Dialogue: 0,0:10:32.41,0:10:36.54,BottomCenter,,0,0,0,,and the death toll now stands\Nat a staggering 931,
+Dialogue: 0,0:10:36.63,0:10:40.25,BottomCenter,,0,0,0,,making it the worst\Ngarment-industry disaster in history.
+Dialogue: 0,0:10:40.38,0:10:44.63,BottomCenter,,0,0,0,,I think one of the most profoundly\Nimpressing things
+Dialogue: 0,0:10:44.73,0:10:48.73,BottomCenter,,0,0,0,,about the Rana Plaza disaster\Nwas that news
+Dialogue: 0,0:10:48.80,0:10:52.27,BottomCenter,,0,0,0,,that the workers had already\Npointed out to the management
+Dialogue: 0,0:10:52.36,0:10:53.89,BottomCenter,,0,0,0,,the cracks in the building.
+Dialogue: 0,0:10:53.99,0:10:55.89,BottomCenter,,0,0,0,,They'd already pointed out
+Dialogue: 0,0:10:55.99,0:10:58.57,BottomCenter,,0,0,0,,that the building was structurally unsafe,
+Dialogue: 0,0:10:58.65,0:11:00.95,BottomCenter,,0,0,0,,and yet they'd been forced back in.
+Dialogue: 0,0:11:01.02,0:11:02.50,BottomCenter,,0,0,0,,[woman]\NSurvivors are asking
+Dialogue: 0,0:11:02.58,0:11:05.03,BottomCenter,,0,0,0,,how they could've been forced\Nto return to work
+Dialogue: 0,0:11:05.12,0:11:08.66,BottomCenter,,0,0,0,,when management already was aware\Nof the cracks in the building,
+Dialogue: 0,0:11:08.75,0:11:11.96,BottomCenter,,0,0,0,,and workers' concerns\Non the very day of the collapse.
+Dialogue: 0,0:11:12.04,0:11:15.29,BottomCenter,,0,0,0,,A lot of clothes in American stores\Nare made in Bangladesh
+Dialogue: 0,0:11:15.37,0:11:18.00,BottomCenter,,0,0,0,,by workers who earn about $2 a day.
+Dialogue: 0,0:11:18.09,0:11:21.42,BottomCenter,,0,0,0,,Last month there,\Na garment factory collapsed,
+Dialogue: 0,0:11:21.50,0:11:23.80,BottomCenter,,0,0,0,,killing more than 1,000,
+Dialogue: 0,0:11:23.88,0:11:28.80,BottomCenter,,0,0,0,,and a few months before that,\Na factory fire killed more than 100.
+Dialogue: 0,0:11:28.89,0:11:31.51,BottomCenter,,0,0,0,,[woman] And as bodies are\Nbeing pulled out of the rubble,
+Dialogue: 0,0:11:31.61,0:11:34.69,BottomCenter,,0,0,0,,another factory in Bangladesh caught fire\Nearly this morning,
+Dialogue: 0,0:11:34.77,0:11:36.20,BottomCenter,,0,0,0,,killing eight more people.
+Dialogue: 0,0:11:36.86,0:11:40.83,BottomCenter,,0,0,0,,[narrator] As story after story\Nof disasters kept filling the news,
+Dialogue: 0,0:11:40.90,0:11:44.20,BottomCenter,,0,0,0,,it was now the case that three\Nof the four worst tragedies...
+Dialogue: 0,0:11:44.28,0:11:48.21,BottomCenter,,0,0,0,,...in the history of fashion had\Nall happened in the last year.
+Dialogue: 0,0:11:48.28,0:11:51.41,BottomCenter,,0,0,0,,As the death toll rose,\Nso did the profits generated.
+Dialogue: 0,0:11:51.50,0:11:54.16,BottomCenter,,0,0,0,,The year following the disaster\Nat Rana Plaza was
+Dialogue: 0,0:11:54.25,0:11:57.29,BottomCenter,,0,0,0,,the industry's most profitable\Nof all time.
+Dialogue: 0,0:11:57.37,0:11:59.42,BottomCenter,,0,0,0,,The global fashion industry is now
+Dialogue: 0,0:11:59.50,0:12:02.38,BottomCenter,,0,0,0,,an almost $3 trillion annual industry.
+Dialogue: 0,0:12:02.47,0:12:04.63,BottomCenter,,0,0,0,,[man]\NBangladesh is now the second largest
+Dialogue: 0,0:12:04.75,0:12:07.10,BottomCenter,,0,0,0,,apparel exporter, after China.
+Dialogue: 0,0:12:07.17,0:12:09.80,BottomCenter,,0,0,0,,How? Well, unlike some\Nof its competitors,
+Dialogue: 0,0:12:09.88,0:12:13.11,BottomCenter,,0,0,0,,Bangladeshi manufacturing remains\Ndirt cheap,
+Dialogue: 0,0:12:13.19,0:12:15.57,BottomCenter,,0,0,0,,and unions have limited power.
+Dialogue: 0,0:12:15.64,0:12:20.36,BottomCenter,,0,0,0,,The country cornered the absolute bottom\Nof the value chain.
+Dialogue: 0,0:12:20.74,0:12:25.08,BottomCenter,,0,0,0,,Those 1000 poor girls lost their lives
+Dialogue: 0,0:12:25.15,0:12:30.16,BottomCenter,,0,0,0,,because everybody didn't bother,\Ndidn't give a damn shit.
+Dialogue: 0,0:12:30.25,0:12:33.25,BottomCenter,,0,0,0,,They just wanted the cheap price\Nand a good profit.
+Dialogue: 0,0:12:33.34,0:12:34.91,BottomCenter,,0,0,0,,It shouldn't be like that.
+Dialogue: 0,0:12:35.00,0:12:38.29,BottomCenter,,0,0,0,,Everybody should take\Nthe responsibility for those kids.
+Dialogue: 0,0:12:43.10,0:12:44.67,BottomCenter,,0,0,0,,That's how it is.
+Dialogue: 0,0:12:45.85,0:12:47.48,BottomCenter,,0,0,0,,There might be more coming.
+Dialogue: 0,0:12:47.55,0:12:51.94,BottomCenter,,0,0,0,,Sorry, but you know that it's not only\Nthe price pressure,
+Dialogue: 0,0:12:52.01,0:12:53.23,BottomCenter,,0,0,0,,it is something--
+Dialogue: 0,0:12:53.30,0:12:55.11,BottomCenter,,0,0,0,,Ignoring other people's lives.
+Dialogue: 0,0:12:55.19,0:12:58.52,BottomCenter,,0,0,0,,It's not... It shouldn't...\NIt's not right.
+Dialogue: 0,0:12:58.61,0:13:00.52,BottomCenter,,0,0,0,,It's the 21st century.
+Dialogue: 0,0:13:00.61,0:13:02.32,BottomCenter,,0,0,0,,It's a global world we are living in,
+Dialogue: 0,0:13:02.40,0:13:05.33,BottomCenter,,0,0,0,,and we just ignore other people's lives?
+Dialogue: 0,0:13:05.40,0:13:06.52,BottomCenter,,0,0,0,,How come?
+Dialogue: 0,0:13:06.62,0:13:10.58,BottomCenter,,0,0,0,,This enormous, rapacious industry
+Dialogue: 0,0:13:10.65,0:13:13.00,BottomCenter,,0,0,0,,that is generating so much profit
+Dialogue: 0,0:13:13.08,0:13:15.25,BottomCenter,,0,0,0,,for a handful of people,
+Dialogue: 0,0:13:15.34,0:13:17.79,BottomCenter,,0,0,0,,why is it that it is unable
+Dialogue: 0,0:13:17.87,0:13:21.50,BottomCenter,,0,0,0,,to support millions\Nof its workers properly?
+Dialogue: 0,0:13:21.59,0:13:25.79,BottomCenter,,0,0,0,,Why is it that it is not able\Nto guarantee their safety?
+Dialogue: 0,0:13:25.88,0:13:27.97,BottomCenter,,0,0,0,,We're talking\Nabout essential human rights.
+Dialogue: 0,0:13:28.05,0:13:30.05,BottomCenter,,0,0,0,,Why is it unable to guarantee that
+Dialogue: 0,0:13:30.13,0:13:33.19,BottomCenter,,0,0,0,,whilst generating\Nthese tremendous profits?
+Dialogue: 0,0:13:33.26,0:13:35.19,BottomCenter,,0,0,0,,Is it because it doesn't work properly?
+Dialogue: 0,0:13:35.26,0:13:36.57,BottomCenter,,0,0,0,,That is my question.
+Dialogue: 0,0:13:38.23,0:13:40.74,BottomCenter,,0,0,0,,[narrator] Lucy's question sounds\Nlike the obvious one.
+Dialogue: 0,0:13:40.82,0:13:43.82,BottomCenter,,0,0,0,,But instead of answering it,\Neverywhere I looked, I found people
+Dialogue: 0,0:13:43.90,0:13:46.02,BottomCenter,,0,0,0,,who were constantly justifying the cost
+Dialogue: 0,0:13:46.12,0:13:48.70,BottomCenter,,0,0,0,,because of the economic benefits\Nbeing generated.
+Dialogue: 0,0:13:48.78,0:13:53.03,BottomCenter,,0,0,0,,So, this low-wage manufacturing,\Nor so-called "sweatshops,"
+Dialogue: 0,0:13:53.12,0:13:55.84,BottomCenter,,0,0,0,,they're not just the least bad option\Nworkers have today,
+Dialogue: 0,0:13:55.91,0:13:59.04,BottomCenter,,0,0,0,,they're part of the very process\Nthat raises living standards
+Dialogue: 0,0:13:59.12,0:14:02.59,BottomCenter,,0,0,0,,and leads to higher wages\Nand better working conditions over time.
+Dialogue: 0,0:14:02.66,0:14:07.25,BottomCenter,,0,0,0,,Your proximate causes of development\Nare physical capital, technology
+Dialogue: 0,0:14:07.35,0:14:09.50,BottomCenter,,0,0,0,,and human capital\Nor skills of the workers.
+Dialogue: 0,0:14:09.60,0:14:13.88,BottomCenter,,0,0,0,,When sweatshops come to these countries,\Nthey bring all three to these workers
+Dialogue: 0,0:14:13.98,0:14:16.23,BottomCenter,,0,0,0,,and start getting that process going.
+Dialogue: 0,0:14:16.30,0:14:19.69,BottomCenter,,0,0,0,,Is it possible that sweatshops are\Nactually good?
+Dialogue: 0,0:14:19.76,0:14:21.69,BottomCenter,,0,0,0,,Yes, horrible, awful sweatshops.
+Dialogue: 0,0:14:21.77,0:14:23.52,BottomCenter,,0,0,0,,The word itself, "sweatshop,"
+Dialogue: 0,0:14:23.61,0:14:26.57,BottomCenter,,0,0,0,,it evokes terrible images\Nof poor people and children
+Dialogue: 0,0:14:26.65,0:14:30.40,BottomCenter,,0,0,0,,suffering in third world countries,\Nslaving away in awful conditions
+Dialogue: 0,0:14:30.49,0:14:33.37,BottomCenter,,0,0,0,,to make products\Nfor us selfish Americans.
+Dialogue: 0,0:14:33.46,0:14:35.15,BottomCenter,,0,0,0,,And thank you. What?
+Dialogue: 0,0:14:35.25,0:14:39.37,BottomCenter,,0,0,0,,Does it bother me that people\Nare working in a factory,
+Dialogue: 0,0:14:39.46,0:14:43.04,BottomCenter,,0,0,0,,making clothes for Americans
+Dialogue: 0,0:14:43.12,0:14:45.12,BottomCenter,,0,0,0,,or for, you know, Europeans?
+Dialogue: 0,0:14:45.22,0:14:48.10,BottomCenter,,0,0,0,,Or that they're... That's how\Nthey're spending their lives?
+Dialogue: 0,0:14:49.00,0:14:50.97,BottomCenter,,0,0,0,,Is that what you're kind of asking me?
+Dialogue: 0,0:14:51.05,0:14:52.85,BottomCenter,,0,0,0,,[interviewer]\NUm, yeah, sure.
+Dialogue: 0,0:14:52.92,0:14:54.38,BottomCenter,,0,0,0,,Um...
+Dialogue: 0,0:14:54.48,0:14:57.51,BottomCenter,,0,0,0,,No. I mean, you know,\Nthey're doing a job.
+Dialogue: 0,0:14:57.94,0:15:00.69,BottomCenter,,0,0,0,,Uh, there are a lot worse things\Nthat they can be doing.
+Dialogue: 0,0:15:00.76,0:15:02.77,BottomCenter,,0,0,0,,It is live television,\Nand I will ask you:
+Dialogue: 0,0:15:02.86,0:15:04.27,BottomCenter,,0,0,0,,define sweatshops.
+Dialogue: 0,0:15:04.36,0:15:07.40,BottomCenter,,0,0,0,,We have to be clear\Nwhat we're talking about from the outset.
+Dialogue: 0,0:15:07.49,0:15:10.49,BottomCenter,,0,0,0,,So, we're talking about places\Nwith very poor working conditions
+Dialogue: 0,0:15:10.58,0:15:12.90,BottomCenter,,0,0,0,,as us normal Americans\Nwould experience it,
+Dialogue: 0,0:15:13.00,0:15:16.46,BottomCenter,,0,0,0,,very low wages by our standard,\Nmaybe children working places
+Dialogue: 0,0:15:16.53,0:15:18.33,BottomCenter,,0,0,0,,that might not obey local labor laws,
+Dialogue: 0,0:15:18.41,0:15:22.54,BottomCenter,,0,0,0,,but there are characteristics of the ones\NI want to talk to you about tonight,
+Dialogue: 0,0:15:22.62,0:15:25.37,BottomCenter,,0,0,0,,and that's they're places\Nwhere people choose to work,
+Dialogue: 0,0:15:25.47,0:15:27.92,BottomCenter,,0,0,0,,admittedly from a bad set\Nof other options.
+Dialogue: 0,0:15:28.37,0:15:31.67,BottomCenter,,0,0,0,,Well, there's nothing intrinsically\Ndangerous with sewing clothes.
+Dialogue: 0,0:15:31.75,0:15:33.80,BottomCenter,,0,0,0,,[chuckles] So, we're kind of starting out
+Dialogue: 0,0:15:33.88,0:15:37.30,BottomCenter,,0,0,0,,with, you know,\Na relatively safe industry.
+Dialogue: 0,0:15:37.38,0:15:40.30,BottomCenter,,0,0,0,,It's not like coal mining,\Nor natural gas mining,
+Dialogue: 0,0:15:40.39,0:15:43.86,BottomCenter,,0,0,0,,or a lot of things that you could--\NThat are much more dangerous.
+Dialogue: 0,0:15:43.94,0:15:48.07,BottomCenter,,0,0,0,,So, sweatshop jobs look like\Nhorrible working conditions and wages
+Dialogue: 0,0:15:48.14,0:15:50.52,BottomCenter,,0,0,0,,to anybody in the West\Nwho's wealthy enough
+Dialogue: 0,0:15:50.62,0:15:53.12,BottomCenter,,0,0,0,,to own a TV and watch your video.
+Dialogue: 0,0:15:53.20,0:15:55.96,BottomCenter,,0,0,0,,But we have to keep in mind\Nthat the alternatives available
+Dialogue: 0,0:15:56.03,0:15:58.25,BottomCenter,,0,0,0,,for these workers aren't\Nour own alternatives,
+Dialogue: 0,0:15:58.33,0:16:00.62,BottomCenter,,0,0,0,,they're much worse than our alternatives,
+Dialogue: 0,0:16:00.71,0:16:04.21,BottomCenter,,0,0,0,,and they're usually much worse\Nthan the factory job that the worker has.
+Dialogue: 0,0:16:04.91,0:16:08.87,BottomCenter,,0,0,0,,Low wages, unsafe conditions,\Nand factory disasters
+Dialogue: 0,0:16:08.97,0:16:11.54,BottomCenter,,0,0,0,,are all excused because of\Nthe needed jobs they create
+Dialogue: 0,0:16:11.63,0:16:13.75,BottomCenter,,0,0,0,,for people with no alternatives.
+Dialogue: 0,0:16:14.25,0:16:16.30,BottomCenter,,0,0,0,,This story has become the narrative,
+Dialogue: 0,0:16:16.38,0:16:19.35,BottomCenter,,0,0,0,,used to explain the way\Nthe fashion industry now operates
+Dialogue: 0,0:16:19.44,0:16:21.14,BottomCenter,,0,0,0,,all over the world.
+Dialogue: 0,0:16:21.23,0:16:24.23,BottomCenter,,0,0,0,,But there are those who believe\Nthat there must be a better way
+Dialogue: 0,0:16:24.32,0:16:27.77,BottomCenter,,0,0,0,,of making and selling clothing\Nthat does generate economic growth,
+Dialogue: 0,0:16:27.86,0:16:30.36,BottomCenter,,0,0,0,,but without taking such an enormous toll.
+Dialogue: 0,0:16:30.74,0:16:32.95,BottomCenter,,0,0,0,,[woman]\NSo, we don't know yet, um,
+Dialogue: 0,0:16:33.02,0:16:34.87,BottomCenter,,0,0,0,,how long this embroidery is taking.
+Dialogue: 0,0:16:34.95,0:16:38.12,BottomCenter,,0,0,0,,Do you think you could ask Santo\Nto just roughly...
+Dialogue: 0,0:16:38.21,0:16:40.78,BottomCenter,,0,0,0,,How long that whole panel is taking?
+Dialogue: 0,0:16:40.87,0:16:44.66,BottomCenter,,0,0,0,,I guess we'll see it in the FAB breakdown,\Nbut it would be great to know.
+Dialogue: 0,0:16:44.75,0:16:49.04,BottomCenter,,0,0,0,,So, I'm Safia Minney,\NI'm founder and CEO of People Tree,
+Dialogue: 0,0:16:49.12,0:16:51.79,BottomCenter,,0,0,0,,and, uh, People Tree is\Na Fair Trade fashion brand
+Dialogue: 0,0:16:51.87,0:16:54.54,BottomCenter,,0,0,0,,that started over 20 years ago in Japan.
+Dialogue: 0,0:16:54.92,0:16:56.92,BottomCenter,,0,0,0,,You were worried we had too much navy.
+Dialogue: 0,0:16:57.01,0:17:00.30,BottomCenter,,0,0,0,,What are you feeling now?\NBecause we did put more black in to SS14
+Dialogue: 0,0:17:00.38,0:17:02.64,BottomCenter,,0,0,0,,and that has worked really, really well
+Dialogue: 0,0:17:02.73,0:17:06.90,BottomCenter,,0,0,0,,with, um, Orla's designer, um,\Ncollaboration.
+Dialogue: 0,0:17:06.98,0:17:09.77,BottomCenter,,0,0,0,,Have we got enough black prints\Nin the collection?
+Dialogue: 0,0:17:09.85,0:17:14.95,BottomCenter,,0,0,0,,Uh, well, we've lost\Nthat abstract dust print, this one here,
+Dialogue: 0,0:17:15.02,0:17:17.82,BottomCenter,,0,0,0,,in the black,\Nbut I think this pink, we really---
+Dialogue: 0,0:17:18.49,0:17:22.57,BottomCenter,,0,0,0,,It's one of those prints that everyone's\Nnervous of but actually will do well.
+Dialogue: 0,0:17:23.50,0:17:26.38,BottomCenter,,0,0,0,,[Minney]\NI think most fashion brands start
+Dialogue: 0,0:17:26.46,0:17:29.63,BottomCenter,,0,0,0,,with a concept\Nof a collection or a look.
+Dialogue: 0,0:17:29.71,0:17:33.89,BottomCenter,,0,0,0,,Um, they don't tend to think,\Nuh, you know,
+Dialogue: 0,0:17:33.97,0:17:36.30,BottomCenter,,0,0,0,,who is gonna make the product?
+Dialogue: 0,0:17:36.39,0:17:39.43,BottomCenter,,0,0,0,,And how can I ensure\Nthat producers
+Dialogue: 0,0:17:39.51,0:17:42.69,BottomCenter,,0,0,0,,or suppliers, um, are gonna eat?
+Dialogue: 0,0:17:42.76,0:17:48.27,BottomCenter,,0,0,0,,So, what we're trying to do at People Tree\Nis start with the skills that we have
+Dialogue: 0,0:17:48.35,0:17:51.60,BottomCenter,,0,0,0,,at each producer group,\Nand then design the collection up,
+Dialogue: 0,0:17:51.69,0:17:55.86,BottomCenter,,0,0,0,,whilst also looking at the integrity\Nof the collection in its aesthetic.
+Dialogue: 0,0:17:57.11,0:18:00.24,BottomCenter,,0,0,0,,I worked originally\Nwith freelance designers
+Dialogue: 0,0:18:00.32,0:18:04.28,BottomCenter,,0,0,0,,and went into Bangladesh, Zimbabwe,\NIndia, Nepal, the Philippines,
+Dialogue: 0,0:18:04.36,0:18:08.17,BottomCenter,,0,0,0,,and bit by bit, we put together,\Nyou know, an amazing network
+Dialogue: 0,0:18:08.25,0:18:11.38,BottomCenter,,0,0,0,,of like-minded Fair Trade organizations
+Dialogue: 0,0:18:11.46,0:18:14.04,BottomCenter,,0,0,0,,that put women's development,
+Dialogue: 0,0:18:14.13,0:18:16.72,BottomCenter,,0,0,0,,the workers' social development\Nand environment
+Dialogue: 0,0:18:16.79,0:18:19.34,BottomCenter,,0,0,0,,absolutely essential\Nto everything they do.
+Dialogue: 0,0:18:24.94,0:18:26.76,BottomCenter,,0,0,0,,[woman]\NOne, two, three.
+Dialogue: 0,0:18:26.85,0:18:29.85,BottomCenter,,0,0,0,,[all]\NHappy World Fair Trade Day!
+Dialogue: 0,0:18:29.94,0:18:32.06,BottomCenter,,0,0,0,,[cheering and whistling]
+Dialogue: 0,0:18:34.20,0:18:36.20,BottomCenter,,0,0,0,,[speaking in Japanese]
+Dialogue: 0,0:19:09.56,0:19:11.56,BottomCenter,,0,0,0,,[instrumental music playing\Nover speakers]
+Dialogue: 0,0:19:28.17,0:19:30.08,BottomCenter,,0,0,0,,[speaks in Japanese]
+Dialogue: 0,0:19:34.00,0:19:35.38,BottomCenter,,0,0,0,,Thank you.
+Dialogue: 0,0:19:36.33,0:19:40.54,BottomCenter,,0,0,0,,Good job! It was so...\NReally, really great!
+Dialogue: 0,0:19:40.64,0:19:42.00,BottomCenter,,0,0,0,,Yeah.
+Dialogue: 0,0:19:45.09,0:19:47.09,BottomCenter,,0,0,0,,[speaking in Japanese]
+Dialogue: 0,0:19:53.98,0:19:55.77,BottomCenter,,0,0,0,,[speaks in Japanese]
+Dialogue: 0,0:19:56.74,0:19:57.99,BottomCenter,,0,0,0,,That's beautiful.
+Dialogue: 0,0:19:58.06,0:20:00.45,BottomCenter,,0,0,0,,Fair Trade is a citizen's response
+Dialogue: 0,0:20:00.52,0:20:02.52,BottomCenter,,0,0,0,,to correcting the social injustice
+Dialogue: 0,0:20:02.61,0:20:06.03,BottomCenter,,0,0,0,,in an international trading system\Nthat is largely dysfunctional,
+Dialogue: 0,0:20:06.11,0:20:09.42,BottomCenter,,0,0,0,,where, uh, workers and farmers
+Dialogue: 0,0:20:09.50,0:20:12.08,BottomCenter,,0,0,0,,are not paid, um, a living wage,
+Dialogue: 0,0:20:12.17,0:20:17.08,BottomCenter,,0,0,0,,and where the environment is not\Nconsidered to make the products we buy.
+Dialogue: 0,0:20:25.39,0:20:27.18,BottomCenter,,0,0,0,,[speaks in foreign language]
+Dialogue: 0,0:20:32.73,0:20:34.73,BottomCenter,,0,0,0,,[speaking in foreign language]
+Dialogue: 0,0:20:47.25,0:20:50.28,BottomCenter,,0,0,0,,Shima is one of about\N40 million garment-factory workers
+Dialogue: 0,0:20:50.36,0:20:51.38,BottomCenter,,0,0,0,,in the world.
+Dialogue: 0,0:20:51.46,0:20:54.50,BottomCenter,,0,0,0,,Almost four million of these workers\Nare here in Bangladesh,
+Dialogue: 0,0:20:54.58,0:20:56.71,BottomCenter,,0,0,0,,working in almost 5000 factories,
+Dialogue: 0,0:20:56.79,0:20:59.47,BottomCenter,,0,0,0,,making clothing for major Western brands.
+Dialogue: 0,0:21:01.54,0:21:04.14,BottomCenter,,0,0,0,,Over 85 percent\Nof these workers are women.
+Dialogue: 0,0:21:04.22,0:21:06.97,BottomCenter,,0,0,0,,And with a minimum wage\Nof less than $3 a day,
+Dialogue: 0,0:21:07.05,0:21:10.14,BottomCenter,,0,0,0,,they are among the lowest paid\Ngarment workers in the world.
+Dialogue: 0,0:21:10.23,0:21:12.65,BottomCenter,,0,0,0,,[Akhter speaking in foreign language]
+Dialogue: 0,0:21:40.08,0:21:41.08,BottomCenter,,0,0,0,,[interviewer]
+Dialogue: 0,0:21:41.17,0:21:42.43,BottomCenter,,0,0,0,,[Akhter]
+Dialogue: 0,0:22:16.42,0:22:21.67,BottomCenter,,0,0,0,,[man] The workers must not have\Nany kind of distrust
+Dialogue: 0,0:22:21.75,0:22:23.79,BottomCenter,,0,0,0,,on their owners.
+Dialogue: 0,0:22:23.88,0:22:25.54,BottomCenter,,0,0,0,,If they have,
+Dialogue: 0,0:22:26.22,0:22:31.34,BottomCenter,,0,0,0,,there will not be any good\Nworking atmosphere in the factory.
+Dialogue: 0,0:22:31.43,0:22:36.19,BottomCenter,,0,0,0,,They must respect,\Nthe owner is paying us as per rule.
+Dialogue: 0,0:22:38.10,0:22:40.23,BottomCenter,,0,0,0,,If they do not have\Nthis kind of confidence,
+Dialogue: 0,0:22:40.31,0:22:42.19,BottomCenter,,0,0,0,,you won't get the result.
+Dialogue: 0,0:22:43.06,0:22:45.35,BottomCenter,,0,0,0,,[Akhter speaking in foreign language]
+Dialogue: 0,0:23:36.53,0:23:39.21,BottomCenter,,0,0,0,,It's estimated that one\Nin every six people alive
+Dialogue: 0,0:23:39.28,0:23:40.63,BottomCenter,,0,0,0,,in the world today
+Dialogue: 0,0:23:40.71,0:23:43.50,BottomCenter,,0,0,0,,work in some part\Nof the global fashion industry,
+Dialogue: 0,0:23:43.58,0:23:47.00,BottomCenter,,0,0,0,,making it the most\Nlabor-dependent industry on earth.
+Dialogue: 0,0:23:48.00,0:23:51.50,BottomCenter,,0,0,0,,Most of this work is done by people,\Nlike Shima, who have no voice
+Dialogue: 0,0:23:51.59,0:23:53.22,BottomCenter,,0,0,0,,in the larger supply chain.
+Dialogue: 0,0:23:53.59,0:23:56.89,BottomCenter,,0,0,0,,But to fully understand the impact\Nthat fashion is having on our world,
+Dialogue: 0,0:23:56.98,0:23:59.73,BottomCenter,,0,0,0,,we have to go back\Nto where it all begins.
+Dialogue: 0,0:24:01.26,0:24:03.01,BottomCenter,,0,0,0,,[engine starts]
+Dialogue: 0,0:24:04.98,0:24:07.40,BottomCenter,,0,0,0,,[woman] My grandparents settled\Nout here in the '20s,
+Dialogue: 0,0:24:07.49,0:24:09.41,BottomCenter,,0,0,0,,and so this is a part of my heritage.
+Dialogue: 0,0:24:09.49,0:24:12.70,BottomCenter,,0,0,0,,People ask why I'm a cotton farmer,\Nit's 'cause I don't know better.
+Dialogue: 0,0:24:12.77,0:24:14.66,BottomCenter,,0,0,0,,My granddaddy was an old German farmer
+Dialogue: 0,0:24:14.74,0:24:17.96,BottomCenter,,0,0,0,,that felt like we should respect the land,\Nwe're stewards of the land,
+Dialogue: 0,0:24:18.03,0:24:20.03,BottomCenter,,0,0,0,,and respect the life that's in the land.
+Dialogue: 0,0:24:22.13,0:24:25.63,BottomCenter,,0,0,0,,You are actually sitting in,\Nuh, the high plains of Texas,
+Dialogue: 0,0:24:25.71,0:24:29.33,BottomCenter,,0,0,0,,and there's 3.6 million acres\Nof cotton growing in this region.
+Dialogue: 0,0:24:29.43,0:24:32.09,BottomCenter,,0,0,0,,We're literally the biggest\Ncotton patch in the world.
+Dialogue: 0,0:24:32.47,0:24:36.55,BottomCenter,,0,0,0,,In just the past ten years,\N80 percent of that is now GMO,
+Dialogue: 0,0:24:36.64,0:24:38.68,BottomCenter,,0,0,0,,genetically modified cotton.
+Dialogue: 0,0:24:38.76,0:24:41.15,BottomCenter,,0,0,0,,Most of it is, uh, Roundup Ready,
+Dialogue: 0,0:24:41.23,0:24:44.98,BottomCenter,,0,0,0,,meaning that instead\Nof the farmers spot-spraying weeds,
+Dialogue: 0,0:24:45.06,0:24:46.44,BottomCenter,,0,0,0,,occasionally, in their field,
+Dialogue: 0,0:24:46.52,0:24:49.95,BottomCenter,,0,0,0,,or hiring laborers to walk the field\Nand eliminate the weeds,
+Dialogue: 0,0:24:50.02,0:24:52.91,BottomCenter,,0,0,0,,now they're spraying whole fields.
+Dialogue: 0,0:24:52.99,0:24:54.61,BottomCenter,,0,0,0,,Cotton produces the fiber
+Dialogue: 0,0:24:54.70,0:24:57.95,BottomCenter,,0,0,0,,that's responsible for most\Nof the clothing worn by the world today.
+Dialogue: 0,0:24:58.03,0:25:00.11,BottomCenter,,0,0,0,,And as our appetite\Nfor fashion grows,
+Dialogue: 0,0:25:00.21,0:25:03.50,BottomCenter,,0,0,0,,the cotton plant itself is being\Nre-engineered to keep up.
+Dialogue: 0,0:25:03.58,0:25:05.25,BottomCenter,,0,0,0,,There's been this big drive
+Dialogue: 0,0:25:05.33,0:25:07.88,BottomCenter,,0,0,0,,towards the industrialization\Nof agriculture,
+Dialogue: 0,0:25:07.96,0:25:10.47,BottomCenter,,0,0,0,,the intensification of agriculture.
+Dialogue: 0,0:25:10.54,0:25:12.68,BottomCenter,,0,0,0,,So, instead of the old forms of farming,
+Dialogue: 0,0:25:12.75,0:25:15.14,BottomCenter,,0,0,0,,which were very much in-tune with nature,
+Dialogue: 0,0:25:15.22,0:25:17.18,BottomCenter,,0,0,0,,they were linked to the cycles
+Dialogue: 0,0:25:17.26,0:25:19.93,BottomCenter,,0,0,0,,of the natural year and the seasons,
+Dialogue: 0,0:25:20.01,0:25:21.89,BottomCenter,,0,0,0,,what you see now is an intensification
+Dialogue: 0,0:25:21.98,0:25:25.94,BottomCenter,,0,0,0,,where the land is almost reconsidered\Nas if it was a factory.
+Dialogue: 0,0:25:27.56,0:25:30.40,BottomCenter,,0,0,0,,[man] What you've created is\Nthis general practice
+Dialogue: 0,0:25:30.49,0:25:34.66,BottomCenter,,0,0,0,,of "we treat millions of acres the same."
+Dialogue: 0,0:25:34.74,0:25:37.91,BottomCenter,,0,0,0,,We put a dose of chemical on it all,
+Dialogue: 0,0:25:37.99,0:25:41.71,BottomCenter,,0,0,0,,and that's when you get\Nthese big ecological effects
+Dialogue: 0,0:25:41.78,0:25:45.21,BottomCenter,,0,0,0,,that nobody has a grasp\Nof what's really happening.
+Dialogue: 0,0:25:45.83,0:25:49.96,BottomCenter,,0,0,0,,Nature tends to heal itself\Nin small pockets.
+Dialogue: 0,0:25:50.71,0:25:54.97,BottomCenter,,0,0,0,,But when you get this big,\Nbroad approach,
+Dialogue: 0,0:25:56.18,0:25:58.43,BottomCenter,,0,0,0,,we really don't know what's going on.
+Dialogue: 0,0:25:58.51,0:26:01.80,BottomCenter,,0,0,0,,For us, it's not reducing\Nthe amount of pesticides
+Dialogue: 0,0:26:01.89,0:26:05.60,BottomCenter,,0,0,0,,and chemicals going on the cotton,\Nthat's one of the big-- It reduces that.
+Dialogue: 0,0:26:05.69,0:26:08.10,BottomCenter,,0,0,0,,Not in our area, where we are spraying
+Dialogue: 0,0:26:08.19,0:26:12.06,BottomCenter,,0,0,0,,millions and millions of acres\Nand dollars of Roundup
+Dialogue: 0,0:26:12.15,0:26:14.02,BottomCenter,,0,0,0,,across the entire South Plains.
+Dialogue: 0,0:26:14.10,0:26:16.70,BottomCenter,,0,0,0,,What kind of impact is\Nthat having on our soil,
+Dialogue: 0,0:26:16.77,0:26:20.70,BottomCenter,,0,0,0,,with residuals that are left\Nat the microbacterial level?
+Dialogue: 0,0:26:20.78,0:26:24.21,BottomCenter,,0,0,0,,What kind of impact is that having\Non the people in our communities?
+Dialogue: 0,0:26:24.28,0:26:26.71,BottomCenter,,0,0,0,,Where is the cost on that?
+Dialogue: 0,0:26:30.63,0:26:32.67,BottomCenter,,0,0,0,,[man] Monsanto is proud\Nto be the leader
+Dialogue: 0,0:26:32.75,0:26:34.13,BottomCenter,,0,0,0,,in agricultural innovation,
+Dialogue: 0,0:26:34.22,0:26:37.29,BottomCenter,,0,0,0,,because of what these agricultural\Nadvancements can do to help you,
+Dialogue: 0,0:26:37.39,0:26:39.80,BottomCenter,,0,0,0,,double yields for the future needs\Nof the world.
+Dialogue: 0,0:26:40.43,0:26:43.14,BottomCenter,,0,0,0,,We're dedicated to the future\Nof agriculture
+Dialogue: 0,0:26:43.23,0:26:45.23,BottomCenter,,0,0,0,,and providing farmers with innovations
+Dialogue: 0,0:26:45.30,0:26:48.40,BottomCenter,,0,0,0,,that help them produce more\Nand conserve more,
+Dialogue: 0,0:26:48.48,0:26:51.60,BottomCenter,,0,0,0,,while improving the lives\Nof people around the world.
+Dialogue: 0,0:26:51.69,0:26:54.02,BottomCenter,,0,0,0,,Together, we can face the challenges
+Dialogue: 0,0:26:54.10,0:26:55.52,BottomCenter,,0,0,0,,of the next generation
+Dialogue: 0,0:26:57.02,0:26:58.57,BottomCenter,,0,0,0,,and beyond.
+Dialogue: 0,0:27:09.33,0:27:10.67,BottomCenter,,0,0,0,,[woman]\NAfter the wars,
+Dialogue: 0,0:27:10.75,0:27:12.67,BottomCenter,,0,0,0,,where all these redundant factories
+Dialogue: 0,0:27:12.75,0:27:17.89,BottomCenter,,0,0,0,,that made war chemicals,\Nexplosives, uh, were lying around,
+Dialogue: 0,0:27:20.34,0:27:24.34,BottomCenter,,0,0,0,,the Western countries thought\Nthat it would be a good idea
+Dialogue: 0,0:27:24.43,0:27:26.44,BottomCenter,,0,0,0,,to market them to the third world.
+Dialogue: 0,0:27:26.51,0:27:29.30,BottomCenter,,0,0,0,,After all, the same industry\Nthat makes explosives
+Dialogue: 0,0:27:29.40,0:27:31.26,BottomCenter,,0,0,0,,makes nitrogen fertilizers.
+Dialogue: 0,0:27:31.73,0:27:34.15,BottomCenter,,0,0,0,,And they started\Nto push nitrogen fertilizers,
+Dialogue: 0,0:27:34.60,0:27:38.20,BottomCenter,,0,0,0,,from the '50s onwards,\Nafter we became independent.
+Dialogue: 0,0:27:38.27,0:27:45.03,BottomCenter,,0,0,0,,But the nitrogen fertilizers don't do\Nvery well with native crops.
+Dialogue: 0,0:27:45.11,0:27:47.46,BottomCenter,,0,0,0,,There's a problem of lodging.
+Dialogue: 0,0:27:47.53,0:27:50.50,BottomCenter,,0,0,0,,So, the whole system then organized itself
+Dialogue: 0,0:27:50.58,0:27:52.50,BottomCenter,,0,0,0,,to redesign the plant
+Dialogue: 0,0:27:52.58,0:27:55.29,BottomCenter,,0,0,0,,in order to take on more chemicals.
+Dialogue: 0,0:27:55.38,0:27:59.54,BottomCenter,,0,0,0,,Bt Cotton is a cotton in which\Na gene has been added,
+Dialogue: 0,0:27:59.64,0:28:02.89,BottomCenter,,0,0,0,,from a bacteria, to produce a toxin.
+Dialogue: 0,0:28:02.97,0:28:04.84,BottomCenter,,0,0,0,,But the Bt Cotton,
+Dialogue: 0,0:28:05.64,0:28:07.59,BottomCenter,,0,0,0,,which is supposed to control a pest,
+Dialogue: 0,0:28:08.23,0:28:13.81,BottomCenter,,0,0,0,,has been offered because it's a way\Nfor companies to own the seed.
+Dialogue: 0,0:28:14.44,0:28:17.19,BottomCenter,,0,0,0,,[narrator] By patenting\Nthese genetically modified plants,
+Dialogue: 0,0:28:17.27,0:28:21.45,BottomCenter,,0,0,0,,Monsanto has become the largest seed\Nand chemical corporation in history.
+Dialogue: 0,0:28:21.52,0:28:24.36,BottomCenter,,0,0,0,,I wanted to speak with someone\Nwho'd worked with the company,
+Dialogue: 0,0:28:24.45,0:28:27.20,BottomCenter,,0,0,0,,and I got word that a former\Nmanaging director for India
+Dialogue: 0,0:28:27.28,0:28:28.46,BottomCenter,,0,0,0,,was willing to talk.
+Dialogue: 0,0:28:28.53,0:28:31.07,BottomCenter,,0,0,0,,[man] One of my close friends\Nin the research division,
+Dialogue: 0,0:28:31.17,0:28:33.83,BottomCenter,,0,0,0,,working on these modified crops,
+Dialogue: 0,0:28:33.92,0:28:36.13,BottomCenter,,0,0,0,,he came to my hotel for a drink.
+Dialogue: 0,0:28:37.46,0:28:40.47,BottomCenter,,0,0,0,,We are sitting having a drink,\Nand after a few drinks he told me,
+Dialogue: 0,0:28:40.54,0:28:43.89,BottomCenter,,0,0,0,,"Hey, Jag, they're going to change\Nthe type of business
+Dialogue: 0,0:28:43.97,0:28:45.68,BottomCenter,,0,0,0,,you're doing in India."
+Dialogue: 0,0:28:46.47,0:28:48.30,BottomCenter,,0,0,0,,I said, "What do you mean?"
+Dialogue: 0,0:28:48.39,0:28:50.76,BottomCenter,,0,0,0,,"They're going to get\Ninto seeds business.
+Dialogue: 0,0:28:50.84,0:28:55.44,BottomCenter,,0,0,0,,And they're going to make\Nthe seed business of all crops,
+Dialogue: 0,0:28:55.52,0:28:58.10,BottomCenter,,0,0,0,,so that we have a monopoly on seeds,
+Dialogue: 0,0:28:58.52,0:29:02.61,BottomCenter,,0,0,0,,and every farmer has to come to us\Nto buy seeds every time."
+Dialogue: 0,0:29:04.20,0:29:06.24,BottomCenter,,0,0,0,,That rang a bell in my mind.
+Dialogue: 0,0:29:06.91,0:29:11.11,BottomCenter,,0,0,0,,If a poor farmer has to go\Nto Monsanto to buy seeds every time,
+Dialogue: 0,0:29:12.17,0:29:14.67,BottomCenter,,0,0,0,,and such expensive seeds,
+Dialogue: 0,0:29:14.75,0:29:17.00,BottomCenter,,0,0,0,,at the time there's no idea\Nof Bt at all for me.
+Dialogue: 0,0:29:17.08,0:29:19.88,BottomCenter,,0,0,0,,Genetically modified seed,\Nit's not in my mind.
+Dialogue: 0,0:29:20.63,0:29:24.04,BottomCenter,,0,0,0,,Even seed monopoly\Nis something very bad.
+Dialogue: 0,0:29:24.54,0:29:27.18,BottomCenter,,0,0,0,,[Shiva] So farmers get into debt\Nwhen they get the seed
+Dialogue: 0,0:29:27.26,0:29:30.55,BottomCenter,,0,0,0,,because of the high cost,\N17,000 percent more.
+Dialogue: 0,0:29:30.64,0:29:34.19,BottomCenter,,0,0,0,,They get into deeper debt because\Nit doesn't deliver on the promise
+Dialogue: 0,0:29:34.26,0:29:37.65,BottomCenter,,0,0,0,,of controlling pests,\Nso they have to buy more pesticides.
+Dialogue: 0,0:29:37.73,0:29:41.70,BottomCenter,,0,0,0,,The tragedy with chemicals,\Nwhether it's fertilizers or pesticides,
+Dialogue: 0,0:29:41.77,0:29:45.06,BottomCenter,,0,0,0,,is that they are what has been called\Necological narcotics:
+Dialogue: 0,0:29:45.16,0:29:47.57,BottomCenter,,0,0,0,,the more you use them,\Nthe more you need to use them.
+Dialogue: 0,0:29:47.66,0:29:50.20,BottomCenter,,0,0,0,,For a while, the yield\Nof the single commodity climbs
+Dialogue: 0,0:29:50.28,0:29:51.75,BottomCenter,,0,0,0,,and then it starts to decline
+Dialogue: 0,0:29:51.82,0:29:55.07,BottomCenter,,0,0,0,,because you have contaminated the soil.
+Dialogue: 0,0:30:02.25,0:30:05.25,BottomCenter,,0,0,0,,Most of India's cotton is grown\Nin the Punjab region,
+Dialogue: 0,0:30:05.34,0:30:09.26,BottomCenter,,0,0,0,,which has quickly become\Nthe largest user of pesticides in India.
+Dialogue: 0,0:30:10.55,0:30:12.98,BottomCenter,,0,0,0,,Dr. Pritpal Singh has\Nbeen studying the effects
+Dialogue: 0,0:30:13.05,0:30:14.76,BottomCenter,,0,0,0,,of these chemicals on human health,
+Dialogue: 0,0:30:14.84,0:30:18.65,BottomCenter,,0,0,0,,and his reports show dramatic rise\Nin the number of birth defects,
+Dialogue: 0,0:30:18.73,0:30:21.77,BottomCenter,,0,0,0,,cancers and mental illness\Nhere in the region.
+Dialogue: 0,0:30:38.58,0:30:40.17,BottomCenter,,0,0,0,,[boy whimpering]
+Dialogue: 0,0:31:36.34,0:31:40.40,BottomCenter,,0,0,0,,Companies that make the GM seeds\Nand make the chemicals
+Dialogue: 0,0:31:40.48,0:31:41.94,BottomCenter,,0,0,0,,are the same companies.
+Dialogue: 0,0:31:42.02,0:31:44.74,BottomCenter,,0,0,0,,And they're also the same companies\Nthat make the medicines
+Dialogue: 0,0:31:44.81,0:31:46.15,BottomCenter,,0,0,0,,which they are now patenting.
+Dialogue: 0,0:31:46.24,0:31:48.52,BottomCenter,,0,0,0,,So you get cancer,\Nthere are more profits.
+Dialogue: 0,0:31:48.61,0:31:50.66,BottomCenter,,0,0,0,,For them it's a win, win, win.
+Dialogue: 0,0:31:50.74,0:31:53.99,BottomCenter,,0,0,0,,As for nature and people,\Nit's a lose, lose, lose.
+Dialogue: 0,0:31:54.41,0:31:57.07,BottomCenter,,0,0,0,,It's the day those agents\Nof these companies
+Dialogue: 0,0:31:57.16,0:31:59.25,BottomCenter,,0,0,0,,come to the farmer and say,
+Dialogue: 0,0:31:59.32,0:32:02.04,BottomCenter,,0,0,0,,"You owe me this much.\NYou haven't paid back.
+Dialogue: 0,0:32:02.13,0:32:04.13,BottomCenter,,0,0,0,,Now your land is my land."
+Dialogue: 0,0:32:04.21,0:32:07.17,BottomCenter,,0,0,0,,That day the farmer will go\Ninto his field,
+Dialogue: 0,0:32:07.25,0:32:09.75,BottomCenter,,0,0,0,,drink a bottle of pesticide,
+Dialogue: 0,0:32:09.83,0:32:10.97,BottomCenter,,0,0,0,,and end his life.
+Dialogue: 0,0:32:11.04,0:32:12.97,BottomCenter,,0,0,0,,And every widow I've talked to said,
+Dialogue: 0,0:32:13.05,0:32:16.59,BottomCenter,,0,0,0,,"And the neighbors came and said\Nthey found my husband lying in the field."
+Dialogue: 0,0:32:17.64,0:32:18.73,BottomCenter,,0,0,0,,[speaking indistinctly]
+Dialogue: 0,0:32:18.80,0:32:20.51,BottomCenter,,0,0,0,,In the last 16 years,
+Dialogue: 0,0:32:20.60,0:32:22.94,BottomCenter,,0,0,0,,there have been more than 250,000
+Dialogue: 0,0:32:23.01,0:32:25.94,BottomCenter,,0,0,0,,recorded farmer suicides in India.
+Dialogue: 0,0:32:26.90,0:32:29.56,BottomCenter,,0,0,0,,That's about one farmer every 30 minutes.
+Dialogue: 0,0:32:29.66,0:32:33.70,BottomCenter,,0,0,0,,And it's the largest recorded wave\Nof suicides in history.
+Dialogue: 0,0:32:40.42,0:32:44.38,BottomCenter,,0,0,0,,As it becomes clear just how much\Nof an impact fashion is having,
+Dialogue: 0,0:32:44.46,0:32:46.29,BottomCenter,,0,0,0,,there's an increasing amount of research
+Dialogue: 0,0:32:46.38,0:32:49.72,BottomCenter,,0,0,0,,to suggest that it's also having\Na growing effect on us,
+Dialogue: 0,0:32:49.79,0:32:51.68,BottomCenter,,0,0,0,,the people buying these clothes.
+Dialogue: 0,0:32:52.09,0:32:55.84,BottomCenter,,0,0,0,,What we now know 20 years later,\Nand hundreds of studies later,
+Dialogue: 0,0:32:55.93,0:32:59.43,BottomCenter,,0,0,0,,is that the more the people are focused\Non those materialistic values,
+Dialogue: 0,0:32:59.51,0:33:02.73,BottomCenter,,0,0,0,,the more that they say\Nthat money and image
+Dialogue: 0,0:33:02.80,0:33:06.06,BottomCenter,,0,0,0,,and status and possessions\Nare important to them,
+Dialogue: 0,0:33:06.15,0:33:07.48,BottomCenter,,0,0,0,,the less happy they are,
+Dialogue: 0,0:33:07.56,0:33:10.74,BottomCenter,,0,0,0,,the more depressed they are,\Nthe more anxious they are.
+Dialogue: 0,0:33:10.81,0:33:13.91,BottomCenter,,0,0,0,,We know that all of these kinds\Nof psychological problems
+Dialogue: 0,0:33:13.99,0:33:17.41,BottomCenter,,0,0,0,,tend to go up\Nas materialistic values go up.
+Dialogue: 0,0:33:17.49,0:33:22.17,BottomCenter,,0,0,0,,Now, that's really at odds\Nwith the thousands of messages
+Dialogue: 0,0:33:22.25,0:33:25.79,BottomCenter,,0,0,0,,that we receive every day\Nfrom, uh, advertisements
+Dialogue: 0,0:33:25.88,0:33:29.67,BottomCenter,,0,0,0,,suggesting that materialism\Nand the pursuit of possessions
+Dialogue: 0,0:33:29.75,0:33:32.04,BottomCenter,,0,0,0,,and owning stuff\Nis what's gonna make us happy.
+Dialogue: 0,0:33:32.13,0:33:36.34,BottomCenter,,0,0,0,,It's important to understand\Nthat advertising is a species
+Dialogue: 0,0:33:36.43,0:33:38.68,BottomCenter,,0,0,0,,or a category of propaganda.
+Dialogue: 0,0:33:39.18,0:33:43.80,BottomCenter,,0,0,0,,You think of propaganda\Nas a totalitarian thing, very grim,
+Dialogue: 0,0:33:43.90,0:33:47.31,BottomCenter,,0,0,0,,loudspeakers, you know,\Nchanting crowds and so on,
+Dialogue: 0,0:33:47.40,0:33:48.69,BottomCenter,,0,0,0,,and we think of Hitler.
+Dialogue: 0,0:33:48.77,0:33:51.56,BottomCenter,,0,0,0,,We always think of it\Nas a foreign thing, okay,
+Dialogue: 0,0:33:51.65,0:33:54.06,BottomCenter,,0,0,0,,but it's actually as American\Nas apple pie.
+Dialogue: 0,0:33:58.03,0:34:01.03,BottomCenter,,0,0,0,,[Kasser] Well, the reason\Nthat advertising works is because
+Dialogue: 0,0:34:01.11,0:34:03.11,BottomCenter,,0,0,0,,the smart advertisers, at least,
+Dialogue: 0,0:34:03.21,0:34:06.92,BottomCenter,,0,0,0,,are trying to tie the consumption\Nof their product
+Dialogue: 0,0:34:07.00,0:34:10.55,BottomCenter,,0,0,0,,to a message that suggests
+Dialogue: 0,0:34:10.63,0:34:13.09,BottomCenter,,0,0,0,,that your needs will be satisfied
+Dialogue: 0,0:34:13.17,0:34:15.26,BottomCenter,,0,0,0,,by consuming this thing.
+Dialogue: 0,0:34:15.34,0:34:17.01,BottomCenter,,0,0,0,,It wants you to believe
+Dialogue: 0,0:34:17.09,0:34:19.26,BottomCenter,,0,0,0,,that you'll look wonderful in that thing.
+Dialogue: 0,0:34:19.34,0:34:21.09,BottomCenter,,0,0,0,,But then to put it on and feel like,
+Dialogue: 0,0:34:21.17,0:34:24.19,BottomCenter,,0,0,0,,"Nah, you look kind of fat in it,\Nyou don't look that good in it,
+Dialogue: 0,0:34:24.26,0:34:27.40,BottomCenter,,0,0,0,,you're sorry you bought it,\Nbut there's another one you can buy."
+Dialogue: 0,0:34:55.46,0:34:59.42,BottomCenter,,0,0,0,,[Kasser] So think of all of the car\Ncommercials you see that show,
+Dialogue: 0,0:34:59.51,0:35:02.46,BottomCenter,,0,0,0,,"Well, I've really made it now,\NI'm a competent person
+Dialogue: 0,0:35:02.55,0:35:06.34,BottomCenter,,0,0,0,,because I'm driving this BMW\Nor this Audi."
+Dialogue: 0,0:35:06.44,0:35:09.01,BottomCenter,,0,0,0,,Or think of all the shampoo\Ncommercials you've seen,
+Dialogue: 0,0:35:09.11,0:35:12.36,BottomCenter,,0,0,0,,where the person now\Nhas beautiful flowing hair
+Dialogue: 0,0:35:12.44,0:35:15.61,BottomCenter,,0,0,0,,and is loved and appreciated\Nby the people around them.
+Dialogue: 0,0:35:15.69,0:35:17.65,BottomCenter,,0,0,0,,The basic message is the same:
+Dialogue: 0,0:35:17.73,0:35:20.40,BottomCenter,,0,0,0,,the way to solve\Nthe problems of your life,
+Dialogue: 0,0:35:20.48,0:35:22.28,BottomCenter,,0,0,0,,we all have problems in our life,
+Dialogue: 0,0:35:22.36,0:35:25.65,BottomCenter,,0,0,0,,the way to solve the problem in your life\Nis through consumption.
+Dialogue: 0,0:35:25.75,0:35:26.96,BottomCenter,,0,0,0,,Hey, you guys!
+Dialogue: 0,0:35:27.03,0:35:29.92,BottomCenter,,0,0,0,,Today I am coming to you guys\Nwith a clothing haul!
+Dialogue: 0,0:35:30.00,0:35:33.55,BottomCenter,,0,0,0,,I went shopping a couple days ago\Nand literally went insane
+Dialogue: 0,0:35:33.63,0:35:35.71,BottomCenter,,0,0,0,,and bought so many things.
+Dialogue: 0,0:35:35.80,0:35:39.09,BottomCenter,,0,0,0,,My spam box, I don't know,\Nwhere it's literally blown up,
+Dialogue: 0,0:35:39.17,0:35:41.46,BottomCenter,,0,0,0,,by you guys saying\Nyou guys wanted a haul.
+Dialogue: 0,0:35:41.55,0:35:43.59,BottomCenter,,0,0,0,,So, here it is.
+Dialogue: 0,0:35:43.67,0:35:47.34,BottomCenter,,0,0,0,,Okey-dokey, so first off,\NI have some things that I got from H&M.
+Dialogue: 0,0:35:47.44,0:35:49.73,BottomCenter,,0,0,0,,So, then I went to Forever 21.
+Dialogue: 0,0:35:49.80,0:35:52.94,BottomCenter,,0,0,0,,It wasn't even a question,\Nit was just fate. I had to get it.
+Dialogue: 0,0:35:53.03,0:35:56.11,BottomCenter,,0,0,0,,Like, if it could levitate towards me,\Nit would have levitated.
+Dialogue: 0,0:35:56.19,0:35:57.90,BottomCenter,,0,0,0,,I got this skirt,
+Dialogue: 0,0:35:58.44,0:36:02.48,BottomCenter,,0,0,0,,bright yellow, and it was $8.50.
+Dialogue: 0,0:36:02.57,0:36:05.61,BottomCenter,,0,0,0,,It's a jean button-up thing.
+Dialogue: 0,0:36:05.69,0:36:08.71,BottomCenter,,0,0,0,,And I just loved this,\NI just loved it, loved it, loved it!
+Dialogue: 0,0:36:08.78,0:36:11.67,BottomCenter,,0,0,0,,It's a gray knit sweater,\Nand it has pink hearts all over it.
+Dialogue: 0,0:36:11.75,0:36:14.05,BottomCenter,,0,0,0,,I loved... I love tie-dye things.
+Dialogue: 0,0:36:14.13,0:36:16.67,BottomCenter,,0,0,0,,Like tie-dye things are literally\Nthe bomb.net.
+Dialogue: 0,0:36:16.76,0:36:19.21,BottomCenter,,0,0,0,,It has a little yin yang sign\Non the front of it.
+Dialogue: 0,0:36:19.30,0:36:20.67,BottomCenter,,0,0,0,,I just love these so much.
+Dialogue: 0,0:36:20.76,0:36:24.26,BottomCenter,,0,0,0,,And it's just this really pretty,\Nlight blue sweater.
+Dialogue: 0,0:36:24.34,0:36:27.92,BottomCenter,,0,0,0,,I don't know if I'm gonna wear this.\NI don't know if I like it that much.
+Dialogue: 0,0:36:28.01,0:36:29.94,BottomCenter,,0,0,0,,I need to stop.
+Dialogue: 0,0:36:35.82,0:36:37.36,BottomCenter,,0,0,0,,[man]\NI try to understand better
+Dialogue: 0,0:36:37.44,0:36:41.28,BottomCenter,,0,0,0,,why people don't realize that they're\Nbecoming poorer and poorer.
+Dialogue: 0,0:36:41.36,0:36:44.65,BottomCenter,,0,0,0,,And I ask myself, okay,\Nbut what has changed
+Dialogue: 0,0:36:44.73,0:36:46.40,BottomCenter,,0,0,0,,in respect of when I was young?
+Dialogue: 0,0:36:46.48,0:36:49.61,BottomCenter,,0,0,0,,And fashion is something\Nthat has dramatically changed.
+Dialogue: 0,0:36:49.71,0:36:52.50,BottomCenter,,0,0,0,,I was able to buy one, two T-shirts,
+Dialogue: 0,0:36:52.59,0:36:54.63,BottomCenter,,0,0,0,,four T-shirts, for example, a year.
+Dialogue: 0,0:36:54.71,0:36:57.76,BottomCenter,,0,0,0,,Now, I mean, also my children,\Nthey used to buy,
+Dialogue: 0,0:36:57.84,0:37:00.13,BottomCenter,,0,0,0,,every party, they buy a T-shirt.
+Dialogue: 0,0:37:00.21,0:37:04.55,BottomCenter,,0,0,0,,And so I understood that Fast Fashion\Nis something totally new.
+Dialogue: 0,0:37:04.63,0:37:09.17,BottomCenter,,0,0,0,,If you have noticed, the price has\Ndecreased in the last years.
+Dialogue: 0,0:37:09.26,0:37:13.61,BottomCenter,,0,0,0,,And it does follow\Nthe middle class disappearing.
+Dialogue: 0,0:37:13.69,0:37:18.53,BottomCenter,,0,0,0,,So all the things that people really need\Nare very costly,
+Dialogue: 0,0:37:18.61,0:37:23.53,BottomCenter,,0,0,0,,like a home, like studies,\Nlike, uh, life insurance.
+Dialogue: 0,0:37:23.61,0:37:27.57,BottomCenter,,0,0,0,,On the other side,\Nthere is a source of consolation,
+Dialogue: 0,0:37:27.65,0:37:30.15,BottomCenter,,0,0,0,,um, part of their life.
+Dialogue: 0,0:37:30.25,0:37:34.00,BottomCenter,,0,0,0,,They can, uh, buy a T-shirt,
+Dialogue: 0,0:37:34.09,0:37:37.26,BottomCenter,,0,0,0,,two T-shirts a party,\Nor eventually a day,
+Dialogue: 0,0:37:38.01,0:37:40.51,BottomCenter,,0,0,0,,although I'm very poor\Nand I've got lost--
+Dialogue: 0,0:37:40.59,0:37:43.26,BottomCenter,,0,0,0,,I've lost all the things\NI really needed.
+Dialogue: 0,0:37:43.34,0:37:46.17,BottomCenter,,0,0,0,,Today we purchase over\N80 billion pieces of new clothing
+Dialogue: 0,0:37:46.26,0:37:47.30,BottomCenter,,0,0,0,,each year.
+Dialogue: 0,0:37:47.38,0:37:51.51,BottomCenter,,0,0,0,,That's 400 percent more than the amount\Nwe bought just two decades ago.
+Dialogue: 0,0:37:51.59,0:37:54.76,BottomCenter,,0,0,0,,The way we buy clothes\Nhas changed so much, so fast
+Dialogue: 0,0:37:54.86,0:37:56.82,BottomCenter,,0,0,0,,that few people have\Nactually stepped back
+Dialogue: 0,0:37:56.90,0:37:59.82,BottomCenter,,0,0,0,,to understand the origin\Nof this new model or the consequence
+Dialogue: 0,0:37:59.90,0:38:02.90,BottomCenter,,0,0,0,,of such an unprecedented increase\Nin consumption.
+Dialogue: 0,0:38:02.98,0:38:07.40,BottomCenter,,0,0,0,,[Miller] There's, um,\Nan article in Printers' Ink,
+Dialogue: 0,0:38:07.48,0:38:11.36,BottomCenter,,0,0,0,,which is the leading\Nadvertising trade journal of its day,
+Dialogue: 0,0:38:11.44,0:38:15.75,BottomCenter,,0,0,0,,uh, by a very famous copywriter,\Nnamed Earnest Elmo Calkins.
+Dialogue: 0,0:38:15.84,0:38:19.80,BottomCenter,,0,0,0,,He was a grand old man\Nof the art of writing advertising copy.
+Dialogue: 0,0:38:20.38,0:38:22.84,BottomCenter,,0,0,0,,It was an article called\N"Consumptionism."
+Dialogue: 0,0:38:23.96,0:38:28.59,BottomCenter,,0,0,0,,In that article, he says\Nthere are two kinds of products.
+Dialogue: 0,0:38:28.67,0:38:32.17,BottomCenter,,0,0,0,,Okay, there are the kind\Nthat you use,
+Dialogue: 0,0:38:32.26,0:38:35.19,BottomCenter,,0,0,0,,like washing machines,\Ncars and so on,
+Dialogue: 0,0:38:35.26,0:38:38.65,BottomCenter,,0,0,0,,things that you buy\Nand use for a long time.
+Dialogue: 0,0:38:39.48,0:38:41.90,BottomCenter,,0,0,0,,And then there are\Nthe things that you use up,
+Dialogue: 0,0:38:42.61,0:38:45.73,BottomCenter,,0,0,0,,like chewing gum and cigarettes,\Nother perishables.
+Dialogue: 0,0:38:46.19,0:38:50.40,BottomCenter,,0,0,0,,He said, uh, consumptionism\Nis all about getting people
+Dialogue: 0,0:38:50.48,0:38:52.78,BottomCenter,,0,0,0,,to treat the things they use
+Dialogue: 0,0:38:52.86,0:38:54.90,BottomCenter,,0,0,0,,as the things they use up.
+Dialogue: 0,0:38:55.00,0:38:58.21,BottomCenter,,0,0,0,,[woman] With their innovative\NBuy 1, Get 3 Free pricing,
+Dialogue: 0,0:38:58.28,0:38:59.71,BottomCenter,,0,0,0,,a suit from Joseph A. Bank
+Dialogue: 0,0:38:59.80,0:39:02.17,BottomCenter,,0,0,0,,is effectively cheaper\Nthan paper towels.
+Dialogue: 0,0:39:03.21,0:39:06.05,BottomCenter,,0,0,0,,And now they come\Nin these easy-to-use dispensers.
+Dialogue: 0,0:39:07.09,0:39:10.13,BottomCenter,,0,0,0,,With four suits for the price\Nof a modest dinner,
+Dialogue: 0,0:39:10.21,0:39:13.38,BottomCenter,,0,0,0,,I can feel good about\Nthrowing them away when I'm done.
+Dialogue: 0,0:39:16.84,0:39:20.40,BottomCenter,,0,0,0,,You just have to look at landfill\Nand you can see in landfill
+Dialogue: 0,0:39:20.48,0:39:23.32,BottomCenter,,0,0,0,,that the amount of clothes\Nand textiles being chucked away
+Dialogue: 0,0:39:23.40,0:39:26.61,BottomCenter,,0,0,0,,has been increasing steadily\Nover the last ten years,
+Dialogue: 0,0:39:26.69,0:39:30.11,BottomCenter,,0,0,0,,um, as the sort of dirty shadow\Nof the Fast Fashion industry.
+Dialogue: 0,0:39:33.32,0:39:36.03,BottomCenter,,0,0,0,,[Siegle]\NAs we get sort of closer and closer
+Dialogue: 0,0:39:36.11,0:39:38.25,BottomCenter,,0,0,0,,to species degradation,
+Dialogue: 0,0:39:38.32,0:39:42.25,BottomCenter,,0,0,0,,to, uh, trashing our last remaining\Npristine wilderness,
+Dialogue: 0,0:39:42.34,0:39:45.84,BottomCenter,,0,0,0,,we seem hell-bent on producing\Nmore and more disposable stuff.
+Dialogue: 0,0:39:45.92,0:39:47.42,BottomCenter,,0,0,0,,It makes no sense.
+Dialogue: 0,0:39:47.51,0:39:50.88,BottomCenter,,0,0,0,,Fashion should never\Nand can never be thought of
+Dialogue: 0,0:39:50.96,0:39:53.05,BottomCenter,,0,0,0,,as a disposable product.
+Dialogue: 0,0:39:53.13,0:39:55.51,BottomCenter,,0,0,0,,[Dean] I think after any big change\Nin any industry,
+Dialogue: 0,0:39:55.59,0:39:58.90,BottomCenter,,0,0,0,,it takes a while to sort of feel and smell
+Dialogue: 0,0:39:58.98,0:40:02.86,BottomCenter,,0,0,0,,the dirt that comes out of something,\Num, that is polluting.
+Dialogue: 0,0:40:02.94,0:40:05.28,BottomCenter,,0,0,0,,So, I think now there is a change
+Dialogue: 0,0:40:05.36,0:40:08.86,BottomCenter,,0,0,0,,because you can't deny
+Dialogue: 0,0:40:08.94,0:40:10.78,BottomCenter,,0,0,0,,that the Fast Fashion industry
+Dialogue: 0,0:40:10.86,0:40:13.61,BottomCenter,,0,0,0,,is having a massive impact\Nin developing countries.
+Dialogue: 0,0:40:14.07,0:40:16.65,BottomCenter,,0,0,0,,[narrator] The average American\Nthrows away 82 pounds
+Dialogue: 0,0:40:16.75,0:40:18.92,BottomCenter,,0,0,0,,of textile waste each year.
+Dialogue: 0,0:40:19.00,0:40:22.21,BottomCenter,,0,0,0,,Adding up to more than\N11 million tons of textile waste
+Dialogue: 0,0:40:22.28,0:40:24.09,BottomCenter,,0,0,0,,from the U.S. alone.
+Dialogue: 0,0:40:24.17,0:40:26.84,BottomCenter,,0,0,0,,Most of this waste is non-biodegradable.
+Dialogue: 0,0:40:26.92,0:40:29.67,BottomCenter,,0,0,0,,Meaning it sits in landfills\Nfor 200 years or more,
+Dialogue: 0,0:40:29.76,0:40:32.76,BottomCenter,,0,0,0,,while releasing harmful gases\Ninto the air.
+Dialogue: 0,0:40:32.84,0:40:35.96,BottomCenter,,0,0,0,,[de Castro] The sheer amount\Nof cheap clothing,
+Dialogue: 0,0:40:36.05,0:40:39.88,BottomCenter,,0,0,0,,even though people feel,\Nperhaps somehow,
+Dialogue: 0,0:40:39.98,0:40:42.82,BottomCenter,,0,0,0,,um, that they're offsetting\Nby giving to charity.
+Dialogue: 0,0:40:42.90,0:40:46.69,BottomCenter,,0,0,0,,You know, the journey of a T-shirt\Ndonated to charity
+Dialogue: 0,0:40:46.78,0:40:49.15,BottomCenter,,0,0,0,,is unpalatable in itself.
+Dialogue: 0,0:40:52.15,0:40:56.15,BottomCenter,,0,0,0,,[woman] Pepe, um...\NIt is a disease in Haiti.
+Dialogue: 0,0:40:56.23,0:40:59.90,BottomCenter,,0,0,0,,Not only in Haiti, I think like in any\Nthird world country that you're visiting.
+Dialogue: 0,0:41:00.00,0:41:03.13,BottomCenter,,0,0,0,,Like, you know...\NIt's a problem, it's a huge problem.
+Dialogue: 0,0:41:04.00,0:41:06.67,BottomCenter,,0,0,0,,Pepe, a bunch of clothes,
+Dialogue: 0,0:41:06.76,0:41:09.88,BottomCenter,,0,0,0,,most of them came from the States.
+Dialogue: 0,0:41:10.55,0:41:13.30,BottomCenter,,0,0,0,,People will go and buy\Na box full of clothes.
+Dialogue: 0,0:41:13.38,0:41:15.71,BottomCenter,,0,0,0,,They don't even know what they're buying.
+Dialogue: 0,0:41:15.80,0:41:19.26,BottomCenter,,0,0,0,,Those are clothes\Npeople donate to charity,
+Dialogue: 0,0:41:19.34,0:41:23.61,BottomCenter,,0,0,0,,and charity cannot sell them\Non their thrift store or whatever.
+Dialogue: 0,0:41:23.69,0:41:28.11,BottomCenter,,0,0,0,,They pack them, ship them\Nto those third countries,
+Dialogue: 0,0:41:28.19,0:41:30.19,BottomCenter,,0,0,0,,and most of them end up here.
+Dialogue: 0,0:41:30.28,0:41:33.23,BottomCenter,,0,0,0,,It turns out that only about 10 percent\Nof the clothes we donate
+Dialogue: 0,0:41:33.32,0:41:35.40,BottomCenter,,0,0,0,,actually get sold\Nin local thrift stores.
+Dialogue: 0,0:41:35.48,0:41:38.15,BottomCenter,,0,0,0,,And as we're going through\Nour clothing faster and faster,
+Dialogue: 0,0:41:38.23,0:41:42.36,BottomCenter,,0,0,0,,now more of it is being dumped\Ninto developing countries, like Haiti.
+Dialogue: 0,0:41:42.46,0:41:45.84,BottomCenter,,0,0,0,,As the amount of secondhand clothing\Ncoming into Haiti has increased,
+Dialogue: 0,0:41:45.92,0:41:48.71,BottomCenter,,0,0,0,,the local clothing industry here\Nhas disappeared.
+Dialogue: 0,0:41:49.30,0:41:51.59,BottomCenter,,0,0,0,,Once a proud, local tailoring sector,
+Dialogue: 0,0:41:51.67,0:41:54.34,BottomCenter,,0,0,0,,Haiti now produces mostly cheap T-shirts
+Dialogue: 0,0:41:54.42,0:41:56.80,BottomCenter,,0,0,0,,for export to America.
+Dialogue: 0,0:41:56.88,0:41:59.30,BottomCenter,,0,0,0,,[speaking in foreign language]
+Dialogue: 0,0:42:26.34,0:42:30.76,BottomCenter,,0,0,0,,[Charlot] So I'll tell people,\Nstop buying things that is not good,
+Dialogue: 0,0:42:30.84,0:42:32.84,BottomCenter,,0,0,0,,that is costing, like 10 dollars,
+Dialogue: 0,0:42:32.92,0:42:36.46,BottomCenter,,0,0,0,,you going to go on a ball,\Nyou going out today.
+Dialogue: 0,0:42:36.55,0:42:39.42,BottomCenter,,0,0,0,,You just go to a store\Nand buy yourself a dress for 10 dollars.
+Dialogue: 0,0:42:39.51,0:42:42.55,BottomCenter,,0,0,0,,Because it cost 10 dollars\Nand I can throw it away.
+Dialogue: 0,0:42:42.63,0:42:46.23,BottomCenter,,0,0,0,,And tomorrow you are going to do the\Nsame thing over and over and over again.
+Dialogue: 0,0:42:48.19,0:42:51.11,BottomCenter,,0,0,0,,As awareness of fashion's impact\Non our world is growing,
+Dialogue: 0,0:42:51.19,0:42:54.28,BottomCenter,,0,0,0,,there are key leaders in the industry\Nwho are beginning to question
+Dialogue: 0,0:42:54.36,0:42:57.07,BottomCenter,,0,0,0,,the impacts of a model\Nbuilt on careless production
+Dialogue: 0,0:42:57.15,0:42:59.11,BottomCenter,,0,0,0,,and endless consumption.
+Dialogue: 0,0:42:59.19,0:43:03.07,BottomCenter,,0,0,0,,[man] At Patagonia,\Nwe hate the word "consumers."
+Dialogue: 0,0:43:03.15,0:43:04.50,BottomCenter,,0,0,0,,[chuckles]
+Dialogue: 0,0:43:04.57,0:43:07.88,BottomCenter,,0,0,0,,We've got to find a better word,\Nwe prefer, uh, "customers,"
+Dialogue: 0,0:43:07.96,0:43:11.51,BottomCenter,,0,0,0,,and we prefer also customers\Nwho recognize
+Dialogue: 0,0:43:11.59,0:43:13.92,BottomCenter,,0,0,0,,the impact of their consumption.
+Dialogue: 0,0:43:14.01,0:43:19.01,BottomCenter,,0,0,0,,They recognize that, uh, as consumers,\Nthey're part of the problem.
+Dialogue: 0,0:43:19.09,0:43:24.26,BottomCenter,,0,0,0,,Uh, we are hopeful that we can\Nencourage our customers to join us
+Dialogue: 0,0:43:24.34,0:43:26.55,BottomCenter,,0,0,0,,in really questioning consumption.
+Dialogue: 0,0:43:26.63,0:43:28.80,BottomCenter,,0,0,0,,Because without a reduction\Nin consumption,
+Dialogue: 0,0:43:28.90,0:43:32.44,BottomCenter,,0,0,0,,we don't feel that we'll really\Ncollectively find a solution
+Dialogue: 0,0:43:32.53,0:43:38.19,BottomCenter,,0,0,0,,to the problems we face,\Nthat are collectively, year by year, uh,
+Dialogue: 0,0:43:38.28,0:43:41.94,BottomCenter,,0,0,0,,resulting in the continued decline\Nof the, uh, health of our planet.
+Dialogue: 0,0:43:43.69,0:43:46.46,BottomCenter,,0,0,0,,[woman] I mean, the fashion industry\Njust needs to think.
+Dialogue: 0,0:43:46.53,0:43:50.46,BottomCenter,,0,0,0,,It needs to just stop and sort of look\Nat how it's been working
+Dialogue: 0,0:43:50.53,0:43:54.05,BottomCenter,,0,0,0,,in a conventional way, and just sort of\Nquestion it, challenge it.
+Dialogue: 0,0:43:54.13,0:43:55.51,BottomCenter,,0,0,0,,That's for me, as a designer,
+Dialogue: 0,0:43:55.59,0:43:58.42,BottomCenter,,0,0,0,,that's the most exciting thing\Nthat I do now.
+Dialogue: 0,0:43:58.51,0:44:01.42,BottomCenter,,0,0,0,,More exciting than saying,\N"Oh, I love this color this season,"
+Dialogue: 0,0:44:01.51,0:44:04.01,BottomCenter,,0,0,0,,or, "This is the silhouette\Nor the hemline."
+Dialogue: 0,0:44:04.09,0:44:06.80,BottomCenter,,0,0,0,,For me, a way bigger challenge
+Dialogue: 0,0:44:06.88,0:44:09.30,BottomCenter,,0,0,0,,and excitement is actually looking\Nat my industry
+Dialogue: 0,0:44:09.40,0:44:14.40,BottomCenter,,0,0,0,,and saying, "I'm gonna do it in a way\Nthat is not as harmful to the planet."
+Dialogue: 0,0:44:15.19,0:44:20.48,BottomCenter,,0,0,0,,Business through advertising\Nhas, uh, pulled society along
+Dialogue: 0,0:44:20.57,0:44:25.28,BottomCenter,,0,0,0,,into this belief that, uh, happiness is\Nbased on stuff,
+Dialogue: 0,0:44:25.36,0:44:27.86,BottomCenter,,0,0,0,,that, uh, true happiness can\Nonly be achieved
+Dialogue: 0,0:44:27.96,0:44:33.17,BottomCenter,,0,0,0,,with, you know, an annual,\Nseasonal, weekly, daily
+Dialogue: 0,0:44:33.25,0:44:36.13,BottomCenter,,0,0,0,,increase in the amount of stuff\Nyou're bringing into your life.
+Dialogue: 0,0:44:36.21,0:44:38.76,BottomCenter,,0,0,0,,That we want to encourage\Nour customers
+Dialogue: 0,0:44:38.84,0:44:41.09,BottomCenter,,0,0,0,,to think twice about\Nthose assumptions,
+Dialogue: 0,0:44:41.17,0:44:43.71,BottomCenter,,0,0,0,,to understand where they came from.
+Dialogue: 0,0:44:43.80,0:44:47.09,BottomCenter,,0,0,0,,And through that understanding,\Nto know that, uh, we can all together,
+Dialogue: 0,0:44:47.17,0:44:48.76,BottomCenter,,0,0,0,,we can change how this is done.
+Dialogue: 0,0:44:48.84,0:44:51.55,BottomCenter,,0,0,0,,The customer has to know\Nthat they're in charge.
+Dialogue: 0,0:44:51.65,0:44:53.61,BottomCenter,,0,0,0,,Without them, we don't have jobs.
+Dialogue: 0,0:44:53.69,0:44:55.44,BottomCenter,,0,0,0,,And that is really important.
+Dialogue: 0,0:44:55.53,0:44:57.19,BottomCenter,,0,0,0,,So you don't have to buy into it.
+Dialogue: 0,0:44:57.28,0:45:00.11,BottomCenter,,0,0,0,,If you don't like it,\Nyou don't have to buy into it.
+Dialogue: 0,0:45:03.11,0:45:05.40,BottomCenter,,0,0,0,,[Minney]\NI love the embroidery, Shantu.
+Dialogue: 0,0:45:08.11,0:45:09.53,BottomCenter,,0,0,0,,The embroidery is really nice.
+Dialogue: 0,0:45:09.61,0:45:12.25,BottomCenter,,0,0,0,,You think we should have\Nthe embroidery on both sides?
+Dialogue: 0,0:45:12.32,0:45:15.71,BottomCenter,,0,0,0,,I think we should definitely add\Nthe embroidery here as well.
+Dialogue: 0,0:45:15.80,0:45:18.59,BottomCenter,,0,0,0,,I think it looks a bit mean\Nto have it just on the front,
+Dialogue: 0,0:45:18.67,0:45:20.67,BottomCenter,,0,0,0,,so let's have it on the sides, too.
+Dialogue: 0,0:45:21.80,0:45:23.21,BottomCenter,,0,0,0,,It won't add much cost,
+Dialogue: 0,0:45:23.30,0:45:25.09,BottomCenter,,0,0,0,,it's not so dense, is it?
+Dialogue: 0,0:45:25.17,0:45:27.34,BottomCenter,,0,0,0,,[indistinct chatter]
+Dialogue: 0,0:45:30.48,0:45:33.65,BottomCenter,,0,0,0,,Swallows is a fair trade\Nfashion business,
+Dialogue: 0,0:45:33.73,0:45:36.44,BottomCenter,,0,0,0,,but it's also a development society.
+Dialogue: 0,0:45:36.53,0:45:40.78,BottomCenter,,0,0,0,,So it helps more than 3000 people\Nin this village.
+Dialogue: 0,0:45:42.36,0:45:44.03,BottomCenter,,0,0,0,,I come here every four months.
+Dialogue: 0,0:45:44.11,0:45:46.07,BottomCenter,,0,0,0,,We call them "production trips."
+Dialogue: 0,0:45:46.15,0:45:48.57,BottomCenter,,0,0,0,,And, um, we're working\Nwith the producers,
+Dialogue: 0,0:45:48.65,0:45:50.75,BottomCenter,,0,0,0,,trying to find out what are the barriers
+Dialogue: 0,0:45:50.82,0:45:54.38,BottomCenter,,0,0,0,,to making a great product\Nand to getting it to the market.
+Dialogue: 0,0:45:54.46,0:45:57.00,BottomCenter,,0,0,0,,And we're also doing\Nfair trade capacity building.
+Dialogue: 0,0:45:57.09,0:45:59.71,BottomCenter,,0,0,0,,So, looking at, you know,\Nwhat are the obstacles
+Dialogue: 0,0:45:59.80,0:46:01.96,BottomCenter,,0,0,0,,to delivering more social benefit
+Dialogue: 0,0:46:02.05,0:46:06.13,BottomCenter,,0,0,0,,or improving the environmental\Nprotection in these areas?
+Dialogue: 0,0:46:06.21,0:46:08.21,BottomCenter,,0,0,0,,For me, this is about partnering.
+Dialogue: 0,0:46:08.30,0:46:12.84,BottomCenter,,0,0,0,,This is about finding creative solutions,\Ntogether with them, with the team here,
+Dialogue: 0,0:46:12.94,0:46:17.44,BottomCenter,,0,0,0,,and listening to what their problems are\Nand finding a way that works, together.
+Dialogue: 0,0:46:27.53,0:46:32.96,BottomCenter,,0,0,0,,I want to invite the best employee\Nhere at Swallows,
+Dialogue: 0,0:46:33.03,0:46:38.00,BottomCenter,,0,0,0,,I want to invite one female\Nrepresentative from Swallows
+Dialogue: 0,0:46:38.09,0:46:42.42,BottomCenter,,0,0,0,,to come to London in autumn\Nor next spring.
+Dialogue: 0,0:46:42.51,0:46:44.21,BottomCenter,,0,0,0,,And I would like you to think
+Dialogue: 0,0:46:44.30,0:46:46.80,BottomCenter,,0,0,0,,who would be that best representative.
+Dialogue: 0,0:46:47.42,0:46:49.51,BottomCenter,,0,0,0,,But I want you to know\Nwho your customers are,
+Dialogue: 0,0:46:49.59,0:46:52.09,BottomCenter,,0,0,0,,and I want you to really\Nunderstand the marketplace
+Dialogue: 0,0:46:52.17,0:46:54.69,BottomCenter,,0,0,0,,and come back\Nand tell all your friends.
+Dialogue: 0,0:46:54.76,0:46:57.05,BottomCenter,,0,0,0,,[man speaking in foreign language]
+Dialogue: 0,0:46:59.61,0:47:00.98,BottomCenter,,0,0,0,,[Minney]\NWith you.
+Dialogue: 0,0:47:01.07,0:47:02.53,BottomCenter,,0,0,0,,[women laugh]
+Dialogue: 0,0:47:21.71,0:47:24.51,BottomCenter,,0,0,0,,Either, if she does it single thread,\Nsingle stitch,
+Dialogue: 0,0:47:24.59,0:47:27.30,BottomCenter,,0,0,0,,then maybe she needs\Nto do more densely?
+Dialogue: 0,0:47:27.38,0:47:28.84,BottomCenter,,0,0,0,,-Okay.\N-More concentrated.
+Dialogue: 0,0:47:28.92,0:47:31.21,BottomCenter,,0,0,0,,[speaking in foreign language]
+Dialogue: 0,0:47:41.44,0:47:44.86,BottomCenter,,0,0,0,,So, um...\NIf she continues for a bit,
+Dialogue: 0,0:47:44.94,0:47:47.73,BottomCenter,,0,0,0,,we're gonna go up\Nto the sample room now, for SS15.
+Dialogue: 0,0:47:47.82,0:47:51.40,BottomCenter,,0,0,0,,Can she come and show us\Nthe next one that she does?
+Dialogue: 0,0:47:51.48,0:47:52.78,BottomCenter,,0,0,0,,Yeah.
+Dialogue: 0,0:47:57.03,0:47:59.75,BottomCenter,,0,0,0,,[Minney] I hoped that People Tree\Nwouldn't be necessary,
+Dialogue: 0,0:47:59.84,0:48:04.76,BottomCenter,,0,0,0,,and I hoped that we would have\Na trading system that looked after
+Dialogue: 0,0:48:04.84,0:48:07.34,BottomCenter,,0,0,0,,people's rights and the environment.
+Dialogue: 0,0:48:08.34,0:48:10.88,BottomCenter,,0,0,0,,But the more and more involved\NI got in developing
+Dialogue: 0,0:48:10.96,0:48:14.46,BottomCenter,,0,0,0,,and working closely with partners,\Nthe more,
+Dialogue: 0,0:48:14.55,0:48:16.98,BottomCenter,,0,0,0,,you know, dirt and filth I discovered
+Dialogue: 0,0:48:17.05,0:48:20.65,BottomCenter,,0,0,0,,about how trading practices\Nundermine everything that we believe in
+Dialogue: 0,0:48:20.73,0:48:25.07,BottomCenter,,0,0,0,,and everything I know\Nmost people believe and value.
+Dialogue: 0,0:48:25.15,0:48:26.65,BottomCenter,,0,0,0,,Um...
+Dialogue: 0,0:48:27.86,0:48:30.07,BottomCenter,,0,0,0,,I don't know,\NPeople Tree just grew organically.
+Dialogue: 0,0:48:30.15,0:48:33.07,BottomCenter,,0,0,0,,It grew from, um,\Na really great collection of people
+Dialogue: 0,0:48:33.15,0:48:35.82,BottomCenter,,0,0,0,,that feel passionately\Nthat there's a different way of...
+Dialogue: 0,0:48:35.90,0:48:39.17,BottomCenter,,0,0,0,,Of working, of living, of consuming,
+Dialogue: 0,0:48:39.25,0:48:42.46,BottomCenter,,0,0,0,,of, you know, interacting with people\Nby a humane way.
+Dialogue: 0,0:48:42.53,0:48:43.75,BottomCenter,,0,0,0,,Um...
+Dialogue: 0,0:48:43.84,0:48:45.84,BottomCenter,,0,0,0,,And, uh, you know,
+Dialogue: 0,0:48:45.92,0:48:48.63,BottomCenter,,0,0,0,,I didn't necessarily feel\Nthat there'd be a thousand shops
+Dialogue: 0,0:48:48.71,0:48:51.05,BottomCenter,,0,0,0,,selling People Tree today, um,
+Dialogue: 0,0:48:51.13,0:48:53.63,BottomCenter,,0,0,0,,and I see that there's so much more\Nthat we need to do.
+Dialogue: 0,0:48:53.71,0:48:56.30,BottomCenter,,0,0,0,,So, I think it's not just about,\Nyou know, creating jobs
+Dialogue: 0,0:48:56.38,0:48:58.59,BottomCenter,,0,0,0,,for the 7000 people that work\Nfor People Tree.
+Dialogue: 0,0:48:58.67,0:49:01.65,BottomCenter,,0,0,0,,It's also about being a catalyst\Nfor change within the industry,
+Dialogue: 0,0:49:01.73,0:49:03.73,BottomCenter,,0,0,0,,and showing, proving the model works.
+Dialogue: 0,0:49:15.36,0:49:16.98,BottomCenter,,0,0,0,,[Pepper]\NWhen we first went organic,
+Dialogue: 0,0:49:17.07,0:49:19.25,BottomCenter,,0,0,0,,there was only two or three of us\Nat the time,
+Dialogue: 0,0:49:19.32,0:49:22.21,BottomCenter,,0,0,0,,and we formed the Texas Organic\NCotton Marketing Cooperative,
+Dialogue: 0,0:49:22.28,0:49:24.63,BottomCenter,,0,0,0,,and the deal was they'd grow it\Nand I'd sell it.
+Dialogue: 0,0:49:24.71,0:49:27.26,BottomCenter,,0,0,0,,So, I started going to, like, Jacob Javits
+Dialogue: 0,0:49:27.34,0:49:30.17,BottomCenter,,0,0,0,,and having this whole deal,\Ncotton plants and everything,
+Dialogue: 0,0:49:30.26,0:49:32.46,BottomCenter,,0,0,0,,and of, "Yeah, we've got organic cotton,"
+Dialogue: 0,0:49:32.55,0:49:36.09,BottomCenter,,0,0,0,,and people would just look at us\Nlike we were absolutely crazy.
+Dialogue: 0,0:49:38.09,0:49:40.63,BottomCenter,,0,0,0,,Many times consumers become aware
+Dialogue: 0,0:49:40.73,0:49:43.26,BottomCenter,,0,0,0,,of organic milk,\Nor they have an allergy.
+Dialogue: 0,0:49:43.36,0:49:47.32,BottomCenter,,0,0,0,,And so, interestingly enough, cotton,\Nand what they put on their body,
+Dialogue: 0,0:49:47.40,0:49:49.90,BottomCenter,,0,0,0,,even though the skin's\Nthe largest organ on your body,
+Dialogue: 0,0:49:49.98,0:49:51.73,BottomCenter,,0,0,0,,isn't even on their radar screen
+Dialogue: 0,0:49:51.82,0:49:55.40,BottomCenter,,0,0,0,,because they're not getting the connection\Nof, "Oh, I eat this organic apple,
+Dialogue: 0,0:49:55.48,0:49:57.94,BottomCenter,,0,0,0,,therefore I'm not directly ingesting
+Dialogue: 0,0:49:58.03,0:50:01.25,BottomCenter,,0,0,0,,pesticides or chemicals,\Nor whatever the case may be."
+Dialogue: 0,0:50:01.32,0:50:03.63,BottomCenter,,0,0,0,,But they don't get that connection\Nwith clothing.
+Dialogue: 0,0:50:03.71,0:50:06.55,BottomCenter,,0,0,0,,So, you have to start looking\Nin that bigger community scope.
+Dialogue: 0,0:50:06.63,0:50:09.21,BottomCenter,,0,0,0,,That it is about our air,\Nit's about our world.
+Dialogue: 0,0:50:09.30,0:50:12.01,BottomCenter,,0,0,0,,It's about our planet,\Nit's about our people.
+Dialogue: 0,0:50:12.09,0:50:14.42,BottomCenter,,0,0,0,,And so it is that awareness of--
+Dialogue: 0,0:50:14.51,0:50:19.01,BottomCenter,,0,0,0,,You may not feel that you're having direct\Nimpact by buying this organic shirt.
+Dialogue: 0,0:50:19.71,0:50:21.55,BottomCenter,,0,0,0,,But the impact you're having
+Dialogue: 0,0:50:21.63,0:50:24.05,BottomCenter,,0,0,0,,is in the bigger picture\Nin the world at large,
+Dialogue: 0,0:50:24.15,0:50:27.07,BottomCenter,,0,0,0,,and especially in the community\Nwhere the cotton's grown.
+Dialogue: 0,0:50:39.61,0:50:41.57,BottomCenter,,0,0,0,,As the hard freeze comes,
+Dialogue: 0,0:50:41.65,0:50:43.90,BottomCenter,,0,0,0,,as organic farmers,\Nwe wait for that freeze
+Dialogue: 0,0:50:44.00,0:50:48.84,BottomCenter,,0,0,0,,because that literally defoliates, uh,\Ntakes the leaves off the plant,
+Dialogue: 0,0:50:48.92,0:50:53.34,BottomCenter,,0,0,0,,so that when we harvest,\Nthe bolls open that are mature,
+Dialogue: 0,0:50:53.42,0:50:54.84,BottomCenter,,0,0,0,,and it leaves the cotton here,
+Dialogue: 0,0:50:54.92,0:50:57.34,BottomCenter,,0,0,0,,and you can see\Nit kind of comes out in sections.
+Dialogue: 0,0:50:57.42,0:51:01.38,BottomCenter,,0,0,0,,So, this, uh, machine that's coming\Nis called a Cotton Stripper.
+Dialogue: 0,0:51:01.46,0:51:05.84,BottomCenter,,0,0,0,,And it's called a Cotton Stripper\Nbecause it comes along and strips,
+Dialogue: 0,0:51:05.94,0:51:08.36,BottomCenter,,0,0,0,,uses kind of fingers,\Nand it literally strips
+Dialogue: 0,0:51:08.44,0:51:12.19,BottomCenter,,0,0,0,,all of the bolls off of this plant.
+Dialogue: 0,0:51:12.28,0:51:14.44,BottomCenter,,0,0,0,,So, when you look over there,\Nyou can see
+Dialogue: 0,0:51:14.53,0:51:17.94,BottomCenter,,0,0,0,,the harvester's been there\Nand it's taken all the plants off.
+Dialogue: 0,0:51:28.42,0:51:31.30,BottomCenter,,0,0,0,,I think one of the problems\Nthat we have in the current model
+Dialogue: 0,0:51:31.38,0:51:33.30,BottomCenter,,0,0,0,,is it's all about the profit.
+Dialogue: 0,0:51:33.38,0:51:38.13,BottomCenter,,0,0,0,,And it doesn't take into consideration:\N"This cost at what cost?"
+Dialogue: 0,0:51:38.21,0:51:41.67,BottomCenter,,0,0,0,,The cost of polluting the water,\Nthe cost of labor,
+Dialogue: 0,0:51:41.76,0:51:43.30,BottomCenter,,0,0,0,,the cost of bars on the window
+Dialogue: 0,0:51:43.38,0:51:45.94,BottomCenter,,0,0,0,,that people die when a fire breaks out\Nin the factory,
+Dialogue: 0,0:51:46.01,0:51:48.90,BottomCenter,,0,0,0,,the cost of farmers\Nthat don't have access
+Dialogue: 0,0:51:48.98,0:51:50.98,BottomCenter,,0,0,0,,to education and health care.
+Dialogue: 0,0:51:51.07,0:51:54.86,BottomCenter,,0,0,0,,And so we haven't really factored in\Nwhat the true cost is.
+Dialogue: 0,0:52:00.32,0:52:04.07,BottomCenter,,0,0,0,,[man]\NKanpur is situated along river Ganga,
+Dialogue: 0,0:52:04.15,0:52:06.65,BottomCenter,,0,0,0,,which is the holiest river.
+Dialogue: 0,0:52:06.75,0:52:12.13,BottomCenter,,0,0,0,,And it's also very important\Nfor 800 million Hindus,
+Dialogue: 0,0:52:12.21,0:52:16.63,BottomCenter,,0,0,0,,and also it serves as the lifeline\Nof North India.
+Dialogue: 0,0:52:16.71,0:52:19.76,BottomCenter,,0,0,0,,So, this river is being polluted\Nand killed
+Dialogue: 0,0:52:19.84,0:52:23.26,BottomCenter,,0,0,0,,by the leather factories of Kanpur.
+Dialogue: 0,0:52:25.21,0:52:28.19,BottomCenter,,0,0,0,,With growing demand\Nfor materials like cheap leather,
+Dialogue: 0,0:52:28.26,0:52:32.11,BottomCenter,,0,0,0,,Kanpur is now\Nthe leather export capital of India.
+Dialogue: 0,0:52:41.69,0:52:45.48,BottomCenter,,0,0,0,,Every day here, more than\N50 million liters of toxic wastewater
+Dialogue: 0,0:52:45.57,0:52:47.57,BottomCenter,,0,0,0,,pour out of the local tanneries.
+Dialogue: 0,0:52:47.65,0:52:50.57,BottomCenter,,0,0,0,,Heavy chemicals used\Nto treat the leather like chromium-6
+Dialogue: 0,0:52:50.67,0:52:53.59,BottomCenter,,0,0,0,,flow into local farming\Nand even drinking water.
+Dialogue: 0,0:52:54.63,0:52:57.84,BottomCenter,,0,0,0,,In places like Kanpur,\Nfar from the eyes of the world,
+Dialogue: 0,0:52:57.92,0:53:00.63,BottomCenter,,0,0,0,,major western brands are able\Nto source cheap materials
+Dialogue: 0,0:53:00.71,0:53:04.76,BottomCenter,,0,0,0,,while avoiding all accountability\Nfor the growing cost to human health
+Dialogue: 0,0:53:04.84,0:53:06.51,BottomCenter,,0,0,0,,and the environment.
+Dialogue: 0,0:53:16.23,0:53:22.28,BottomCenter,,0,0,0,,People in that area are in the tight grip\Nof tannery pollution.
+Dialogue: 0,0:53:22.36,0:53:27.78,BottomCenter,,0,0,0,,The local environment is contaminated,\Nsoil is contaminated.
+Dialogue: 0,0:53:27.86,0:53:30.82,BottomCenter,,0,0,0,,The only drinking water source,
+Dialogue: 0,0:53:30.92,0:53:33.96,BottomCenter,,0,0,0,,ground water, is contaminated\Nwith chromium.
+Dialogue: 0,0:53:34.59,0:53:36.42,BottomCenter,,0,0,0,,Agricultural produce,
+Dialogue: 0,0:53:36.50,0:53:39.92,BottomCenter,,0,0,0,,even vegetables and, uh, salad items,
+Dialogue: 0,0:53:40.01,0:53:42.09,BottomCenter,,0,0,0,,are, uh, produced there.
+Dialogue: 0,0:53:42.17,0:53:45.30,BottomCenter,,0,0,0,,People's health is affected.
+Dialogue: 0,0:53:45.38,0:53:48.84,BottomCenter,,0,0,0,,People have different kinds\Nof dermal problems:
+Dialogue: 0,0:53:49.63,0:53:52.34,BottomCenter,,0,0,0,,skin rashes, boils, pustules,
+Dialogue: 0,0:53:52.44,0:53:54.40,BottomCenter,,0,0,0,,even numbness in the limbs.
+Dialogue: 0,0:53:54.48,0:53:59.07,BottomCenter,,0,0,0,,People have stomach ailments,\Nmaybe they have cancers also.
+Dialogue: 0,0:54:00.57,0:54:03.19,BottomCenter,,0,0,0,,[speaking in foreign language]
+Dialogue: 0,0:54:39.36,0:54:42.07,BottomCenter,,0,0,0,,You can have the best\Nof materials moving
+Dialogue: 0,0:54:42.15,0:54:47.53,BottomCenter,,0,0,0,,into the high-end fashion market,\Nin Milan or Paris or London.
+Dialogue: 0,0:54:47.61,0:54:52.03,BottomCenter,,0,0,0,,But there has been so much work\Nwhich has gone behind it,
+Dialogue: 0,0:54:52.11,0:54:54.61,BottomCenter,,0,0,0,,and so much of chemicals has gone into it,
+Dialogue: 0,0:54:54.71,0:54:57.38,BottomCenter,,0,0,0,,the effluents have been discharging\Nto so many rivers.
+Dialogue: 0,0:54:57.46,0:55:00.13,BottomCenter,,0,0,0,,But we are only looking\Nat that point of time
+Dialogue: 0,0:55:00.21,0:55:02.30,BottomCenter,,0,0,0,,into the finished product.
+Dialogue: 0,0:55:02.38,0:55:05.30,BottomCenter,,0,0,0,,We need to step back and think about it.
+Dialogue: 0,0:55:08.51,0:55:12.84,BottomCenter,,0,0,0,,Fashion today is the number two\Nmost polluting industry on earth,
+Dialogue: 0,0:55:12.92,0:55:15.30,BottomCenter,,0,0,0,,second only to the oil industry.
+Dialogue: 0,0:55:15.38,0:55:17.76,BottomCenter,,0,0,0,,The alarming thing is\Nthat not only is fashion using
+Dialogue: 0,0:55:17.86,0:55:19.57,BottomCenter,,0,0,0,,a huge amount of natural resources
+Dialogue: 0,0:55:19.65,0:55:22.11,BottomCenter,,0,0,0,,and creating staggering\Nenvironmental impacts,
+Dialogue: 0,0:55:22.19,0:55:26.23,BottomCenter,,0,0,0,,these natural resources and this impact\Nis often not even measured.
+Dialogue: 0,0:55:26.32,0:55:29.82,BottomCenter,,0,0,0,,Because they've been\Nso abundant, these resources,
+Dialogue: 0,0:55:29.90,0:55:33.40,BottomCenter,,0,0,0,,uh, it's been assumed that they're going\Nto be there forever.
+Dialogue: 0,0:55:33.50,0:55:37.63,BottomCenter,,0,0,0,,Uh, so, I think business has\Nnot accounted for them because, uh,
+Dialogue: 0,0:55:37.71,0:55:40.00,BottomCenter,,0,0,0,,it's only since the 1950s
+Dialogue: 0,0:55:40.09,0:55:44.30,BottomCenter,,0,0,0,,that we've really had\Nthis industrial expansion
+Dialogue: 0,0:55:44.38,0:55:48.51,BottomCenter,,0,0,0,,at such a rate that we started\Nto see exponential growth
+Dialogue: 0,0:55:48.59,0:55:51.38,BottomCenter,,0,0,0,,and exponential use of natural resources.
+Dialogue: 0,0:55:51.46,0:55:54.59,BottomCenter,,0,0,0,,The first economy on which our lives rest\Nis nature's economy.
+Dialogue: 0,0:55:54.67,0:55:56.80,BottomCenter,,0,0,0,,Nature has an economy.
+Dialogue: 0,0:55:56.88,0:56:00.73,BottomCenter,,0,0,0,,That economy is huge.\NIt's not counted.
+Dialogue: 0,0:56:01.01,0:56:04.11,BottomCenter,,0,0,0,,Then we have people's economy,\Nwomen working, laborers working,
+Dialogue: 0,0:56:04.19,0:56:05.73,BottomCenter,,0,0,0,,farmers growing.
+Dialogue: 0,0:56:05.82,0:56:09.15,BottomCenter,,0,0,0,,And that was made invisible\Nthrough this construct,
+Dialogue: 0,0:56:09.23,0:56:12.11,BottomCenter,,0,0,0,,first in the Depression,\Nand then during the war years,
+Dialogue: 0,0:56:12.19,0:56:16.36,BottomCenter,,0,0,0,,of the number called the GDP,\Nthe Gross Domestic Product,
+Dialogue: 0,0:56:16.46,0:56:21.63,BottomCenter,,0,0,0,,which measures only that which is traded,
+Dialogue: 0,0:56:21.71,0:56:23.34,BottomCenter,,0,0,0,,and has become a commodity.
+Dialogue: 0,0:56:23.42,0:56:25.26,BottomCenter,,0,0,0,,[Schragger]\NA lot of the resources
+Dialogue: 0,0:56:25.34,0:56:30.26,BottomCenter,,0,0,0,,that we use to, uh, make\Nour clothing are not accounted for
+Dialogue: 0,0:56:30.34,0:56:34.05,BottomCenter,,0,0,0,,in the cost of producing those clothes.
+Dialogue: 0,0:56:34.13,0:56:39.76,BottomCenter,,0,0,0,,Uh, so one has, uh, water that's used\Nto produce clothing,
+Dialogue: 0,0:56:39.84,0:56:43.36,BottomCenter,,0,0,0,,land that's used to grow the fiber, uh,
+Dialogue: 0,0:56:43.44,0:56:46.61,BottomCenter,,0,0,0,,chemicals that, uh, are used to dye.
+Dialogue: 0,0:56:47.32,0:56:51.15,BottomCenter,,0,0,0,,Those things, uh, all are inputs.
+Dialogue: 0,0:56:51.61,0:56:54.86,BottomCenter,,0,0,0,,And as inputs, they cost something,
+Dialogue: 0,0:56:54.94,0:56:57.82,BottomCenter,,0,0,0,,uh, and they also give outputs,
+Dialogue: 0,0:56:57.90,0:57:02.42,BottomCenter,,0,0,0,,in some cases good outputs,\Nthe clothing themselves, jobs,
+Dialogue: 0,0:57:02.50,0:57:06.26,BottomCenter,,0,0,0,,but in other cases bad outputs,\Nlike harmful chemicals,
+Dialogue: 0,0:57:06.34,0:57:08.34,BottomCenter,,0,0,0,,or greenhouse gas emissions,
+Dialogue: 0,0:57:08.42,0:57:10.59,BottomCenter,,0,0,0,,and those things have costs as well.
+Dialogue: 0,0:57:21.19,0:57:23.01,BottomCenter,,0,0,0,,[speaking in foreign language]
+Dialogue: 0,0:57:24.32,0:57:26.86,BottomCenter,,0,0,0,,[interviewer]
+Dialogue: 0,0:57:26.94,0:57:28.48,BottomCenter,,0,0,0,,[Akhter]
+Dialogue: 0,0:57:49.88,0:57:51.88,BottomCenter,,0,0,0,,[Nadia speaks in foreign language]
+Dialogue: 0,0:57:52.59,0:57:54.76,BottomCenter,,0,0,0,,[interviewer]
+Dialogue: 0,0:57:54.84,0:57:56.30,BottomCenter,,0,0,0,,[Akhter]
+Dialogue: 0,0:58:11.65,0:58:14.36,BottomCenter,,0,0,0,,The same low wages that have\Nmade places like Bangladesh
+Dialogue: 0,0:58:14.44,0:58:16.90,BottomCenter,,0,0,0,,so attractive for brands to do business
+Dialogue: 0,0:58:16.98,0:58:20.40,BottomCenter,,0,0,0,,have left millions of workers here\Nworking incredibly long hours,
+Dialogue: 0,0:58:20.50,0:58:22.78,BottomCenter,,0,0,0,,unable to afford\Nto keep their children with them,
+Dialogue: 0,0:58:22.86,0:58:25.42,BottomCenter,,0,0,0,,even in the cities' worst slums.
+Dialogue: 0,0:58:25.50,0:58:27.84,BottomCenter,,0,0,0,,In order to give their children\Nan education
+Dialogue: 0,0:58:27.92,0:58:30.76,BottomCenter,,0,0,0,,and the chance of a better future\Nthan life in the factories,
+Dialogue: 0,0:58:30.84,0:58:34.59,BottomCenter,,0,0,0,,many garment workers here,\Nlike Shima, are leaving their children
+Dialogue: 0,0:58:34.67,0:58:38.26,BottomCenter,,0,0,0,,to be raised by family or friends\Nin villages outside the city,
+Dialogue: 0,0:58:38.34,0:58:41.13,BottomCenter,,0,0,0,,only getting to see them\Nonce or twice a year.
+Dialogue: 0,0:59:24.34,0:59:26.51,BottomCenter,,0,0,0,,[speaking in foreign language]
+Dialogue: 0,0:59:55.42,0:59:57.71,BottomCenter,,0,0,0,,[all speaking in foreign language]
+Dialogue: 0,1:00:28.88,1:00:31.17,BottomCenter,,0,0,0,,[speaking in foreign language]
+Dialogue: 0,1:02:01.05,1:02:03.05,BottomCenter,,0,0,0,,You know, we are actually profiting
+Dialogue: 0,1:02:03.13,1:02:08.30,BottomCenter,,0,0,0,,from their, um, need to work,\Nto use them as slaves.
+Dialogue: 0,1:02:08.38,1:02:12.13,BottomCenter,,0,0,0,,And I'm not saying that we don't--\NWe need to give them work,
+Dialogue: 0,1:02:12.23,1:02:16.73,BottomCenter,,0,0,0,,but they have to be treated\Nwith the same respect
+Dialogue: 0,1:02:16.82,1:02:19.90,BottomCenter,,0,0,0,,that we treat our children, our friends.
+Dialogue: 0,1:02:19.98,1:02:21.53,BottomCenter,,0,0,0,,They're not different from us.
+Dialogue: 0,1:02:22.23,1:02:24.40,BottomCenter,,0,0,0,,Livia Firth has been calling\Nfor major change
+Dialogue: 0,1:02:24.48,1:02:25.69,BottomCenter,,0,0,0,,in the fashion industry.
+Dialogue: 0,1:02:25.78,1:02:29.32,BottomCenter,,0,0,0,,She made headlines by starting something\Ncalled "The Green Carpet Challenge,"
+Dialogue: 0,1:02:29.40,1:02:31.07,BottomCenter,,0,0,0,,urging celebrities and top designers
+Dialogue: 0,1:02:31.15,1:02:34.00,BottomCenter,,0,0,0,,to take part in more mindful forms\Nof fashion.
+Dialogue: 0,1:02:34.07,1:02:37.00,BottomCenter,,0,0,0,,She runs a sustainability\Nconsulting firm called Eco Age
+Dialogue: 0,1:02:37.09,1:02:41.05,BottomCenter,,0,0,0,,and had just been invited to speak\Non the future of fashion.
+Dialogue: 0,1:02:41.13,1:02:43.42,BottomCenter,,0,0,0,,[Firth] If Fast Fashion didn't exist,
+Dialogue: 0,1:02:43.51,1:02:46.05,BottomCenter,,0,0,0,,we wouldn't need to have\Na summit in Copenhagen
+Dialogue: 0,1:02:46.13,1:02:49.96,BottomCenter,,0,0,0,,to try and clean the mess\Nof environmental destruction,
+Dialogue: 0,1:02:50.05,1:02:53.34,BottomCenter,,0,0,0,,social justice destruction,\Nthat has been caused
+Dialogue: 0,1:02:53.44,1:02:56.86,BottomCenter,,0,0,0,,in the last 15 to 20 years\Nof its existence.
+Dialogue: 0,1:02:56.94,1:02:59.69,BottomCenter,,0,0,0,,Fast Fashion wants to produce fast,
+Dialogue: 0,1:02:59.78,1:03:04.07,BottomCenter,,0,0,0,,so the garment worker has\Nto produce faster and cheap.
+Dialogue: 0,1:03:04.15,1:03:08.03,BottomCenter,,0,0,0,,So, the garment worker\Nis the only point of the supply chain
+Dialogue: 0,1:03:08.11,1:03:10.28,BottomCenter,,0,0,0,,where the margins are squeezed.
+Dialogue: 0,1:03:10.36,1:03:14.11,BottomCenter,,0,0,0,,And you have these huge,\Nyou know, companies
+Dialogue: 0,1:03:14.21,1:03:18.46,BottomCenter,,0,0,0,,going to the factory in Bangladesh,\Nplace an order for 1.5 million jeans
+Dialogue: 0,1:03:18.53,1:03:22.30,BottomCenter,,0,0,0,,for, you know, 30 cents each,\N50 cents each...
+Dialogue: 0,1:03:22.38,1:03:24.80,BottomCenter,,0,0,0,,How can you make it ethical?\NI don't know.
+Dialogue: 0,1:03:26.38,1:03:28.96,BottomCenter,,0,0,0,,But also, from the consumer point of view,
+Dialogue: 0,1:03:29.05,1:03:32.26,BottomCenter,,0,0,0,,is it really democratic\Nto buy a T-shirt for $5
+Dialogue: 0,1:03:32.34,1:03:34.67,BottomCenter,,0,0,0,,or pay $20 for your jeans?
+Dialogue: 0,1:03:34.76,1:03:38.15,BottomCenter,,0,0,0,,Or are they taking us for a ride?
+Dialogue: 0,1:03:38.23,1:03:41.86,BottomCenter,,0,0,0,,Because they're making us believe\Nthat we are rich or wealthy
+Dialogue: 0,1:03:41.94,1:03:44.07,BottomCenter,,0,0,0,,because we can buy a lot.
+Dialogue: 0,1:03:44.15,1:03:46.69,BottomCenter,,0,0,0,,But in fact they are making us poorer.
+Dialogue: 0,1:03:46.78,1:03:49.90,BottomCenter,,0,0,0,,And the only person\Nwho is becoming richer
+Dialogue: 0,1:03:49.98,1:03:52.61,BottomCenter,,0,0,0,,is the owner of the Fast Fashion brand.
+Dialogue: 0,1:03:52.69,1:03:55.07,BottomCenter,,0,0,0,,So that makes me a little bit angry.
+Dialogue: 0,1:03:55.15,1:03:57.17,BottomCenter,,0,0,0,,[audience cheering and whistling]
+Dialogue: 0,1:04:03.01,1:04:05.76,BottomCenter,,0,0,0,,You spoke about a commitment
+Dialogue: 0,1:04:05.84,1:04:11.76,BottomCenter,,0,0,0,,to try and promise a basic living wage.
+Dialogue: 0,1:04:11.84,1:04:13.46,BottomCenter,,0,0,0,,What does that mean?
+Dialogue: 0,1:04:13.55,1:04:17.69,BottomCenter,,0,0,0,,Uh, how do you define\Na fair living wage in Bangladesh?
+Dialogue: 0,1:04:17.76,1:04:21.23,BottomCenter,,0,0,0,,You know, uh, what does that mean?
+Dialogue: 0,1:04:21.32,1:04:24.32,BottomCenter,,0,0,0,,And to have a pilot project\Nin three factories,
+Dialogue: 0,1:04:24.40,1:04:28.94,BottomCenter,,0,0,0,,and by 2018, 15 percent of your factories\Nare going to have that?
+Dialogue: 0,1:04:29.03,1:04:31.53,BottomCenter,,0,0,0,,It's not good enough.\NIt's not.
+Dialogue: 0,1:04:31.61,1:04:34.78,BottomCenter,,0,0,0,,It's very clear for us\Nthat what a living wage is,
+Dialogue: 0,1:04:34.86,1:04:37.32,BottomCenter,,0,0,0,,is something that the workers should say,
+Dialogue: 0,1:04:37.40,1:04:41.67,BottomCenter,,0,0,0,,and that's incorporated in our way\Nof working.
+Dialogue: 0,1:04:41.75,1:04:43.13,BottomCenter,,0,0,0,,[Firth]\NHow much is it?
+Dialogue: 0,1:04:43.21,1:04:45.30,BottomCenter,,0,0,0,,And that's not for us to say a sum,
+Dialogue: 0,1:04:45.38,1:04:47.76,BottomCenter,,0,0,0,,but we do an assessment all the time.
+Dialogue: 0,1:04:47.84,1:04:48.96,BottomCenter,,0,0,0,,How much is it?
+Dialogue: 0,1:04:49.05,1:04:53.88,BottomCenter,,0,0,0,,And to make sure that it covers\Nthe basic needs of the workers.
+Dialogue: 0,1:04:53.96,1:04:57.05,BottomCenter,,0,0,0,,I can show you that later on.
+Dialogue: 0,1:04:57.13,1:04:59.69,BottomCenter,,0,0,0,,H&M has mastered the model\Nof Fast Fashion,
+Dialogue: 0,1:04:59.76,1:05:03.19,BottomCenter,,0,0,0,,becoming the second largest\Nclothing corporation in history.
+Dialogue: 0,1:05:03.26,1:05:06.86,BottomCenter,,0,0,0,,With annual revenue\Nof more than $18 billion,
+Dialogue: 0,1:05:06.94,1:05:09.36,BottomCenter,,0,0,0,,they are now one\Nof the largest producers of clothing
+Dialogue: 0,1:05:09.44,1:05:11.78,BottomCenter,,0,0,0,,in both Bangladesh and Cambodia.
+Dialogue: 0,1:05:12.15,1:05:15.23,BottomCenter,,0,0,0,,Sadly, along with every other\Nmajor retailer I asked,
+Dialogue: 0,1:05:15.32,1:05:19.00,BottomCenter,,0,0,0,,they declined\Nall interview requests for this film.
+Dialogue: 0,1:05:29.01,1:05:30.26,BottomCenter,,0,0,0,,[crowd cheering]
+Dialogue: 0,1:05:30.34,1:05:32.34,BottomCenter,,0,0,0,,[man yelling in foreign language]
+Dialogue: 0,1:05:33.76,1:05:36.46,BottomCenter,,0,0,0,,In Cambodia,\Ngarment workers have had enough.
+Dialogue: 0,1:05:36.55,1:05:38.05,BottomCenter,,0,0,0,,Recently taking to the streets
+Dialogue: 0,1:05:38.13,1:05:41.09,BottomCenter,,0,0,0,,to demand a minimum wage\Nincrease in the country.
+Dialogue: 0,1:05:46.40,1:05:50.03,BottomCenter,,0,0,0,,As protests continued, workers were met\Nwith violent crackdowns,
+Dialogue: 0,1:05:50.11,1:05:53.69,BottomCenter,,0,0,0,,as police began to open fire\Nwith live rounds.
+Dialogue: 0,1:05:53.78,1:05:55.90,BottomCenter,,0,0,0,,[yelling in foreign language]
+Dialogue: 0,1:05:55.98,1:05:58.07,BottomCenter,,0,0,0,,[wailing]
+Dialogue: 0,1:05:58.15,1:06:00.57,BottomCenter,,0,0,0,,[crowd clamoring]\N[car horns honking]
+Dialogue: 0,1:06:05.96,1:06:07.80,BottomCenter,,0,0,0,,[gunfire]
+Dialogue: 0,1:06:13.46,1:06:16.05,BottomCenter,,0,0,0,,[man] A woman has been killed\Nand several people injured
+Dialogue: 0,1:06:16.13,1:06:18.26,BottomCenter,,0,0,0,,in clashes between clothes factory workers
+Dialogue: 0,1:06:18.34,1:06:20.59,BottomCenter,,0,0,0,,and riot police in Cambodia.
+Dialogue: 0,1:06:21.42,1:06:23.09,BottomCenter,,0,0,0,,[gunfire]
+Dialogue: 0,1:06:26.51,1:06:28.40,BottomCenter,,0,0,0,,[crowd clamoring]
+Dialogue: 0,1:06:32.15,1:06:34.15,BottomCenter,,0,0,0,,[speaking in foreign language]
+Dialogue: 0,1:06:42.36,1:06:46.75,BottomCenter,,0,0,0,,For two days, Cambodia was a battleground.
+Dialogue: 0,1:06:46.84,1:06:48.75,BottomCenter,,0,0,0,,The city of Phnom Penh.
+Dialogue: 0,1:06:48.84,1:06:53.09,BottomCenter,,0,0,0,,The police, the paratroopers\Nwere brought in
+Dialogue: 0,1:06:53.17,1:06:57.46,BottomCenter,,0,0,0,,as if there were war\Non the streets of Phnom Penh.
+Dialogue: 0,1:06:57.55,1:07:01.84,BottomCenter,,0,0,0,,Why? Because workers\Nin the textile industry
+Dialogue: 0,1:07:01.92,1:07:03.55,BottomCenter,,0,0,0,,continued to demand
+Dialogue: 0,1:07:03.63,1:07:06.55,BottomCenter,,0,0,0,,a minimum wage of at least $160.
+Dialogue: 0,1:07:10.07,1:07:12.07,BottomCenter,,0,0,0,,[woman speaking in foreign language]
+Dialogue: 0,1:07:44.76,1:07:50.82,BottomCenter,,0,0,0,,[man] Today is the, uh,\Nfuneral of a factory worker.
+Dialogue: 0,1:07:50.90,1:07:54.61,BottomCenter,,0,0,0,,He was beaten to death.
+Dialogue: 0,1:07:54.69,1:08:00.94,BottomCenter,,0,0,0,,He had, uh, suffered a lot\Nbefore his death this morning.
+Dialogue: 0,1:08:01.03,1:08:04.86,BottomCenter,,0,0,0,,And he had done nothing wrong.
+Dialogue: 0,1:08:04.94,1:08:09.00,BottomCenter,,0,0,0,,He, among his, uh, fellow workers,
+Dialogue: 0,1:08:09.92,1:08:13.88,BottomCenter,,0,0,0,,wanted to have better living conditions.
+Dialogue: 0,1:08:13.96,1:08:15.96,BottomCenter,,0,0,0,,[chanting in foreign language]
+Dialogue: 0,1:08:34.56,1:08:36.56,BottomCenter,,0,0,0,,[chanting continues]
+Dialogue: 0,1:08:40.11,1:08:43.78,BottomCenter,,0,0,0,,We will continue his fight
+Dialogue: 0,1:08:44.65,1:08:48.75,BottomCenter,,0,0,0,,so that all Cambodian workers
+Dialogue: 0,1:08:49.71,1:08:52.88,BottomCenter,,0,0,0,,will have decent living conditions.
+Dialogue: 0,1:08:54.21,1:08:55.71,BottomCenter,,0,0,0,,[interviewer]\NThank you, sir.
+Dialogue: 0,1:09:04.39,1:09:07.60,BottomCenter,,0,0,0,,[narrator] The Cambodian government,\Nlike other developing countries
+Dialogue: 0,1:09:07.68,1:09:11.31,BottomCenter,,0,0,0,,are desperate for the business\Nthat multinational retailers bring.
+Dialogue: 0,1:09:11.89,1:09:14.06,BottomCenter,,0,0,0,,Because of the constant threat\Nthat these brands
+Dialogue: 0,1:09:14.14,1:09:16.68,BottomCenter,,0,0,0,,will relocate production\Nto other low-cost countries,
+Dialogue: 0,1:09:16.77,1:09:18.77,BottomCenter,,0,0,0,,the government holds down wages,
+Dialogue: 0,1:09:18.85,1:09:22.02,BottomCenter,,0,0,0,,routinely avoiding enforcement\Nof local labor laws.
+Dialogue: 0,1:09:22.11,1:09:25.28,BottomCenter,,0,0,0,,But because the major brands\Ndo not officially employ the workers,
+Dialogue: 0,1:09:25.36,1:09:28.03,BottomCenter,,0,0,0,,or own any of the factories\Nthey produce in,
+Dialogue: 0,1:09:28.11,1:09:30.07,BottomCenter,,0,0,0,,they're able to profit hugely,
+Dialogue: 0,1:09:30.17,1:09:32.53,BottomCenter,,0,0,0,,all while remaining free\Nof responsibility
+Dialogue: 0,1:09:32.63,1:09:35.92,BottomCenter,,0,0,0,,for the effects of poverty wages,\Nfactory disasters,
+Dialogue: 0,1:09:36.01,1:09:39.26,BottomCenter,,0,0,0,,and the ongoing violent treatment\Nof workers.
+Dialogue: 0,1:09:39.34,1:09:41.55,BottomCenter,,0,0,0,,The whole system begins to feel
+Dialogue: 0,1:09:41.64,1:09:43.55,BottomCenter,,0,0,0,,like a perfectly engineered nightmare
+Dialogue: 0,1:09:43.64,1:09:46.27,BottomCenter,,0,0,0,,for the workers trapped inside of it.
+Dialogue: 0,1:09:48.47,1:09:52.97,BottomCenter,,0,0,0,,[Mu] You cannot fool us,\Nand exploit our human resources,
+Dialogue: 0,1:09:53.06,1:09:54.72,BottomCenter,,0,0,0,,exploit our workers.
+Dialogue: 0,1:09:54.81,1:09:57.31,BottomCenter,,0,0,0,,The workers will continue to rise up.
+Dialogue: 0,1:09:57.64,1:10:00.98,BottomCenter,,0,0,0,,I call on the international brands
+Dialogue: 0,1:10:01.44,1:10:07.07,BottomCenter,,0,0,0,,to put that struggle into dollars,
+Dialogue: 0,1:10:07.15,1:10:09.94,BottomCenter,,0,0,0,,into pounds, into Euros.
+Dialogue: 0,1:10:10.75,1:10:14.59,BottomCenter,,0,0,0,,It translates into human capital.
+Dialogue: 0,1:10:14.67,1:10:18.88,BottomCenter,,0,0,0,,It translates into social responsibility
+Dialogue: 0,1:10:18.96,1:10:20.72,BottomCenter,,0,0,0,,of these big corporations.
+Dialogue: 0,1:10:20.80,1:10:23.93,BottomCenter,,0,0,0,,It translates into economic justice.
+Dialogue: 0,1:10:24.01,1:10:27.56,BottomCenter,,0,0,0,,When everything is concentrated\Non making profits
+Dialogue: 0,1:10:27.64,1:10:29.22,BottomCenter,,0,0,0,,for the big corporations,
+Dialogue: 0,1:10:29.31,1:10:30.97,BottomCenter,,0,0,0,,what you see is that human rights,
+Dialogue: 0,1:10:31.06,1:10:34.60,BottomCenter,,0,0,0,,the environment, workers' rights\Nget lost all together.
+Dialogue: 0,1:10:34.68,1:10:37.47,BottomCenter,,0,0,0,,You see that workers\Nare increasingly exploited
+Dialogue: 0,1:10:37.56,1:10:41.18,BottomCenter,,0,0,0,,because the price of everything\Nis pushed down and down and down,
+Dialogue: 0,1:10:41.27,1:10:45.02,BottomCenter,,0,0,0,,just to satisfy this impulse\Nto accumulate capital.
+Dialogue: 0,1:10:45.10,1:10:47.15,BottomCenter,,0,0,0,,And that's profoundly problematic,
+Dialogue: 0,1:10:47.23,1:10:49.94,BottomCenter,,0,0,0,,'cause it leads\Nto the mass impoverishment
+Dialogue: 0,1:10:50.03,1:10:53.25,BottomCenter,,0,0,0,,of hundreds of millions of people\Naround the world.
+Dialogue: 0,1:10:54.67,1:10:58.42,BottomCenter,,0,0,0,,[woman] If you write to these companies,\Nthey'll send you their code of conduct.
+Dialogue: 0,1:10:58.50,1:11:02.84,BottomCenter,,0,0,0,,And it's beautiful, and it says,\N"Oh, yes, we take responsibility
+Dialogue: 0,1:11:02.93,1:11:05.64,BottomCenter,,0,0,0,,for the conditions under which\Nour product is made,
+Dialogue: 0,1:11:05.72,1:11:07.43,BottomCenter,,0,0,0,,you know, the product that you buy.
+Dialogue: 0,1:11:07.51,1:11:09.22,BottomCenter,,0,0,0,,All the factories where we produce,
+Dialogue: 0,1:11:09.31,1:11:12.85,BottomCenter,,0,0,0,,we require them to respect\Nthe minimum-wage laws,
+Dialogue: 0,1:11:12.93,1:11:15.35,BottomCenter,,0,0,0,,you know,\Nall of the laws of the country,
+Dialogue: 0,1:11:15.43,1:11:18.85,BottomCenter,,0,0,0,,to respect women, not to hire children,
+Dialogue: 0,1:11:18.93,1:11:21.47,BottomCenter,,0,0,0,,uh, no forced labor,
+Dialogue: 0,1:11:21.56,1:11:25.81,BottomCenter,,0,0,0,,um, no excessive overtime hours,"\Nall that stuff.
+Dialogue: 0,1:11:25.90,1:11:27.15,BottomCenter,,0,0,0,,Um...
+Dialogue: 0,1:11:27.23,1:11:31.90,BottomCenter,,0,0,0,,But when we submitted a bill\Nin Congress a few years ago,
+Dialogue: 0,1:11:32.00,1:11:34.46,BottomCenter,,0,0,0,,or worked with people to do that,
+Dialogue: 0,1:11:34.53,1:11:39.00,BottomCenter,,0,0,0,,we called it "The Decent Working\NConditions and Fair Competition Act,"
+Dialogue: 0,1:11:39.09,1:11:41.59,BottomCenter,,0,0,0,,the companies responded in one voice,
+Dialogue: 0,1:11:41.67,1:11:44.43,BottomCenter,,0,0,0,,"Oh, no. That would be\Nan impediment to free trade.
+Dialogue: 0,1:11:44.51,1:11:48.55,BottomCenter,,0,0,0,,We can't have rules.\NWe can't have that."
+Dialogue: 0,1:11:48.64,1:11:51.85,BottomCenter,,0,0,0,,They want to keep it\Nwith voluntary codes of conduct.
+Dialogue: 0,1:11:51.93,1:11:55.06,BottomCenter,,0,0,0,,You know, they've fought for\Nand they've won laws
+Dialogue: 0,1:11:55.14,1:11:58.89,BottomCenter,,0,0,0,,to protect their stuff\Nand their interests,
+Dialogue: 0,1:11:58.97,1:12:00.56,BottomCenter,,0,0,0,,but what about the workers?
+Dialogue: 0,1:12:00.64,1:12:03.18,BottomCenter,,0,0,0,,The workers are left\Nwith voluntary codes of conduct.
+Dialogue: 0,1:12:03.27,1:12:07.69,BottomCenter,,0,0,0,,And what we see,\Nin case, after case, after case,
+Dialogue: 0,1:12:07.77,1:12:09.77,BottomCenter,,0,0,0,,is that those voluntary codes of conduct
+Dialogue: 0,1:12:09.86,1:12:12.40,BottomCenter,,0,0,0,,are not worth the paper\Nthat they're written on.
+Dialogue: 0,1:12:12.48,1:12:15.78,BottomCenter,,0,0,0,,We need to acknowledge,\Nparticularly in the fashion industry,
+Dialogue: 0,1:12:15.86,1:12:19.92,BottomCenter,,0,0,0,,that human capital is part\Nof this miraculous formula.
+Dialogue: 0,1:12:20.67,1:12:24.09,BottomCenter,,0,0,0,,Without human capital,\Nwithout cheap labor,
+Dialogue: 0,1:12:24.17,1:12:26.13,BottomCenter,,0,0,0,,cheap female labor,
+Dialogue: 0,1:12:26.22,1:12:29.68,BottomCenter,,0,0,0,,it would not be generating\Nthe profits that it is.
+Dialogue: 0,1:12:30.30,1:12:33.52,BottomCenter,,0,0,0,,That needs to be acknowledged,\Nit needs to be dealt with,
+Dialogue: 0,1:12:33.60,1:12:37.27,BottomCenter,,0,0,0,,and those people need to be\Nrewarded instead of exploited.
+Dialogue: 0,1:12:37.35,1:12:39.02,BottomCenter,,0,0,0,,Where is their piece of the pie?
+Dialogue: 0,1:12:39.10,1:12:41.31,BottomCenter,,0,0,0,,That's what we constantly\Nhave to ask ourselves.
+Dialogue: 0,1:12:41.39,1:12:45.43,BottomCenter,,0,0,0,,Are those buyers immoral?\NOr they just don't--? Or are they amoral?
+Dialogue: 0,1:12:45.52,1:12:48.64,BottomCenter,,0,0,0,,The system they're working for\Nand the system that allows companies
+Dialogue: 0,1:12:48.73,1:12:49.94,BottomCenter,,0,0,0,,to do this is amoral.
+Dialogue: 0,1:12:50.02,1:12:52.77,BottomCenter,,0,0,0,,The individuals concerned\Nare simply products of that system
+Dialogue: 0,1:12:52.86,1:12:55.50,BottomCenter,,0,0,0,,and having to drive it through\Nto its logical conclusion.
+Dialogue: 0,1:12:55.57,1:12:58.92,BottomCenter,,0,0,0,,What we need to do is change the way\Nthose companies operate.
+Dialogue: 0,1:12:59.63,1:13:02.34,BottomCenter,,0,0,0,,Operating within a system\Nthat only measures profit,
+Dialogue: 0,1:13:02.42,1:13:04.84,BottomCenter,,0,0,0,,companies have little incentive\Nto do anything
+Dialogue: 0,1:13:04.92,1:13:08.05,BottomCenter,,0,0,0,,other than to make this quarter\Nbetter than the last.
+Dialogue: 0,1:13:08.13,1:13:11.18,BottomCenter,,0,0,0,,No matter what damage\Nis caused along the way.
+Dialogue: 0,1:13:11.26,1:13:14.06,BottomCenter,,0,0,0,,As corporations that make up\Nthe global fashion industry,
+Dialogue: 0,1:13:14.14,1:13:16.60,BottomCenter,,0,0,0,,major brands, as well as seed\Nand chemical companies,
+Dialogue: 0,1:13:16.68,1:13:20.72,BottomCenter,,0,0,0,,are growing today to reach\Nunprecedented global size and power.
+Dialogue: 0,1:13:20.81,1:13:24.43,BottomCenter,,0,0,0,,This mandate for profit at all cost\Nis beginning to stand
+Dialogue: 0,1:13:24.52,1:13:27.77,BottomCenter,,0,0,0,,in direct opposition\Nto the values that we share.
+Dialogue: 0,1:13:28.85,1:13:30.44,BottomCenter,,0,0,0,,Richard Wolff is an economist,
+Dialogue: 0,1:13:30.52,1:13:33.94,BottomCenter,,0,0,0,,who after graduating from Harvard,\NStanford and Yale,
+Dialogue: 0,1:13:34.02,1:13:38.25,BottomCenter,,0,0,0,,became convinced that the real problem\Nis within this system itself.
+Dialogue: 0,1:13:38.32,1:13:42.25,BottomCenter,,0,0,0,,So, America became a peculiar country.
+Dialogue: 0,1:13:42.32,1:13:45.46,BottomCenter,,0,0,0,,You could criticize the education system\Nto make the schools better.
+Dialogue: 0,1:13:45.55,1:13:49.55,BottomCenter,,0,0,0,,You could criticize the transportation\Nsystem to make that work better.
+Dialogue: 0,1:13:49.63,1:13:52.68,BottomCenter,,0,0,0,,But you couldn't criticize\Nthe economic system.
+Dialogue: 0,1:13:52.76,1:13:54.89,BottomCenter,,0,0,0,,That got a free pass.
+Dialogue: 0,1:13:54.97,1:13:56.60,BottomCenter,,0,0,0,,You couldn't criticize, just--
+Dialogue: 0,1:13:56.68,1:13:59.64,BottomCenter,,0,0,0,,And if you don't criticize something\Nfor 50 years,
+Dialogue: 0,1:13:59.72,1:14:02.52,BottomCenter,,0,0,0,,it rots, it goes to seed.
+Dialogue: 0,1:14:02.60,1:14:04.47,BottomCenter,,0,0,0,,One of the ways a healthy society works
+Dialogue: 0,1:14:04.56,1:14:08.56,BottomCenter,,0,0,0,,is it subjects its component systems\Nto criticism,
+Dialogue: 0,1:14:08.64,1:14:11.19,BottomCenter,,0,0,0,,so that we can debate it,\Nand hopefully fix it,
+Dialogue: 0,1:14:11.27,1:14:13.19,BottomCenter,,0,0,0,,or improve it or do better.
+Dialogue: 0,1:14:13.27,1:14:15.98,BottomCenter,,0,0,0,,Capitalism couldn't be questioned.
+Dialogue: 0,1:14:16.07,1:14:17.23,BottomCenter,,0,0,0,,Capitalism is the reason
+Dialogue: 0,1:14:17.32,1:14:20.07,BottomCenter,,0,0,0,,the fashion industry looks\Nas it does today.
+Dialogue: 0,1:14:20.15,1:14:23.92,BottomCenter,,0,0,0,,It's the reason why workers\Nin Bangladesh are paid so little.
+Dialogue: 0,1:14:24.00,1:14:26.80,BottomCenter,,0,0,0,,Because if you're operating\Nin a capitalist system,
+Dialogue: 0,1:14:26.88,1:14:29.92,BottomCenter,,0,0,0,,the main thing you have to do\Nis create profit
+Dialogue: 0,1:14:30.01,1:14:33.47,BottomCenter,,0,0,0,,and you have to create more profit\Nthan your competitors.
+Dialogue: 0,1:14:33.55,1:14:35.55,BottomCenter,,0,0,0,,And this is what drives companies
+Dialogue: 0,1:14:35.64,1:14:38.64,BottomCenter,,0,0,0,,to push wages down and down and down.
+Dialogue: 0,1:14:38.72,1:14:42.81,BottomCenter,,0,0,0,,But companies don't go--\NLike fashion retailers
+Dialogue: 0,1:14:42.89,1:14:47.56,BottomCenter,,0,0,0,,don't go to places like Bangladesh,\Nfor any other reason except
+Dialogue: 0,1:14:47.64,1:14:50.10,BottomCenter,,0,0,0,,they can get the cheapest labor possible.
+Dialogue: 0,1:14:50.18,1:14:52.77,BottomCenter,,0,0,0,,There's no collective rights\Nin Bangladesh,
+Dialogue: 0,1:14:52.85,1:14:54.56,BottomCenter,,0,0,0,,there's no trade union rights,
+Dialogue: 0,1:14:54.65,1:14:56.61,BottomCenter,,0,0,0,,there's a very, very low minimum wage,
+Dialogue: 0,1:14:56.69,1:14:59.61,BottomCenter,,0,0,0,,there's no, like, maternity benefits,\Nthere's no pensions,
+Dialogue: 0,1:14:59.69,1:15:02.28,BottomCenter,,0,0,0,,that is why the fashion industry\Nis in Bangladesh
+Dialogue: 0,1:15:02.36,1:15:05.28,BottomCenter,,0,0,0,,because it can reap the biggest profits\Nout of those people
+Dialogue: 0,1:15:05.38,1:15:07.42,BottomCenter,,0,0,0,,that are making the clothes for them.
+Dialogue: 0,1:15:07.50,1:15:10.76,BottomCenter,,0,0,0,,Before you can solve a problem,\Nyou have to admit you got one
+Dialogue: 0,1:15:10.84,1:15:13.30,BottomCenter,,0,0,0,,and before we're gonna fix\Nan economic system
+Dialogue: 0,1:15:13.38,1:15:16.35,BottomCenter,,0,0,0,,that's working this way,\Nand producing such tensions
+Dialogue: 0,1:15:16.43,1:15:20.18,BottomCenter,,0,0,0,,and inequalities and strains\Non our community,
+Dialogue: 0,1:15:20.27,1:15:24.10,BottomCenter,,0,0,0,,we have to face the real scope\Nof the problem we have
+Dialogue: 0,1:15:24.18,1:15:26.97,BottomCenter,,0,0,0,,and that's with the system as a whole.
+Dialogue: 0,1:15:27.06,1:15:28.35,BottomCenter,,0,0,0,,And at the very least,
+Dialogue: 0,1:15:28.43,1:15:31.06,BottomCenter,,0,0,0,,we have to open up\Na national debate about it,
+Dialogue: 0,1:15:31.14,1:15:34.64,BottomCenter,,0,0,0,,and at the most, I think\Nwe have to think long and hard
+Dialogue: 0,1:15:34.73,1:15:37.23,BottomCenter,,0,0,0,,about alternative systems\Nthat might work better.
+Dialogue: 0,1:15:37.31,1:15:40.86,BottomCenter,,0,0,0,,[Hilary] For the environment,\Nthe great threat is that capital
+Dialogue: 0,1:15:40.94,1:15:45.25,BottomCenter,,0,0,0,,must continue to expand infinitely\Nin order to survive.
+Dialogue: 0,1:15:45.32,1:15:49.13,BottomCenter,,0,0,0,,It can't have any limits\Non its expansion and its growth.
+Dialogue: 0,1:15:49.21,1:15:51.80,BottomCenter,,0,0,0,,The natural world\Nclearly does have limits.
+Dialogue: 0,1:15:51.88,1:15:55.47,BottomCenter,,0,0,0,,There are very defined limits\Nto how much the world can sustain
+Dialogue: 0,1:15:55.55,1:15:57.97,BottomCenter,,0,0,0,,in terms of production,\Nin terms of trade,
+Dialogue: 0,1:15:58.05,1:16:00.39,BottomCenter,,0,0,0,,in terms of transport and distribution.
+Dialogue: 0,1:16:00.47,1:16:03.02,BottomCenter,,0,0,0,,And it's quite clear\Nthat we've already overstepped
+Dialogue: 0,1:16:03.10,1:16:06.18,BottomCenter,,0,0,0,,a lot of those limits, which is why\Nyou're seeing such stress
+Dialogue: 0,1:16:06.27,1:16:08.77,BottomCenter,,0,0,0,,in the natural world at the moment.
+Dialogue: 0,1:16:08.85,1:16:12.31,BottomCenter,,0,0,0,,[Hoskins] The system we live in isn't one\Nthat most people want to live in.
+Dialogue: 0,1:16:12.39,1:16:15.43,BottomCenter,,0,0,0,,I think it's a system that makes\Nmost people very unhappy,
+Dialogue: 0,1:16:15.52,1:16:18.85,BottomCenter,,0,0,0,,and I don't think people want to live\Non a slowly dying planet
+Dialogue: 0,1:16:18.94,1:16:21.57,BottomCenter,,0,0,0,,or to be exploiting, um, you know,\Ntheir neighbors.
+Dialogue: 0,1:16:21.65,1:16:25.96,BottomCenter,,0,0,0,,So, I think we need\Nhuge systemic change.
+Dialogue: 0,1:16:26.03,1:16:28.63,BottomCenter,,0,0,0,,[Wolff]\NIf you don't change the system,
+Dialogue: 0,1:16:28.71,1:16:31.25,BottomCenter,,0,0,0,,you're leaving intact
+Dialogue: 0,1:16:31.34,1:16:34.67,BottomCenter,,0,0,0,,the decision-making of these enterprises,
+Dialogue: 0,1:16:34.76,1:16:38.01,BottomCenter,,0,0,0,,which means a small group\Nof executives and shareholders
+Dialogue: 0,1:16:38.09,1:16:40.39,BottomCenter,,0,0,0,,are gonna be working\Nin the same system,
+Dialogue: 0,1:16:40.47,1:16:43.52,BottomCenter,,0,0,0,,subject to the same pattern\Nof rewards and punishments,
+Dialogue: 0,1:16:43.60,1:16:47.14,BottomCenter,,0,0,0,,which will sooner or later\Nmake them reimpose,
+Dialogue: 0,1:16:47.22,1:16:48.85,BottomCenter,,0,0,0,,there or elsewhere,
+Dialogue: 0,1:16:48.93,1:16:51.10,BottomCenter,,0,0,0,,the very conditions\Nyou're fighting against.
+Dialogue: 0,1:16:51.18,1:16:55.06,BottomCenter,,0,0,0,,So, stop this stuff about improving\Ntheir conditions,
+Dialogue: 0,1:16:55.14,1:16:58.81,BottomCenter,,0,0,0,,deal with the system,\Nor else you're not serious.
+Dialogue: 0,1:16:58.89,1:17:02.32,BottomCenter,,0,0,0,,[Kasser] Our economic system\Nis one of consumer capitalism,
+Dialogue: 0,1:17:02.40,1:17:06.90,BottomCenter,,0,0,0,,and that's why the government needs\Nto have consumption
+Dialogue: 0,1:17:07.00,1:17:08.96,BottomCenter,,0,0,0,,at very high levels, um,
+Dialogue: 0,1:17:09.03,1:17:11.00,BottomCenter,,0,0,0,,and why, of course, the corporations do,
+Dialogue: 0,1:17:11.07,1:17:14.13,BottomCenter,,0,0,0,,and why at some level\Nmost people then buy into it.
+Dialogue: 0,1:17:14.21,1:17:17.76,BottomCenter,,0,0,0,,I can't tell you the number of people\NI talked to who say, "Well,
+Dialogue: 0,1:17:17.84,1:17:21.80,BottomCenter,,0,0,0,,but if we became less materialistic\Nour economy would tank."
+Dialogue: 0,1:17:21.89,1:17:26.89,BottomCenter,,0,0,0,,Well, they're right in some level,\Nbecause our economy is
+Dialogue: 0,1:17:26.97,1:17:32.43,BottomCenter,,0,0,0,,based on materialism,\Nit's based on these kinds of values.
+Dialogue: 0,1:17:32.52,1:17:35.14,BottomCenter,,0,0,0,,That's what it needs\Nin order to survive.
+Dialogue: 0,1:17:35.22,1:17:37.68,BottomCenter,,0,0,0,,That's part of the fuel that it needs.
+Dialogue: 0,1:17:38.31,1:17:40.85,BottomCenter,,0,0,0,,The problem is that comes\Nat a really high price.
+Dialogue: 0,1:17:40.94,1:17:44.27,BottomCenter,,0,0,0,,♪ Black Friday's here\NCan we go please? ♪
+Dialogue: 0,1:17:44.36,1:17:47.32,BottomCenter,,0,0,0,,♪ Go, go, go, go, go\NShop, shop, shop, shop ♪
+Dialogue: 0,1:17:47.40,1:17:48.78,BottomCenter,,0,0,0,,Black Friday shopping mania
+Dialogue: 0,1:17:48.86,1:17:51.17,BottomCenter,,0,0,0,,still playing out tonight\Nat malls across America.
+Dialogue: 0,1:17:51.25,1:17:53.38,BottomCenter,,0,0,0,,In some places across\Nthis country tonight,
+Dialogue: 0,1:17:53.46,1:17:54.84,BottomCenter,,0,0,0,,it's as if someone announced
+Dialogue: 0,1:17:54.92,1:17:56.80,BottomCenter,,0,0,0,,we're in danger of running out of stuff,
+Dialogue: 0,1:17:56.88,1:17:59.63,BottomCenter,,0,0,0,,and those who need stuff\Nhad better go out and buy it now
+Dialogue: 0,1:17:59.72,1:18:01.30,BottomCenter,,0,0,0,,'cause it's going away forever.
+Dialogue: 0,1:18:01.39,1:18:04.43,BottomCenter,,0,0,0,,[woman] Walmart, doing more\Nthan 10 million transactions
+Dialogue: 0,1:18:04.51,1:18:06.64,BottomCenter,,0,0,0,,in the first four hours of the frenzy.
+Dialogue: 0,1:18:06.72,1:18:12.02,BottomCenter,,0,0,0,,A record 15,000 people at Macy's\Nin New York City, shoppers hung tough.
+Dialogue: 0,1:18:12.10,1:18:15.68,BottomCenter,,0,0,0,,Black Friday will be the single\Nlargest day of the retail year.
+Dialogue: 0,1:18:15.77,1:18:19.31,BottomCenter,,0,0,0,,Certainly in the case of Macy's,\Nwe'll do more business on this day
+Dialogue: 0,1:18:19.39,1:18:21.94,BottomCenter,,0,0,0,,than on any other, uh, day of the year.
+Dialogue: 0,1:18:22.02,1:18:27.02,BottomCenter,,0,0,0,,Nation, this orgy of Christmas shopping\Nproves America is back!
+Dialogue: 0,1:18:27.11,1:18:28.90,BottomCenter,,0,0,0,,We are once again... Yes!
+Dialogue: 0,1:18:28.98,1:18:30.50,BottomCenter,,0,0,0,,[audience cheering]
+Dialogue: 0,1:18:30.57,1:18:32.07,BottomCenter,,0,0,0,,Oh, yes!
+Dialogue: 0,1:18:32.78,1:18:36.80,BottomCenter,,0,0,0,,We are once again\Nspending money we don't have
+Dialogue: 0,1:18:36.88,1:18:39.76,BottomCenter,,0,0,0,,on things we don't need\Nto give to people we don't like.
+Dialogue: 0,1:18:39.84,1:18:41.84,BottomCenter,,0,0,0,,[audience cheering]
+Dialogue: 0,1:18:41.93,1:18:42.93,BottomCenter,,0,0,0,,Yeah.
+Dialogue: 0,1:18:43.01,1:18:47.64,BottomCenter,,0,0,0,,[chanting]\NU.S.A.! U.S.A.! U.S.A.!
+Dialogue: 0,1:18:48.72,1:18:50.43,BottomCenter,,0,0,0,,[woman screaming]
+Dialogue: 0,1:18:53.39,1:18:54.72,BottomCenter,,0,0,0,,[man]\NOh, my God!
+Dialogue: 0,1:19:05.48,1:19:07.48,BottomCenter,,0,0,0,,[inaudible dialogue]
+Dialogue: 0,1:19:55.03,1:19:57.03,BottomCenter,,0,0,0,,[crowd clamoring]
+Dialogue: 0,1:20:36.21,1:20:38.25,BottomCenter,,0,0,0,,[speaking in foreign language]
+Dialogue: 0,1:20:54.47,1:20:56.35,BottomCenter,,0,0,0,,[speaking in foreign language]
+Dialogue: 0,1:21:00.18,1:21:02.06,BottomCenter,,0,0,0,,[Akhter speaking in foreign language]
+Dialogue: 0,1:22:20.93,1:22:24.93,BottomCenter,,0,0,0,,[Pepper] I grew up on a farm,\Nmarried a guy that grew up on a farm,
+Dialogue: 0,1:22:25.02,1:22:28.60,BottomCenter,,0,0,0,,and, uh, those of us living\Non the farm live there.
+Dialogue: 0,1:22:28.68,1:22:33.15,BottomCenter,,0,0,0,,It needs to be safe for us, too.\NThe new chemicals that are coming out,
+Dialogue: 0,1:22:33.23,1:22:37.82,BottomCenter,,0,0,0,,and the intensity of the use,\Nwas just continuing to increase.
+Dialogue: 0,1:22:37.90,1:22:42.25,BottomCenter,,0,0,0,,And, um, then in 2005,
+Dialogue: 0,1:22:42.71,1:22:44.07,BottomCenter,,0,0,0,,um...
+Dialogue: 0,1:22:44.17,1:22:47.00,BottomCenter,,0,0,0,,Terry started having some loss\Nof fine motor skills,
+Dialogue: 0,1:22:47.09,1:22:49.21,BottomCenter,,0,0,0,,and this and that,\Nand come to find out
+Dialogue: 0,1:22:49.30,1:22:53.01,BottomCenter,,0,0,0,,he had a glioblastoma multiforme,\NStage 4 brain tumor,
+Dialogue: 0,1:22:54.05,1:22:57.72,BottomCenter,,0,0,0,,and, uh, at the prime age\Nof 47 years old.
+Dialogue: 0,1:22:58.26,1:23:00.85,BottomCenter,,0,0,0,,And, uh, he died at the age of 50.
+Dialogue: 0,1:23:00.93,1:23:03.72,BottomCenter,,0,0,0,,They gave us six months,\Nwe had two-and-a-half years,
+Dialogue: 0,1:23:03.81,1:23:06.97,BottomCenter,,0,0,0,,and the brain surgeon\Nthat worked on him--
+Dialogue: 0,1:23:07.06,1:23:13.06,BottomCenter,,0,0,0,,Lubbock has got huge cancer clinics\Nand a medical hub.
+Dialogue: 0,1:23:13.14,1:23:16.40,BottomCenter,,0,0,0,,We didn't have to go someplace else\Nto have a brain tumor surgery.
+Dialogue: 0,1:23:16.48,1:23:20.07,BottomCenter,,0,0,0,,We were able to stay right here\Nbecause he does so many of them.
+Dialogue: 0,1:23:20.15,1:23:24.42,BottomCenter,,0,0,0,,He said that these kinds of tumors\Nare found in men, aged 45-65,
+Dialogue: 0,1:23:24.50,1:23:29.42,BottomCenter,,0,0,0,,that work in the agricultural industry\Nor the oil field.
+Dialogue: 0,1:23:29.50,1:23:32.63,BottomCenter,,0,0,0,,And so while I don't have a smoking gun\Nand the blood tests that say
+Dialogue: 0,1:23:32.72,1:23:37.80,BottomCenter,,0,0,0,,the use of, uh, cotton chemicals,\Nagricultural chemicals,
+Dialogue: 0,1:23:37.89,1:23:40.47,BottomCenter,,0,0,0,,directly led to my husband's death,
+Dialogue: 0,1:23:40.56,1:23:43.52,BottomCenter,,0,0,0,,there's just too many linkages\Nwith his father's death.
+Dialogue: 0,1:23:43.60,1:23:45.60,BottomCenter,,0,0,0,,Growing up\Non a chemically-intensive farm,
+Dialogue: 0,1:23:45.68,1:23:48.52,BottomCenter,,0,0,0,,we live in the middle\Nof 3.6 million acres of cotton
+Dialogue: 0,1:23:48.60,1:23:50.31,BottomCenter,,0,0,0,,that use a lot of chemicals.
+Dialogue: 0,1:23:50.39,1:23:53.77,BottomCenter,,0,0,0,,And so, at that point in time,
+Dialogue: 0,1:23:53.85,1:23:56.56,BottomCenter,,0,0,0,,organic was no longer important to me,
+Dialogue: 0,1:23:57.35,1:23:58.94,BottomCenter,,0,0,0,,it was imperative.
+Dialogue: 0,1:23:59.02,1:24:01.15,BottomCenter,,0,0,0,,It's imperative\Nthat we change agriculture.
+Dialogue: 0,1:24:01.23,1:24:04.78,BottomCenter,,0,0,0,,It's imperative, if we're talking\Nabout the long-term sustainability
+Dialogue: 0,1:24:04.86,1:24:07.75,BottomCenter,,0,0,0,,and well-being\Nof our lives on this planet
+Dialogue: 0,1:24:07.82,1:24:09.67,BottomCenter,,0,0,0,,and our children's lives on the planet,
+Dialogue: 0,1:24:09.75,1:24:12.51,BottomCenter,,0,0,0,,that we have to change.
+Dialogue: 0,1:24:34.60,1:24:36.98,BottomCenter,,0,0,0,,[Minney] This is the beginning\Nof a turning point
+Dialogue: 0,1:24:37.06,1:24:39.98,BottomCenter,,0,0,0,,not just for, you know,\Na responsible way of doing fashion,
+Dialogue: 0,1:24:40.06,1:24:43.78,BottomCenter,,0,0,0,,but for a new way of doing capitalism,\Nfor a new way of doing economics.
+Dialogue: 0,1:24:44.40,1:24:49.38,BottomCenter,,0,0,0,,I'm sure that we will see\Na significant change
+Dialogue: 0,1:24:49.46,1:24:51.21,BottomCenter,,0,0,0,,over the next ten years.
+Dialogue: 0,1:24:51.28,1:24:54.34,BottomCenter,,0,0,0,,Um, whether it's in time or not\Nis another question.
+Dialogue: 0,1:24:56.51,1:24:58.09,BottomCenter,,0,0,0,,[Kasser]\NMartin Luther King Jr.,
+Dialogue: 0,1:24:58.18,1:25:00.39,BottomCenter,,0,0,0,,at a speech in a Brooklyn church,\Nhe said
+Dialogue: 0,1:25:00.47,1:25:04.18,BottomCenter,,0,0,0,,that what America needed was\Na revolution of values.
+Dialogue: 0,1:25:04.27,1:25:07.35,BottomCenter,,0,0,0,,It needed to stop\Ntreating people like things.
+Dialogue: 0,1:25:07.43,1:25:10.43,BottomCenter,,0,0,0,,It needed to stop treating\Npeople in ways
+Dialogue: 0,1:25:10.52,1:25:12.27,BottomCenter,,0,0,0,,that were just about profit.
+Dialogue: 0,1:25:12.35,1:25:16.48,BottomCenter,,0,0,0,,But instead to treat people\Nin a real and human way.
+Dialogue: 0,1:25:17.14,1:25:20.31,BottomCenter,,0,0,0,,[Wolff] My God,\Nwe can do better than this.
+Dialogue: 0,1:25:20.40,1:25:25.57,BottomCenter,,0,0,0,,If what we want is to spread,\Nas I would argue we do,
+Dialogue: 0,1:25:25.65,1:25:29.75,BottomCenter,,0,0,0,,spread industry around the world,\Nnot concentrated in one place.
+Dialogue: 0,1:25:29.82,1:25:33.92,BottomCenter,,0,0,0,,Let the benefits be shared globally.
+Dialogue: 0,1:25:34.00,1:25:39.59,BottomCenter,,0,0,0,,Then let's do that in an orderly,\Nreasonable, careful way.
+Dialogue: 0,1:25:39.68,1:25:42.80,BottomCenter,,0,0,0,,[Shiva] We need to recognize\Nthat capital is just money.
+Dialogue: 0,1:25:42.89,1:25:44.47,BottomCenter,,0,0,0,,Money is a means,
+Dialogue: 0,1:25:44.56,1:25:47.43,BottomCenter,,0,0,0,,and people should be accountable\Nfor how it's used.
+Dialogue: 0,1:25:47.52,1:25:52.47,BottomCenter,,0,0,0,,We need to celebrate the creative power\Nof human beings.
+Dialogue: 0,1:25:52.56,1:25:56.47,BottomCenter,,0,0,0,,And we need to talk of creative work,\Nwe must stop talking about labor.
+Dialogue: 0,1:25:56.56,1:26:01.10,BottomCenter,,0,0,0,,We need to look at the land\Nas not a commodity,
+Dialogue: 0,1:26:01.60,1:26:03.90,BottomCenter,,0,0,0,,to be speculated on and traded,
+Dialogue: 0,1:26:03.98,1:26:07.78,BottomCenter,,0,0,0,,but as the very basis of our life,\Nas Mother Earth.
+Dialogue: 0,1:26:07.86,1:26:11.07,BottomCenter,,0,0,0,,[Siegle] You change all consumers\Ninto activists,
+Dialogue: 0,1:26:11.17,1:26:13.21,BottomCenter,,0,0,0,,all consumers asking ethical questions,
+Dialogue: 0,1:26:13.28,1:26:16.63,BottomCenter,,0,0,0,,all consumers asking\Nquite simple questions about
+Dialogue: 0,1:26:16.71,1:26:18.34,BottomCenter,,0,0,0,,where their clothes are from,
+Dialogue: 0,1:26:18.42,1:26:22.43,BottomCenter,,0,0,0,,all consumers saying, "I'm sorry,\Nit's not acceptable for someone to die
+Dialogue: 0,1:26:22.51,1:26:24.10,BottomCenter,,0,0,0,,in the course of a working day."
+Dialogue: 0,1:26:24.18,1:26:27.56,BottomCenter,,0,0,0,,We can't just roll over and say,\N"Yes, have it. Do what you like."
+Dialogue: 0,1:26:27.64,1:26:30.06,BottomCenter,,0,0,0,,It's too important,\Nit's too significant an industry.
+Dialogue: 0,1:26:30.14,1:26:34.64,BottomCenter,,0,0,0,,It has too much impact and effect\Non millions of people worldwide
+Dialogue: 0,1:26:34.72,1:26:36.64,BottomCenter,,0,0,0,,and common resources.
+Dialogue: 0,1:26:42.64,1:26:44.98,BottomCenter,,0,0,0,,[narrator] Will we continue\Nto search for happiness
+Dialogue: 0,1:26:45.06,1:26:47.11,BottomCenter,,0,0,0,,in the consumption of things?
+Dialogue: 0,1:26:47.90,1:26:51.50,BottomCenter,,0,0,0,,Will we be satisfied with a system\Nthat makes us feel rich,
+Dialogue: 0,1:26:51.57,1:26:54.57,BottomCenter,,0,0,0,,while leaving our world\Nso desperately poor?
+Dialogue: 0,1:26:54.67,1:26:56.46,BottomCenter,,0,0,0,,Will we continue to turn a blind eye
+Dialogue: 0,1:26:56.53,1:26:58.96,BottomCenter,,0,0,0,,to the lives of those behind our clothes?
+Dialogue: 0,1:26:59.05,1:27:02.55,BottomCenter,,0,0,0,,Or will this be a turning point,\Na new chapter in our story,
+Dialogue: 0,1:27:02.63,1:27:05.97,BottomCenter,,0,0,0,,when together,\Nwe begin to make a real change,
+Dialogue: 0,1:27:06.05,1:27:11.06,BottomCenter,,0,0,0,,as we remember that everything we wear\Nwas touched by human hands?
+Dialogue: 0,1:27:11.64,1:27:14.60,BottomCenter,,0,0,0,,In the midst of all the challenges\Nfacing us today,
+Dialogue: 0,1:27:14.68,1:27:16.81,BottomCenter,,0,0,0,,for all the problems\Nthat feel bigger than us
+Dialogue: 0,1:27:16.89,1:27:18.72,BottomCenter,,0,0,0,,and beyond our control,
+Dialogue: 0,1:27:18.81,1:27:20.72,BottomCenter,,0,0,0,,maybe we could start here
+Dialogue: 0,1:27:20.81,1:27:22.43,BottomCenter,,0,0,0,,with clothing.

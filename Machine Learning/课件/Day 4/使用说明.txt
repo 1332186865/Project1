@@ -1,0 +1,38 @@
+源代码出处：https://www.cnblogs.com/wsine/p/5180778.html
+
+788points.txt——示例数据
+DBSCAN_Origin.py——原始代码
+DBSCAN_Modified_py39.py——修改后的代码，增加了将结果输出到文本的功能，仅测试了Python 3.9.5
+
+基本用法：
+1、安装Python
+只使用原始代码，请安装3.7（及以下）的Python 3，如果要使用修改后的代码，建议安装3.9（及以上）的Python 3
+如果从来没有安装过Python以及GIS类软件（如ArcGIS Desktop自带Python 2，ArcGIS Pro自带Python 3），并且不考虑学习Python的话，推荐安装官方版本
+如果有计划学习Python，推荐第三方发行版，比如Anaconda
+
+2、安装numpy和matplotlib模块
+
+第三方发行版不需要此步骤，通常会集成这些模块
+
+官方版本的安装方法是打开命令提示符（黑色窗口）
+输入
+pip install numpy
+按回车，等待安装结束
+输入
+pip install matplotlib
+按回车，等待安装结束
+
+3、将源代码和示例放在同一个目录下，双击源代码运行即可
+建议使用修改后的代码，结果会直接输出到文本，并增加_DBSCAN后缀以便区分
+
+进阶用法：
+1、我的数据名称不叫788points.txt怎么办？
+修改源代码中的这个部分
+dataSet = loadDataSet('788points.txt', splitChar=',')
+将788points.txt改为自己数据的文件名称，注意要包括后缀名（如.txt）
+
+2、我需要调整聚类参数怎么办？
+修改源代码中的这个部分
+clusters, clusterNum = dbscan(dataSet, 2, 15)
+这个命令的意思是eps=2，minPts=15
+即2是eps参数（控制聚类距离），15是最少点数参数（控制至少要几个点才能算聚类，否则当作噪声值）
