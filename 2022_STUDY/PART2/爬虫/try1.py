@@ -7,7 +7,7 @@ class Spider:
         self.name = name
         self.url_temp = "https://tieba.baidu.com/f?kw=" + name + "&ie=utf-8&pn={}"
         self.headers = {
-            "User-Agent": "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36"}
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36"}
 
     def get_url_list(self):  # 构造url列表
         # url_list = []
