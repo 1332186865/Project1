@@ -36,7 +36,7 @@ class Spider:
         print(title, url)
         response = requests.get(url, headers=self.headers)
         sleep(random.randint(1, 3))
-        file_path = f"./data/{title}.html"
+        file_path = f"orig_web_data/{title}.html"
         with open(file_path, "w", encoding="UTF-8") as f:
             f.write(response.content.decode())
 

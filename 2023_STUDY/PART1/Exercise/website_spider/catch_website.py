@@ -2,7 +2,7 @@
 #  -*- coding=utf-8 -*-
 from bs4 import BeautifulSoup
 
-data = BeautifulSoup(open('./data/Comoros.html', 'r', encoding='utf-8'), 'lxml')
+data = BeautifulSoup(open('orig_web_data/Comoros.html', 'r', encoding='utf-8'), 'lxml')
 web_data = []
 try:
     for item in data.find_all('li'):
@@ -20,9 +20,9 @@ finally:
         for item in web_data:
             f.write(item[0] + '|' + item[1] + '|' + item[2] + '\n')
 
-# print(data.find('li'), end='\n')
-# print(data.find('li').text, end='\n')
-# print(data.find('li').a, end='\n')
-# print(data.find('li').h3, end='\n')
-# print(data.find('li').h3.a, end='\n')
-# print(data.find('li').h3.a['href'], end='\n')
+# print(orig_web_data.find('li'), end='\n')
+# print(orig_web_data.find('li').text, end='\n')
+# print(orig_web_data.find('li').a, end='\n')
+# print(orig_web_data.find('li').h3, end='\n')
+# print(orig_web_data.find('li').h3.a, end='\n')
+# print(orig_web_data.find('li').h3.a['href'], end='\n')

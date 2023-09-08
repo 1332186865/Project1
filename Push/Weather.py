@@ -17,7 +17,7 @@ class Weather:
     def get_response(self):
         """请求数据"""
         headers = {
-                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"}
+                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36"}
         # 请求数据。使用 get 方法请求数据
         self.response = requests.get(self.url, headers=headers)
 
