@@ -31,9 +31,7 @@ class PushSchedule:
         self.is_examination = False  # 是否启用考试
 
     def week_check(self):
-        """周信息
-
-        """
+        """周信息"""
         week_num = self.tomorrow.isocalendar()[1] - self.start_time.isocalendar()[1] + 1
         week_day = self.tomorrow.isocalendar()[2]
         self.week_num = week_num
@@ -94,7 +92,11 @@ class PushSchedule:
         for course in self.schedule:
             temp += f"\n{course['courseName']}, {course['room']},{course['startTime']}-{course['endTime']}"
         if not temp:
-            temp += '\n明日复习'
+            if self.is_examination:
+                temp += '\n明日复习'
+            else:
+                temp += '\n明日无课'
+
         return temp
 
     def main(self):
