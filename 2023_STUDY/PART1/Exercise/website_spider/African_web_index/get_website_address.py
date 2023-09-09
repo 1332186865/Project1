@@ -2,18 +2,20 @@
 #  -*- coding=utf-8 -*-
 import os
 import random
-import re
 from time import sleep
 
 import requests
 from bs4 import BeautifulSoup
+
+from tsv_to_xlsx import TsvToXlsx
 
 
 class Spider:
     def __init__(self):
         self.headers = {
                 "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36"}
-        self.path = r'D:\Python\PycharmProjects\Project1\2023_STUDY\PART1\Exercise\website_spider'
+        self.path = r'./'
+        self.TsvToXlsx = TsvToXlsx(self.path + 'African_website/tsv', self.path + 'African_website/xlsx')
 
     @staticmethod
     def get_newspapers_indexes():
@@ -35,7 +37,7 @@ class Spider:
         """send request to get html and save it."""
         print(title, url)
         response = requests.get(url, headers=self.headers)
-        sleep(random.randint(1, 3))
+        sleep(random.randint(0, 2))
         file_path = f"orig_web_data/{title}.html"
         with open(file_path, "w", encoding="UTF-8") as f:
             f.write(response.content.decode())
@@ -45,7 +47,8 @@ class Spider:
             for line in f:
                 self.parse_url(*line.strip().split('\t'))
 
-    def list_dir(self, path):
+    @staticmethod
+    def list_dir(path):
         """
         Get all the files in a directory.
         """
@@ -55,7 +58,8 @@ class Spider:
                 temp.append([f, os.path.join(path, f)])
         return temp
 
-    def find_p(self, item):
+    @staticmethod
+    def find_p(item):
         """judge p is in the item or not."""
         if item.p:
             temp = item.p.text
@@ -67,9 +71,8 @@ class Spider:
         """
         Get all the African newspapers indexes.
         """
-        temp = self.list_dir(self.path + r'\data')
+        temp = self.list_dir(self.path + r'orig_web_data/')
         for title, path in temp:
-            web_data = []
             print("\033[1;37;40m正在操作:", title, path)
             data = BeautifulSoup(open(path, 'r', encoding='utf-8'), 'lxml')
             web_data = []
@@ -88,22 +91,23 @@ class Spider:
                     f.write('Title\tURL\tDescription\n')
                     for item in web_data:
                         temp = item[0] + '\t' + item[1] + '\t' + item[2] + '\n'
-                        re.sub(r'"', '', temp)
                         f.write(temp)
-                        re.sub(r'\n$', '', f.read())
 
     def main(self):
-        temp = int(input('请输入命令:'
-                         '\n1. 爬取非洲国家总索引\n2. 下载国家对应网页\n3. 爬取网站链接\n0. 退出程序\n'))
-        match temp:
-            case 1:
-                self.get_newspapers_indexes()
-            case 2:
-                self.get_newspapers_websites()
-            case 3:
-                self.save_newspapers_sites()
-            case 0:
-                raise SystemExit
+        while True:
+            temp = int(input('请输入命令:'
+                             '\n1. 爬取非洲国家总索引\n2. 下载国家对应网页\n3. 爬取网站链接\n4. TSV转XLSX\n0. 退出程序\n'))
+            match temp:
+                case 1:
+                    self.get_newspapers_indexes()
+                case 2:
+                    self.get_newspapers_websites()
+                case 3:
+                    self.save_newspapers_sites()
+                case 4:
+                    self.TsvToXlsx.tsv_to_xlsx()
+                case 0:
+                    raise SystemExit
 
 
 if __name__ == '__main__':

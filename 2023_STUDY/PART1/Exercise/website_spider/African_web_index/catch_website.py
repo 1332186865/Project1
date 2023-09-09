@@ -15,7 +15,7 @@ try:
 except AttributeError as e:
     print(e)
 finally:
-    with open('./African_website/Comoros.tsv', 'w', encoding='utf-8') as f:
+    with open('African_website/tsv/Comoros.tsv', 'w', encoding='utf-8') as f:
         f.write('Title|URL|Description\n')
         for item in web_data:
             f.write(item[0] + '|' + item[1] + '|' + item[2] + '\n')
