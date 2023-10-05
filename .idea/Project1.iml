@@ -6,6 +6,11 @@
   <component name="NewModuleRootManager">
     <content url="file://$MODULE_DIR$">
       <sourceFolder url="file://$MODULE_DIR$" isTestSource="false" />
+      <excludeFolder url="file://$MODULE_DIR$/Machine Learning/课件/Day 3/.ipynb_checkpoints" />
+      <excludeFolder url="file://$MODULE_DIR$/Machine Learning/课件/Day 7/.ipynb_checkpoints" />
+      <excludeFolder url="file://$MODULE_DIR$/Push/schedule/.ipynb_checkpoints" />
+      <excludeFolder url="file://$MODULE_DIR$/code/.ipynb_checkpoints" />
+      <excludeFolder url="file://$MODULE_DIR$/jupyter/爬虫基础/.ipynb_checkpoints" />
       <excludeFolder url="file://$MODULE_DIR$/sishi" />
     </content>
     <orderEntry type="jdk" jdkName="Python 3.10 (pytorch)" jdkType="Python SDK" />
