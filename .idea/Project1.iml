@@ -12,6 +12,7 @@
       <excludeFolder url="file://$MODULE_DIR$/code/.ipynb_checkpoints" />
       <excludeFolder url="file://$MODULE_DIR$/jupyter/爬虫基础/.ipynb_checkpoints" />
       <excludeFolder url="file://$MODULE_DIR$/sishi" />
+      <excludeFolder url="file://$MODULE_DIR$/2023_STUDY/PART1/Exercise/website_spider/Google_Spider/google_website" />
     </content>
     <orderEntry type="jdk" jdkName="Python 3.10 (pytorch)" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />

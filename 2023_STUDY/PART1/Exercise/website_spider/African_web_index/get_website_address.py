@@ -2,9 +2,11 @@
 #  -*- coding=utf-8 -*-
 import os
 import random
+import re
 from time import sleep
 
 import requests
+import unicodedata
 from bs4 import BeautifulSoup
 
 from tsv_to_xlsx import TsvToXlsx
@@ -33,8 +35,13 @@ class Spider:
                     f.write(item[0] + '\t' + item[1] + '\n')
             raise SystemExit
 
-    def parse_url(self, title, url):
-        """send request to get html and save it."""
+    def parse_url(self, title: str, url: str) -> None:
+        """send request to get html and save it.
+
+        Args:
+            title: 标题
+            url: 链接
+        """
         print(title, url)
         response = requests.get(url, headers=self.headers)
         sleep(random.randint(0, 2))
@@ -67,6 +74,23 @@ class Spider:
             temp = ''
         return temp
 
+    @staticmethod
+    def remove_garbled_characters(text):
+        """Remove garbled characters."""
+        text = re.sub(r"&amp;nbsp;×&amp;nbsp;", " x ", text)
+        text = re.sub(r"&nbsp;", " ", text)
+        # text = re.sub(r'<sup.*?</sup>', " ", text)
+        text = re.sub(r'=E2=88=92 1', "-1", text)
+        text = re.sub(r'=E2=80=99', "'", text)
+        text = re.sub(r'=E2=80=93', "-", text)
+        text = re.sub(r'=C3=A1', "a", text)
+        text = re.sub(r'=..=..=..', "", text)
+        text = re.sub(r'=..=..', "", text)
+        text = re.sub(r'=\n', "", text)
+        pattern = re.compile(r'[^\x00-\x7F]+')  # 定义正则表达式，用于匹配乱码字符
+        result = re.sub(pattern, ' ', text, re.S)  # 使用空字符串替换乱码字符
+        return result
+
     def save_newspapers_sites(self):
         """
         Get all the African newspapers indexes.
@@ -74,23 +98,30 @@ class Spider:
         temp = self.list_dir(self.path + r'orig_web_data/')
         for title, path in temp:
             print("\033[1;37;40m正在操作:", title, path)
-            data = BeautifulSoup(open(path, 'r', encoding='utf-8'), 'lxml')
+            file = open(path, 'r', encoding='utf-8').read()
+            file = unicodedata.normalize('NFKD', file)
+            file = self.remove_garbled_characters(file)
+            data = BeautifulSoup(file, 'lxml')
             web_data = []
             try:
-                for item in data.find_all('li'):
+                aa = data.find_all('li')
+                for item in aa:
                     if item.find('h3'):
-                        web_data.append([item.h3.a.text, item.h3.a['href'], self.find_p(item)])
+                        if item.h3.a:
+                            web_data.append([item.h3.a.text, item.h3.a['href'], self.find_p(item)])
                     elif item.find('h4'):
-                        web_data.append([item.h4.a.text, item.h4.a['href'], self.find_p(item)])
+                        if item.h4.a:
+                            web_data.append([item.h4.a.text, item.h4.a['href'], self.find_p(item)])
 
             except AttributeError as e:
                 print("\033[1;31;40mError:", e)
             finally:
                 title = title[:-5]
                 with open(f'./African_website/tsv/{title}.tsv', 'w+', encoding='utf-8') as f:
-                    f.write('Title\tURL\tDescription\n')
+                    # f.write('Title\tURL\tDescription\n')
                     for item in web_data:
-                        temp = item[0] + '\t' + item[1] + '\t' + item[2] + '\n'
+                        temp = item[0] + '\t' + item[1] + '\n'
+                        # temp = item[0] + '\t' + item[1] + '\t' + item[2] + '\n'
                         f.write(temp)
 
     def main(self):
