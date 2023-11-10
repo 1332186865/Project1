@@ -13,6 +13,14 @@
       <excludeFolder url="file://$MODULE_DIR$/jupyter/爬虫基础/.ipynb_checkpoints" />
       <excludeFolder url="file://$MODULE_DIR$/sishi" />
       <excludeFolder url="file://$MODULE_DIR$/2023_STUDY/PART1/Exercise/website_spider/Google_Spider/google_website" />
+      <excludeFolder url="file://$MODULE_DIR$/2023_STUDY/PART1/Exercise/ScienceDirect_Spider/Agricultural Water Management" />
+      <excludeFolder url="file://$MODULE_DIR$/2023_STUDY/PART1/Exercise/ScienceDirect_Spider/Agricultural Water Management_R" />
+      <excludeFolder url="file://$MODULE_DIR$/2023_STUDY/PART1/Exercise/ScienceDirect_Spider/Agricultural and Forest Meteorology" />
+      <excludeFolder url="file://$MODULE_DIR$/2023_STUDY/PART1/Exercise/ScienceDirect_Spider/Agricultural and Forest Meteorology_R" />
+      <excludeFolder url="file://$MODULE_DIR$/2023_STUDY/PART1/Exercise/ScienceDirect_Spider/Postharvest Biology and Technology" />
+      <excludeFolder url="file://$MODULE_DIR$/2023_STUDY/PART1/Exercise/ScienceDirect_Spider/Postharvest Biology and Technology_R" />
+      <excludeFolder url="file://$MODULE_DIR$/2023_STUDY/PART1/Exercise/ScienceDirect_Spider/The Crop Journal" />
+      <excludeFolder url="file://$MODULE_DIR$/2023_STUDY/PART1/Exercise/ScienceDirect_Spider/The Crop Journal_R" />
     </content>
     <orderEntry type="jdk" jdkName="Python 3.10 (pytorch)" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />

@@ -74,7 +74,8 @@ class Downloader:
             self.logger.info(f"Deleted: {country_file}")
             sleep(random.randint(5, 10))
 
-    def search_url_gene(self, country_url):
+    @staticmethod
+    def search_url_gene(country_url):
         search_content = (f'"zheng he" site:{country_url} -site:books.google.* -site:translate.google.com '
                           f'-site:www.google.* '
                           '-site:www.googleadservices.*')
@@ -82,7 +83,6 @@ class Downloader:
 
     @staticmethod
     def remove_garbled_characters(text):
-        pattern = re.compile(r'[^\x00-\x7F]+')  # 定义正则表达式，用于匹配乱码字符
         text = re.sub(" ", "", text)
         text = re.sub("/", "", text)
         text = re.sub(":", "_", text)
