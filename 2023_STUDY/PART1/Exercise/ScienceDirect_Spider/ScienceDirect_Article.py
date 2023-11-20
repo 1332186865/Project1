@@ -26,7 +26,7 @@ class Finder:
         else:
             self.data_folder = "./Agricultural and Forest Meteorology"  # 1 修改
             self.result_folder = "./Agricultural and Forest Meteorology_R"
-            self.code = 'F'  # 2 修改
+            self.code = 'A'  # 2 修改
 
     @staticmethod
     def remove_garbled_characters(text):
@@ -84,13 +84,13 @@ class Finder:
                 self.art_path = f"{self.code}{current_year}-{html_file[:-6]}"
 
                 try:
-                    # intro = data.find('section', id='3D"s0005"')  # 3 需要修改Introduction的标签 顾
+                    intro = data.find('section', id='3D"s0005"')  # 3 需要修改Introduction的标签 顾
 
-                    intro = data.find('section', id='3D"sec0001"')  # 需要修改Introduction的标签 东阳1
-                    if intro is None:
-                        intro = data.find('section', id='3D"sec1"')  # 需要修改Introduction的标签 东阳2
-                    if intro is None:
-                        intro = data.find('section', id='3D"sec0002"')  # 需要修改Introduction的标签 东阳3
+                    # intro = data.find('section', id='3D"sec0001"')  # 需要修改Introduction的标签 东阳1
+                    # if intro is None:
+                    #     intro = data.find('section', id='3D"sec1"')  # 需要修改Introduction的标签 东阳2
+                    # if intro is None:
+                    #     intro = data.find('section', id='3D"sec0002"')  # 需要修改Introduction的标签 东阳3
 
                     # intro = data.find('section', id='3D"sec0005"')  # 需要修改Introduction的标签 垚丹 李言兮
                     self.web_data += "Introduction" + "\n"
