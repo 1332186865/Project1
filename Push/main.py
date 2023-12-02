@@ -21,9 +21,13 @@ class Push:
     def main(self):
         """主函数"""
         self.judge()
-        self.content += Weather().main()
-        self.content += PushSchedule(self.data_temp).main()
-        PushQQ(self.is_test, self.content).send()
+        try:
+            self.content += Weather().main()
+            self.content += PushSchedule(self.data_temp).main()
+        except Exception:
+            self.content = "Oops, something went wrong. @梨堂落雨"
+        finally:
+            PushQQ(self.is_test, self.content).send()
 
 
 if __name__ == '__main__':

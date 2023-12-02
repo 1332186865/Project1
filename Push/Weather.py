@@ -27,7 +27,7 @@ class Weather:
         Returns:
                 list: 包含天气情况字典的列表
         """
-        soup = BeautifulSoup(self.response.text, "html.parser")  # 由于是通过 html 格式存储的，所以用 “html.parser” 进行解析
+        soup = BeautifulSoup(self.response.text, "lxml")  # 由于是通过 html 格式存储的，所以用 “html.parser” 进行解析
         data_table = soup.find('ul', class_="t clearfix").find_all("li")  # 找到包裹表内容的 ul 标签，找到里面所有的 li 标签
         weather_list = []  # 构造空列表以存储数据
         for li in data_table[1:2]:  # 循环获取每行的数据（li 标签）
