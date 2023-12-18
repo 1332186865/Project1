@@ -6,8 +6,8 @@ import re
 
 class DelBracket:
     def __init__(self):
-        self.orig_folder = "./data/B-Corpus"
-        self.dest_folder = "./data/B-Corpus-del"
+        self.orig_folder = "./data/A-Corpus"
+        self.dest_folder = "./data/A-Corpus-del"
 
     def run(self):
         files = [f for f in os.listdir(self.orig_folder) if f.endswith('.txt')]

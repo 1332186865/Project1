@@ -15,8 +15,8 @@ class Finder:
 
     def is_owner(self):
         if self.owner:
-            self.data_folder = "./data_title"
-            self.result_folder = "./result_title"
+            self.data_folder = "./data"
+            self.result_folder = "./result"
         else:
             self.data_folder = "./data_title_lyx"  # 1 修改
             self.result_folder = "./result_title_lyx"
