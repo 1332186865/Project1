@@ -8,7 +8,7 @@ import pysentiment2 as ps
 
 class Sentiment:
     def __init__(self):
-        self.data_folder = "./data"
+        self.data_folder = "./Zheng He"
         self.result_file = "result.tsv"
         self.all_data = []
         self.logger = self.log()
@@ -34,7 +34,7 @@ class Sentiment:
 
         for item in temp:
             title = item.split('.')[0]
-            with open("./data/" + item, 'r', encoding='utf-8') as f:
+            with open(f"{self.data_folder}\\{item}", 'r', encoding='utf-8') as f:
                 self.logger.info(f"Working: {item}")
                 data = f.read()
                 tokens = hiv4.tokenize(data)

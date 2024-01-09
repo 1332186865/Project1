@@ -28,7 +28,7 @@ class PushSchedule:
         self.schedule = []
         self.type = 0  # 单双周
 
-        self.is_examination = False  # 是否启用考试
+        self.is_examination = True  # 是否启用考试
 
     def week_check(self):
         """周信息"""
@@ -90,10 +90,12 @@ class PushSchedule:
         """
         temp = ''
         for course in self.schedule:
-            temp += f"\n{course['courseName']}, {course['room']},{course['startTime']}-{course['endTime']}"
+            # temp += (f"\n{course['courseName']}, {course['room']},{course['teacher']},{course['startTime']}"
+            #          f"-{course['endTime']}")
+            temp += f"\n{course['courseName']}, {course['room']},{course['teacher']}"
         if not temp:
             if self.is_examination:
-                temp += '\n明日复习'
+                temp += '\n新年快乐！'
             else:
                 temp += '\n明日无课'
 

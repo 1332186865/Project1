@@ -12,7 +12,6 @@ import requests
 class Downloader:
     def __init__(self):
         self.orig_folder = "../African_web_index/African_website/tsv"
-        self.dest_folder = "./google_website"
         self.headers = {
                 "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
                 "Accept-Encoding": "gzip, deflate, br",
