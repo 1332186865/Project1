@@ -77,7 +77,7 @@ class Downloader:
     def search_url_gene(country_url):
         search_content = (f'"zheng he" site:{country_url} -site:books.google.* -site:translate.google.com '
                           f'-site:www.google.* '
-                          '-site:www.googleadservices.*')
+                          '-site:www.googleadservices.*')  # 搜索词
         return f"https://www.google.com/search?q={search_content}&safe=off&num=100"
 
     @staticmethod
@@ -117,7 +117,6 @@ class Downloader:
                     f.write(response.content)
                 sleep(random.randint(10, 90))
                 break
-
             else:
                 self.logger.warning(f"Return Code: {response.status_code}")
                 self.logger.warning(f"Need to deal with challenge!")

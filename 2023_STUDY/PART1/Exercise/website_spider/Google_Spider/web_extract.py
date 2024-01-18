@@ -11,9 +11,8 @@ class Finder:
         self.result_folder = "./web_address"
         self.web_data = []
         self.web_path = ''
-        # self.result_file = "result.tsv"
-        self.result_file = "result.txt"
-        self.wrong_article = []
+        self.result_file_tsv = "result.tsv"
+        self.result_file_txt = "result.txt"
         self.country_data = {}
 
     @staticmethod
@@ -22,13 +21,17 @@ class Finder:
             f.write(text)
 
     def save(self, item):
-        with open(f'{self.result_folder}/{self.result_file}', 'a', encoding='utf-8') as f:
-            # f.write(item[0] + '\t' + item[1] + '\t' + item[2] + '\t' + item[3] + '\n')
-            f.write(item[0] + '\n')
+        with open(f'{self.result_folder}/{self.result_file_txt}', 'a', encoding='utf-8') as f:
+            f.write(item[4] + '\n')
+        with open(f'{self.result_folder}/{self.result_file_tsv}', 'a', encoding='utf-8') as f:
+            f.write(item[0] + '\t' + item[1] + '\t' + item[2] + '\t' + item[3] + '\n')
 
     def method(self):
-        if os.path.exists(f"{self.result_folder}/{self.result_file}"):
-            os.remove(f"{self.result_folder}/{self.result_file}")
+        if os.path.exists(f"{self.result_folder}/{self.result_file_tsv}"):
+            os.remove(f"{self.result_folder}/{self.result_file_tsv}")
+        if os.path.exists(f"{self.result_folder}/{self.result_file_txt}"):
+            os.remove(f"{self.result_folder}/{self.result_file_txt}")
+
         html_files = [f for f in os.listdir(self.data_folder) if f.endswith('.html')]
         for html_file in html_files:
             temp = html_file[:-5].split("-")
@@ -48,8 +51,7 @@ class Finder:
                         if temp is not None:
                             title = temp.span.a.h3.text
                             address = temp.span.a['href']
-                            # self.save([country, media, title, address])
-                            self.save([address])
+                            self.save([country, media, title, address])
                 print("Done: ", self.web_path)
         print(self.country_data)
 
