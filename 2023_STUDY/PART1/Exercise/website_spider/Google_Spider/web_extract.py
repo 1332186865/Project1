@@ -22,7 +22,7 @@ class Finder:
 
     def save(self, item):
         with open(f'{self.result_folder}/{self.result_file_txt}', 'a', encoding='utf-8') as f:
-            f.write(item[4] + '\n')
+            f.write(item[3] + '\n')
         with open(f'{self.result_folder}/{self.result_file_tsv}', 'a', encoding='utf-8') as f:
             f.write(item[0] + '\t' + item[1] + '\t' + item[2] + '\t' + item[3] + '\n')
 

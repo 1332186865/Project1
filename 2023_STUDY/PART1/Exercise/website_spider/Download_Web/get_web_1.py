@@ -12,23 +12,27 @@ class Spider:
 
     def __init__(self):
         self.headers = {
-                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) "
-                              "Chrome/115.0.0.0 Safari/537.36",
+                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36",
                 "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,"
                           "*/*;q=0.8,application/signed-exchange",
-                "Cookie": "MDPsid=04dfc73e275610036c77b77fcc934448; tracker=D1; _pk_id.2.edea=6473897ec5fba63f.1694938901.; _pk_ses.2.edea=1; STICKY=s217",
+                "Cookie": "htcatalog=125.208660ac2c76d6e05.48523881; MDPsid=3de5186f8353b457c41a61bd6738c3da; tracker=D1; STICKY=s148",
                 "Host": "babel.hathitrust.org",
                 "Connection": "close"}
         self.url_list = []
         self.logger = self.log()
+        self.start = 142
+        self.end = 277
+        self.id = 'hvd.32044098609076'
+        self.url = (f'https://babel.hathitrust.org/cgi/imgsrv/download/pdf?id={self.id}&attachment=1&tracker'
+                    f'=D1&seq=')
 
     def parse_url(self, title, url):
         """send request to get html and save it."""
         while True:
             self.logger.info(f"{title}, {url}")
             response = requests.get(url, headers=self.headers)
-            sleep(random.randint(2, 10))
-            file_path = f"web_data/{title}.pdf"
+            sleep(random.randint(2, 7))
+            file_path = f"web_data/{int(title):0>3d}.pdf"
             if response.status_code == 200:
                 self.logger.info(f"{title} is downloaded.")
                 with open(file_path, "wb") as f:
@@ -36,21 +40,15 @@ class Spider:
                 break
 
             else:
-                self.logger.warning(f"Return Code: {response.status_code}")
-                self.logger.warning(response.text)
-                time.sleep(random.randint(320, 430))
+                sec = random.randint(310, 360)
+                self.logger.warning(f"Return Code: {response.status_code}, Waiting {sec} seconds...")
+                # self.logger.warning(response.text)
+                time.sleep(sec)
 
     def get_url_list(self):
         """get url list from file."""
-        # with open("url_list.txt", "r", encoding="UTF-8") as f:
-        #     for line in f.readlines():
-        #         self.url_list.append(line.strip())
-
-        # self.url_list = ["1 https://babel.hathitrust.org/cgi/imgsrv/download/pdf?id=mdp.39015076618118&attachment=1"
-        #                  "&tracker=D1&seq=1"]
-
-        for i in range(630, 550, -1):
-            self.url_list.append(f"{i} https://babel.hathitrust.org/cgi/imgsrv/download/pdf?id=mdp.39015076618118&attachment=1&tracker=D1&seq={i}")
+        for i in range(self.start, self.end, 1):
+            self.url_list.append(f"{i} {self.url}{i}")
 
     def log(self):
         """log"""

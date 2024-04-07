@@ -10,6 +10,13 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="\2023_STUDY\PART1\Exercise\0.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="\Machine Learning\课件\Day 1\examples\csv_mindex.csv">
           <value>
             <Attribute>

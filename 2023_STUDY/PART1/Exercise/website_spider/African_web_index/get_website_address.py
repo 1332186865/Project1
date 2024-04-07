@@ -157,17 +157,27 @@ class Spider:
         while True:
             temp = int(input('请输入命令:'
                              '\n1. 爬取非洲国家总索引\n2. 下载国家对应网页\n3. 爬取网站链接\n4. TSV转XLSX\n0. 退出程序\n'))
-            match temp:
-                case 1:
-                    self.get_newspapers_indexes()
-                case 2:
-                    self.get_newspapers_websites()
-                case 3:
-                    self.save_newspapers_sites()
-                case 4:
-                    self.TsvToXlsx.tsv_to_xlsx()
-                case 0:
-                    raise SystemExit
+            # match temp:
+            #     case 1:
+            #         self.get_newspapers_indexes()
+            #     case 2:
+            #         self.get_newspapers_websites()
+            #     case 3:
+            #         self.save_newspapers_sites()
+            #     case 4:
+            #         self.TsvToXlsx.tsv_to_xlsx()
+            #     case 0:
+            #         raise SystemExit
+            if temp == 1:
+                self.get_newspapers_indexes()
+            if temp == 2:
+                self.get_newspapers_websites()
+            if temp == 3:
+                self.save_newspapers_sites()
+            if temp == 4:
+                self.TsvToXlsx.tsv_to_xlsx()
+            if temp == 0:
+                raise SystemExit
 
 
 if __name__ == '__main__':

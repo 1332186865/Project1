@@ -86,6 +86,7 @@ class Downloader:
         text = re.sub("/", "", text)
         text = re.sub(":", "_", text)
         result = re.sub("-", "_", text)
+        result = re.sub(" \| ", "_", text)
         return result
 
     @staticmethod
