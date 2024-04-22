@@ -178,6 +178,20 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="\jupyter\Pandas\data\data_USstates\state-abbrevs.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\jupyter\Pandas\data\data_USstates\state-population.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="\jupyter\Python基础\women_labor.csv">
           <value>
             <Attribute>

@@ -28,6 +28,8 @@
       <excludeFolder url="file://$MODULE_DIR$/2023_STUDY/PART1/Exercise/ScienceDirect_Spider/Agricultural and Forest Meteorology_RB" />
       <excludeFolder url="file://$MODULE_DIR$/2023_STUDY/PART1/Exercise/ScienceDirect_Spider/Postharvest Biology and Technology_RB" />
       <excludeFolder url="file://$MODULE_DIR$/2023_STUDY/PART1/Exercise/ScienceDirect_Spider/The Crop Journal_RB" />
+      <excludeFolder url="file://$MODULE_DIR$/2023_STUDY/PART1/Exercise/Sentiment/Zheng He" />
+      <excludeFolder url="file://$MODULE_DIR$/2023_STUDY/PART2/emotion/Zheng He" />
     </content>
     <orderEntry type="jdk" jdkName="Python 3.10 (pytorch)" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
