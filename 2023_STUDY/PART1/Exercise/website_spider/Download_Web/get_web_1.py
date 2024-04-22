@@ -20,9 +20,9 @@ class Spider:
                 "Connection": "close"}
         self.url_list = []
         self.logger = self.log()
-        self.start = 142
-        self.end = 277
-        self.id = 'hvd.32044098609076'
+        self.start = 890
+        self.end = 901
+        self.id = 'pst.000067504923'
         self.url = (f'https://babel.hathitrust.org/cgi/imgsrv/download/pdf?id={self.id}&attachment=1&tracker'
                     f'=D1&seq=')
 
@@ -31,8 +31,8 @@ class Spider:
         while True:
             self.logger.info(f"{title}, {url}")
             response = requests.get(url, headers=self.headers)
-            sleep(random.randint(2, 7))
-            file_path = f"web_data/{int(title):0>3d}.pdf"
+            sleep(random.randint(1, 5))
+            file_path = f"web_data/{int(title):0>4d}.pdf"
             if response.status_code == 200:
                 self.logger.info(f"{title} is downloaded.")
                 with open(file_path, "wb") as f:
@@ -40,7 +40,7 @@ class Spider:
                 break
 
             else:
-                sec = random.randint(310, 360)
+                sec = random.randint(250, 360)
                 self.logger.warning(f"Return Code: {response.status_code}, Waiting {sec} seconds...")
                 # self.logger.warning(response.text)
                 time.sleep(sec)
