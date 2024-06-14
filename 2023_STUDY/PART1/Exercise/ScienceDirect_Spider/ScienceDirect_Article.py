@@ -12,7 +12,7 @@ class Finder:
         self.data_folder = ""
         self.result_folder = ""
         self.result_folder_rm = ""
-        self.result_file = "result.tsv"
+        self.result_file = "zheng he.tsv"
         self.all_data = []
         self.web_data = ''
         self.art_path = ''

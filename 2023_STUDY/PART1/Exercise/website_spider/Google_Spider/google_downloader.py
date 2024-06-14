@@ -11,6 +11,7 @@ import requests
 
 class Downloader:
     def __init__(self):
+        # self.orig_folder = "../African_web_index/African_website/tsv"
         self.orig_folder = "../African_web_index/African_website/tsv"
         self.headers = {
                 "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
@@ -44,7 +45,7 @@ class Downloader:
 
     def get_cookie(self):
         """get new cookie"""
-        with open("./cookie.txt", "r", encoding='utf-8') as file:
+        with open("../../../../../2024_STUDY/PART1/Web_collection/cookie.txt", "r", encoding='utf-8') as file:
             data = file.read().strip()
             self.headers['Cookie'] = data
 

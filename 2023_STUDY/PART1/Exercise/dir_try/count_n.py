@@ -7,7 +7,7 @@ import re
 class Finder:
     def __init__(self):
         self.data_folder = "./data"
-        self.result_file = "result.tsv"
+        self.result_file = "zheng he.tsv"
         self.all_data = []
 
     def main(self):

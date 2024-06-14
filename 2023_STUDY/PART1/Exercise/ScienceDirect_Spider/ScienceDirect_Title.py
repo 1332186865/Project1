@@ -10,7 +10,7 @@ class Finder:
     def __init__(self):
         self.data_folder = ""
         self.result_folder = ""
-        self.result_file = "result.tsv"
+        self.result_file = "zheng he.tsv"
         self.owner = True  # 0 修改
 
     def is_owner(self):

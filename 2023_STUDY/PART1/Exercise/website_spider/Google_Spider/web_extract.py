@@ -11,7 +11,7 @@ class Finder:
         self.result_folder = "./web_address"
         self.web_data = []
         self.web_path = ''
-        self.result_file_tsv = "result.tsv"
+        self.result_file_tsv = "zheng he.tsv"
         self.result_file_txt = "result.txt"
         self.country_data = {}
 
