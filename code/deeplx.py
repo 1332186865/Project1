@@ -7,19 +7,14 @@ import requests
 
 # DeepLX接口列表
 deepl_urls = [
-        "http://82.157.137.187:1188/translate", "http://101.43.76.234:1188/translate",
-        "http://123.60.157.70:8085/translate", "http://175.178.237.179:1188/translate",
-        "http://117.50.183.46:1188/translate", "http://209.141.49.210:1188/translate",
+        "http://82.157.137.187:1188/translate", "http://123.60.157.70:8085/translate",
+        "http://175.178.237.179:1188/translate", "http://117.50.183.46:1188/translate",
+        "http://101.43.76.234:1188/translate", "http://104.234.60.178:1188/translate",
         "http://107.175.28.239:1188/translate", "http://148.135.107.108:1188/translate",
-        "http://104.234.60.178:1188/translate", "http://129.153.73.237:1188/translate",
-        "http://132.145.80.159:1188/translate", "http://37.123.196.26:1188/translate",
-        "http://168.138.34.126:1188/translate", "https://deeplx.keyrotate.com/translate",
-        "http://194.87.252.161:1188/translate", "https://deepl.zhaosaipo.com/translate",
-        "http://207.148.127.142:1188/translate", "https://deeplx.keyrotate.com/translate",
-        "https://deepl.zhaosaipo.com/translate", "http://152.67.211.94:1188/translate",
-        "https://api.deeplx.org/translate", "http://211.227.72.101:1188/translate",
-        "https://free-deepl.speedcow.top/translate",
-        "https://api.deeplx.org/GEFOIdAQNHPoDGo8se8f6JSPxxDpLveExrACJgMibZ8/translate"
+        "http://211.227.72.101:1188/translate", "http://194.87.252.161:1188/translate",
+        "http://132.145.80.159:1188/translate",
+        "https://api.deeplx.org/GEFOIdAQNHPoDGo8se8f6JSPxxDpLveExrACJgMibZ8/translate",
+        "https://api.deeplx.org/translate"
         ]
 
 # 测试请求参数
