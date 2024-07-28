@@ -2,7 +2,7 @@
 #  -*- coding=utf-8 -*-
 import pymysql
 
-db = pymysql.connect(host="39.99.32.138", user="admin", password="Sxxzgyb3",
+db = pymysql.connect(host="39.99.32.138", user="", password="",
                      database='project1', charset='utf8')
 cursor = db.cursor()
 cursor.execute("select * from project1.city;")

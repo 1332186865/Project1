@@ -2,8 +2,8 @@
 #  -*- coding=utf-8 -*-
 from sql_class import MysqlPython
 
-sqlh = MysqlPython(host="39.99.32.138", user="admin", port=3306,
-                   passwd="Sxxzgyb3", db='project1', charset='utf8')
+sqlh = MysqlPython(host="39.99.32.138", user="", port=3306,
+                   passwd="", db='project1', charset='utf8')
 
 sqlh.run("select * from project1.city;")
 sqlh.display()
