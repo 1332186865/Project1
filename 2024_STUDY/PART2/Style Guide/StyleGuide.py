@@ -25,11 +25,11 @@ class StyleGuide:
         for item in re.finditer(pattern, self.data):
             # 替换中文和英文/数字之间没有空格的情况
             orig = item.group(1)
-            text = re.sub(r'([\u4e00-\u9fa5])([A-Za-z0-9])', r'\1 \2', orig)
-            text = re.sub(r'([A-Za-z0-9])([\u4e00-\u9fa5])', r'\1 \2', text)
+            text = re.sub(r'([\u4e00-\u9fa5])([A-Za-z0-9®])', r'\1 \2', orig)
+            text = re.sub(r'([A-Za-z0-9®])([\u4e00-\u9fa5])', r'\1 \2', text)
             # 替换中文和英文/数字之间多个空格的情况
-            text = re.sub(r'([\u4e00-\u9fa5])\s+([A-Za-z0-9])', r'\1 \2', text)
-            text = re.sub(r'([A-Za-z0-9])\s+([\u4e00-\u9fa5])', r'\1 \2', text)
+            text = re.sub(r'([\u4e00-\u9fa5])\s+([A-Za-z0-9®])', r'\1 \2', text)
+            text = re.sub(r'([A-Za-z0-9®])\s+([\u4e00-\u9fa5])', r'\1 \2', text)
             # 删去中文标点符号两段的空格
             text = re.sub(r'(\s+)([，。！？：；“”（）《》、])', r'\2', text)
             data = re.sub(r'([，。！？：；“”（）《》、])(\s+)', r'\1', text)
@@ -40,7 +40,7 @@ class StyleGuide:
     def correct_brackets(self):
         """处理中文译文中不规范的括号"""
         brackets_pattern = r'(\(.*?\))|（.*?）'
-        english_pattern = re.compile(r'^[A-Za-z0-9\s]+$')
+        english_pattern = re.compile(r'^[A-Za-z0-9®\s]+$')
         chinese_pattern = re.compile(r'[\u4e00-\u9fa5\s]+')
 
         matches = re.finditer(brackets_pattern, self.data)
@@ -59,20 +59,23 @@ class StyleGuide:
             self.data = re.sub(r'(\s+)([，。！？：；“”（）《》、])', r'\2', self.data)
             self.data = re.sub(r'([，。！？：；“”（）《》、])(\s+)', r'\1', self.data)
 
-    def main(self):
-        action = input("输入数字选择操作：\n1.空格处理\n2.括号处理\n3.全部处理\n")
+    def action(self, action):
         if action == "1":
             self.correct_space()
-            self.save_file()
         elif action == "2":
             self.correct_brackets()
-            self.save_file()
         elif action == "3":
             self.correct_space()
             self.correct_brackets()
-            self.save_file()
         else:
             raise SystemExit
+
+    def main(self):
+        """主函数"""
+        action = input("输入数字选择操作：\n1.空格处理\n2.括号处理\n3.全部处理\n")
+        self.action(action)
+        self.save_file()
+        print("Done!")
 
 
 if __name__ == '__main__':
