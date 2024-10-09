@@ -7,13 +7,16 @@ class StyleGuide:
         self.original_dir = file_dir_1
         self.final_dir = file_dir_2
         self._data = None
-        self.brackets_pattern = re.compile(r"""(\([^（）]*?\))   #()
-                                                |(（[^()]*?）)    #（）
-                                                |(\([^（）]*?）)  #(）
-                                                |(（[^()]*?\))   #（)
+        self.brackets_pattern = re.compile(r"""(\(.*?\))   #()
+                                                |(（.*?）)    #（）
+                                                |(\(.*?）)  #(）
+                                                |(（.*?\))   #（)
                                             """, re.S | re.M | re.X)
-        self.english_pattern = re.compile(r"^[A-Za-z0-9®\u00C0-\u00FF\u0100-\u02AF\-\s]+$", re.S | re.M)
+        self.english_pattern = re.compile(r"^[^\u4E00-\u9FA5]+$", re.S | re.M)
         self.chinese_pattern = re.compile(r"[\u4E00-\u9FA5]+", re.S | re.M)
+        self.english = "[\u0021-\u0025\u002E-\u003A\u003F-\u007E\u00A1-\u02AF='*,]"
+        self.chinese = "[\u4E00-\u9FA5]"
+        self.Chinese_punctuation = "[，。！？：；“”（）《》、]"
         self._load_file()
 
     def _load_file(self):
@@ -59,22 +62,23 @@ class StyleGuide:
             if not re.match(r"<[^>]+>", part):  # 删去<tag>之间的空格
                 if part.strip(r" ") == "":
                     continue
-                part = re.sub(r"([\u4E00-\u9FA5])([A-Za-z0-9\u00C0-\u00FF\u0100-\u02AF®-])", r"\1 \2",
-                              part)
-                part = re.sub(r"([A-Za-z0-9\u00C0-\u00FF\u0100-\u02AF®-])([\u4E00-\u9FA5])", r"\1 \2",
-                              part)
+                part = re.sub(rf"({self.chinese})({self.english})", r"\1 \2",
+                              part, 0, re.M)
+                part = re.sub(rf"({self.english})({self.chinese})", r"\1 \2",
+                              part, 0, re.M)
             processed_parts.append(part)
 
         text = ''.join(processed_parts)
         # 将空格统一加在字母/数字前
-        text = re.sub(r"([\u4E00-\u9FA5])(<.*?>)([A-Za-z0-9\u00C0-\u00FF\u0100-\u02AF®-])", r"\1\2 \3",
-                      text, re.S | re.M)
-        text = re.sub(r"([A-Za-z0-9\u00C0-\u00FF\u0100-\u02AF®-])(<.*?>)([\u4E00-\u9FA5])", r"\1 \2\3",
-                      text, re.S | re.M)
+        text = re.sub(rf"([\u4E00-\u9FA5])(<.*?>)({self.english}|\()", r"\1\2 \3",
+                      text, 0, re.M)
+        text = re.sub(rf"({self.english}|\))(<.*?>)([\u4E00-\u9FA5])", r"\1 \2\3",
+                      text, 0, re.M)
         # 处理<tag>前后都是字母/数字的情况
-        target_content = re.sub(
-                r"([A-Za-z0-9\u00C0-\u00FF\u0100-\u02AF®-])(<.*?>)([A-Za-z0-9\u00C0-\u00FF\u0100-\u02AF®-])",
-                r"\1\2 \3", text, re.S | re.M)
+        target_content = re.sub(rf"({self.english})(<.*?>)({self.english})",
+                                r"\1 \2\3", text, 0, re.S | re.M)
+        # 处理英文括号可能是单位的情况
+        target_content = re.sub(r"([0-9]) (\()", r"\1\2", target_content, 0, re.S | re.M)
         return target_content
 
     @_for_loop
@@ -84,6 +88,17 @@ class StyleGuide:
             original_text = item.group(0)
             content = original_text.strip("()（）")
 
+            # 处理内层嵌套括号，暂时没有想到更好的办法
+            for item_2 in re.finditer(self.brackets_pattern, content):
+                original_text_2 = item_2.group(0)
+                content_2 = original_text_2.strip("()（）")
+                if self.chinese_pattern.search(content_2):
+                    corrected_text_2 = f'（{content_2}）'
+                    content = content.replace(original_text_2, corrected_text_2)
+                elif self.english_pattern.search(content_2):
+                    corrected_text_2 = f' ({content_2}) '
+                    content = content.replace(original_text_2, corrected_text_2)
+
             if self.chinese_pattern.search(content):
                 corrected_text = f'（{content}）'
                 target_content = target_content.replace(original_text, corrected_text)
@@ -92,13 +107,18 @@ class StyleGuide:
                 target_content = target_content.replace(original_text, corrected_text)
 
         # 删除英文括号两边多余的空格
-        target_content = re.sub(r"(\s+)(\s[()])", r"\2", target_content, re.S | re.M)
-        target_content = re.sub(r"([()]\s)(\s+)", r"\1", target_content, re.S | re.M)
+        target_content = re.sub(r"(\s+)(\s[()])", r"\2", target_content, 0, re.S | re.M)
+        target_content = re.sub(r"([()]\s)(\s+)", r"\1", target_content, 0, re.S | re.M)
         # 删除中文标点符号两段的空格
-        target_content = re.sub(r"([ \r\f\v]+)([，。！？：；“”（）《》、])", r"\2", target_content,
-                                re.M)
-        target_content = re.sub(r"([，。！？：；“”（）《》、])([ \r\f\v]+)", r"\1", target_content,
-                                re.M)
+        target_content = re.sub(fr"([ \r\f\v]+)(<.*?>)({self.Chinese_punctuation})", r"\2\3", target_content,
+                                0, re.S | re.M)
+        target_content = re.sub(fr"({self.Chinese_punctuation})(<.*?>)([ \r\f\v]+)", r"\1\2", target_content,
+                                0, re.S | re.M)
+        target_content = re.sub(fr"([ \r\f\v]+)({self.Chinese_punctuation})", r"\2", target_content,
+                                0, re.S | re.M)
+        target_content = re.sub(fr"({self.Chinese_punctuation})([ \r\f\v]+)", r"\1", target_content,
+                                0, re.S | re.M)
+
         return target_content
 
     def _action(self, action):
@@ -109,6 +129,7 @@ class StyleGuide:
         elif action == "3":
             self._correct_spaces()
             self._correct_brackets()
+            self._correct_spaces()
         else:
             raise SystemExit
 
@@ -121,6 +142,6 @@ class StyleGuide:
 
 
 if __name__ == '__main__':
-    file = "./test.txlf"
-    output = "./test_output.txlf"
+    file = "./orig.txlf"
+    output = "./orig_output.txlf"
     StyleGuide(file, output).main()

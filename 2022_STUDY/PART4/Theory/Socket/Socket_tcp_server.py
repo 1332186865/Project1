@@ -6,7 +6,7 @@ import socket
 sockfd = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
 
 # 绑定地址
-sockfd.bind(('0.0.0.0', 8889))
+sockfd.bind(('0.0.0.0', 8888))
 
 # 设置监听
 sockfd.listen(5)
