@@ -3,8 +3,8 @@
 from socket import socket
 
 s = socket()
-# s.bind(('0.0.0.0', 8888))
-s.bind(('192.168.0.186', 28888))  # 接收端地址
+s.bind(('0.0.0.0', 8888))
+# s.bind(('192.168.0.186', 28888))  # 接收端地址
 s.listen(5)
 
 c, addr = s.accept()

@@ -87,6 +87,20 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="\Machine Learning\课件\Day 4\flight\air_data.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\Machine Learning\课件\Day 4\flight\data_cleaned.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="\Machine Learning\课件\Day 4\flight\explore.csv">
           <value>
             <Attribute>

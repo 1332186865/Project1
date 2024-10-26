@@ -2,7 +2,7 @@
 #  -*- coding=utf-8 -*-
 from socket import *
 
-host = '192.168.0.186'
+host = '0.0.0.0'
 
 # 创建数据报套接字
 sockfd = socket(AF_INET, SOCK_DGRAM)

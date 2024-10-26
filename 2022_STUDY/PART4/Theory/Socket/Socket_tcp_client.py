@@ -3,7 +3,7 @@
 import socket
 
 # 创建TCP套接字
-sockfd = socket.socket()
+sockfd = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
 
 # 发起连接
 server_addr = ('127.0.0.1', 8888)

@@ -3,8 +3,8 @@
 from socket import socket
 
 s = socket()
-# s.connect(('0.0.0.0', 8888))
-s.connect(('192.168.0.190', 28888))  # 接收方
+s.connect(('127.0.0.1', 8888))
+# s.connect(('192.168.0.190', 28888))  # 接收方
 
 f = open('Picture_1.jpg', 'rb')
 

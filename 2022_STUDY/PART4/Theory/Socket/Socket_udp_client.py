@@ -4,7 +4,7 @@ from socket import *
 
 # 服务器地址
 # host = '0.0.0.0'
-host = '192.168.0.186'
+host = '127.0.0.1'
 port = 8888
 addr = (host, port)
 
@@ -18,7 +18,7 @@ while True:
         break
     sockfd.sendto(data.encode(), addr)
     msg, addr1 = sockfd.recvfrom(1024)
-    print('From server:', msg.decode())
+    print(f'From server {addr1}:', msg.decode())
 
 # 关闭套接字
 sockfd.close()

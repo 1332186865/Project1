@@ -11,7 +11,7 @@ def 杨子荣():
     print("杨子荣前来拜山头")
     global s
     s = "天王盖地虎"
-    sleep(1)
+    # sleep(1)
     e.set()
 
 
@@ -22,7 +22,7 @@ e.wait()
 print(s)
 
 if s == "天王盖地虎":
-    sleep(1)
+    # sleep(1)
     print("宝塔镇河妖")
     print("确认过眼神,你是对的人")
 else:
