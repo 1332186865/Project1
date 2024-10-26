@@ -41,6 +41,7 @@
       <excludeFolder url="file://$MODULE_DIR$/2023_STUDY/PART1/Exercise/website_spider/African_web_index/orig_web_data" />
       <excludeFolder url="file://$MODULE_DIR$/2024_STUDY/PART1/Web_collection/google_website" />
       <excludeFolder url="file://$MODULE_DIR$/2024_STUDY/PART1/Web_collection/tsv" />
+      <excludeFolder url="file://$MODULE_DIR$/2024_STUDY/PART2/Style Guide/.ipynb_checkpoints" />
     </content>
     <orderEntry type="jdk" jdkName="Python 3.10 (pytorch)" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
